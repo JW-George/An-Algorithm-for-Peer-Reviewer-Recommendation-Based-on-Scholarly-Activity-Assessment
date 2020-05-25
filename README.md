@@ -3,8 +3,6 @@ An Algorithm for Peer Reviewer Recommendation Based on Scholarly Activity Assess
 
 ---
 
-## An-Algorithm-for-Peer-Reviewer-Recommendation
-
 ### Abstract
 > The editors make great efforts to select appropriate judges for fair and reliable peer review of submitted manuscripts. The editor considers whether the reviewer and authors have a stake in the interest, as well as whether the reviewer has sufficient expertise in reviewing the manuscript. (Omit content) This code proposes a reviewer recommendation algorithm that recommends appropriate reviewers to editors based on the evaluation of these academic activities.
 
@@ -17,8 +15,9 @@ An Algorithm for Peer Reviewer Recommendation Based on Scholarly Activity Assess
 ### Contacts
 
 현진우, hyunjw0123@gmail.com
-한국외국어대학교 컴퓨터전자시스템공학부
-KYR_MachineLearing_LAB
+
+> 한국외국어대학교 컴퓨터전자시스템공학부\
+KYR_MachineLearing_LAB\
 SPELIX Inc. R&D Center
 
 
@@ -26,6 +25,5 @@ SPELIX Inc. R&D Center
 
 * 심사자 추천 코드는 원저자의 정책과 동일하게 Apache-2.0 라이선스 하에 공개되어 있습니다.
 * 본 코드는 비상업적 목적으로 한정합니다. 상업적인 목적을 위해서는 위의 Contacts로 연락해 주세요.
-* 본 코드에 수정한 코드의 경우에도 비상업적 목적으로 한정합니다. 상업적인 목적을 위해서는 위의 Contacts로 연락해 주세요.
+* 본 코드에 추가/수정한 코드의 경우에도 비상업적 목적으로 한정합니다. 상업적인 목적을 위해서는 위의 Contacts로 연락해 주세요.
 * 심사자 추천 기술 적용 및 협업 등의 문의를 환영합니다.
-
