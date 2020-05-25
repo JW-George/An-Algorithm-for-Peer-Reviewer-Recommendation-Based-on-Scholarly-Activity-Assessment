@@ -1,0 +1,372 @@
+reviewer_orcid,reviewer_name,reviewer_coauthor1_name,reviewer_coauthor1_id,reviewer_coauthor2_name,reviewer_coauthor2_id,reviewer_coauthor3_name,reviewer_coauthor3_id,reviewer_coauthor4_name,reviewer_coauthor4_id,reviewer_coauthor5_name,reviewer_coauthor5_id,reviewer_coauthor6_name,reviewer_coauthor6_id,reviewer_coauthor7_name,reviewer_coauthor7_id,reviewer_coauthor8_name,reviewer_coauthor8_id,reviewer_coauthor9_name,reviewer_coauthor9_id,reviewer_coauthor10_name,reviewer_coauthor10_id,reviewer_coauthor_title_doi,reviewer_coauthor_title
+915,Hugo Firth,Paolo Missier,1132, Jack Aiston,244,,,,,,,,,,,,,,,,,,Loom: Query-aware Partitioning of Online Graphs
+1177,Raphael Bonaque,Bogdan Cautis,754, Franois Goasdoue,179, Ioana Manolescu,239,,,,,,,,,,,,,,,,"Social, Structured and Semantic Search"
+950,Jiang Du,Boris Glavic,756, Wei Tan,600, Renee J. Miller,475,,,,,,,,,,,,,,,,DeepSea: Progressive Workload-Aware Partitioning of Materialized Views in Scalable Data Analytics
+897,Haohan Zhu,Xianrui Meng,1307, George Kollios,197,,,,,,,,,,,,,,,,,,Privacy Preserving Similarity Evaluation of Time Series Data
+1135,Paras Mehta ,Dimitris Sacharidis,817, Dimitrios Skoutas,145, Agnos Voisard,18,,,,,,,,,,,,,,,,Finding Socio-Textual Associations Among Locations
+791,Daichi Amagata,Takahiro Hara,1244,,,,,,,,,,,,,,,,,,,,Monitoring MaxRS in Spatial Data Streams
+1099,Muhammad Farhan,Qing Wang,1162, Yu Lin,662,,,,,,,,,,,,,,,,,,A Highly Scalable Labelling Approach for Exact Distance Queries in Complex Networks
+814,Dimitrios Karapiperis,Dinusha Vatsalan,821, Vassilios S. Verykios,580, Peter Christen,443,,,,,,,,,,,,,,,,Efficient Record Linkage Using a Compact Hamming Space
+1279,Vijay Ingalalli,Dino Ienco,820, Pascal Poncelet,439, Serena Villata,506,,,,,,,,,,,,,,,,Querying RDF Data Using A Multigraph-based Approach
+1136,Parth Nagarkar,K. Seluk Candan,977,,,,,,,,,,,,,,,,,,,,HCS: Hierarchical Cut Selection for Efficiently Processing Queries on Data Columns using Hierarchical Bitmap
+728,Anupam Sanghi,Raghav Sood,1171, Jayant Haritsa,254, Srikanta Tirthapura,527,,,,,,,,,,,,,,,,Scalable and Dynamic Regeneration of Big Data Volumes
+789,Cristian Consonni,Paolo Sottovia,1134, Alberto Montresor,22, Yannis Velegrakis,651,,,,,,,,,,,,,,,,Discovering Order Dependencies through Order Compatibility
+779,Christina Pavlopoulou,E. Preston Carman. Jr,828, Till Westmann,562, Michael J. Carey,386, Vassilis J. Tsotras,582,,,,,,,,,,,,,,A Parallel and Scalable Processor for JSON Data
+1273,Vasilis Samoladas,Minos Garofalakis,1084,,,,,,,,,,,,,,,,,,,,Functional Geometric Monitoring for Distributed Streams
+718,Angela Bonifati,Radu Ciucanu,1166, Aurelien Lemay,61,,,,,,,,,,,,,,,,,,Learning Path Queries on Graph Databases
+792,Damian Bursztyn,Francois Goasdoue,869, Ioana Manolescu,239,,,,,,,,,,,,,,,,,,Optimizing Reformulation-based Query Answering in RDF
+1000,Konstantina Bereta,Herve Caumont,905, Ulrike Daniels,576, Daems Dirk,120, Erwin Goor,170, Manolis Koubarakis,362, Despina-Athanasia Pantazi,141, George Stamoulis,198, Sam Ubels,495, Valentijn Venus,579,,,,The Copernicus App Lab project: Easy Access to Copernicus Data
+938,Jennie Duggan,Olga Papaemmanouil,1121, Ugur Cetintemel,574, Eli Upfal,162,,,,,,,,,,,,,,,,Contender: A Resource Modeling Approach for Concurrent Query Performance Prediction
+1112,Nikos Bikakis,Vana Kalogeraki,1271,,,,,,,,,,,,,,,,,,,,Attendance Maximization for Successful Social Event Planning
+1150,Philipp Schirmer,Thorsten Papenbrock,1258, Sebastian Kruse,502, Dennis Hempfing,140, Torben Meyer,570, Daniel Neusch,125,,,,,,,,,,,,DynFD: Functional Dependency Discovery in Dynamic Datasets
+941,Jens Ehrlich,Mandy Roick,1044, Lukas Schulze,349, Jakob Zwiener,246, Thorsten Papenbrock,561, Felix Naumann,174,,,,,,,,,,,,Holistic Data Profiling: Simultaneous Discovery of Various Metadata
+690,Aggeliki Dimitriou,Ananya Dass,713, Dimitri Theodoratos,144, Yannis Vassiliou,650,,,,,,,,,,,,,,,,Cohesive Keyword Search on Tree Data
+785,Chuan Lei,Elke A. Rundensteiner,834, Mohamed Y. Eltabakh,398,,,,,,,,,,,,,,,,,,Redoop: Supporting Recurring Queries in Hadoop
+1220,Souripriya Das,Jagannathan Srinivasan,928, Matthew Perry ,377,,,,,,,,,,,,,,,,,,A Tale of Two Graphs: Property Graphs as RDF in Oracle
+1349,Yu Lu,Shili Xiang,1208, Wei Wu ,603,,,,,,,,,,,,,,,,,,"Taxi Queue, Passenger Queue or No Queue? A Queue Detection and Analysis System using Taxi State Transition"
+1189,Rohan Khade,Jessica Lin,944, Nital Patel ,426,,,,,,,,,,,,,,,,,,Finding Contrast Patterns for Mixed Streaming Data
+1374,Zhao Cao,Shimin Chen,1209, Dongzhe Ma,154, Jianhua Feng,272, Min Wang ,392,,,,,,,,,,,,,,Efficient and Flexible Index Access in MapReduce
+770,Chen Luo,Pinar Tozun,1152, Yuanyuan Tian,664, Ronald Barber,486, Vijayshankar Raman,584, Richard Sidle ,480,,,,,,,,,,,,Umzi: Unified Multi-Zone Indexing for Large-Scale HTAP
+1207,Shi Gao,Jiaqi Gu,1392,Carlo Zaniolo,92,,,,,,,,,,,,,,,,,,"RDF-TX: A Fast, User-Friendly System for Querying the History of RDF Knowledge Bases"
+1181,Rene R Veloso,Loic Cerf,1026, Wagner Meira Jr,592, Mohammed J. Zaki ,399,,,,,,,,,,,,,,,,Reachability Queries in Very Large Graphs: A Fast Refined Online Search Approach
+250,James Wagner,Alexander Rasin,701, Karen Heart,310, Tanu Malik,551, Jacob Furst,245, Jonathan Grier ,296,,,,,,,,,,,,Detecting Database File Tampering through Page Carving
+1266,Tova Milo,Slava Novgorodov,1216, Wang-Chiew Tan ,594,,,,,,,,,,,,,,,,,,Interactive Rule Refinement for Fraud Detection
+1109,Nicole Bidoit,Melanie Herschel,1069, Katerina Tzompanaki ,311,,,,,,,,,,,,,,,,,,Query-Based Why-Not Provenance with NedExplain 
+1253,Theodoros Chondrogiannis,Panagiotis Bouros,1129, Johann Gamper,290, Ulf Leser ,575,,,,,,,,,,,,,,,,Exact and Approximate Algorithms for Finding k-Shortest Paths with Limited Overlap
+851,Faisal Nawab,Divyakant Agrawal,822, Amr El Abbadi,37, Sanjay Chawla ,499,,,,,,,,,,,,,,,,COP: Planning Conflicts for Faster Parallel Transactional Machine Learning
+987,Ke Wang,Chao Han,764, Ada Waichee Fu,15, Raymond Chi Wing,472, Philip S. Yu ,446,,,,,,,,,,,,,,Reconstruction Privacy: Enabling Statistical Learning
+783,Christophe Claramunt,Cyril Ray,790,  Lo?c Salmon ,8, Elena Camossi,161, Melita Hadzagic,385, Anne-Laure Jousselme ,50, Gennady Andrienko,190, Natalia Andrienko ,412, Yannis Theodoridis,648, George A. Vouros,193,,,,Maritime Data Integration and Analysis:  Recent Progress and Research Challenges
+1367,Yuyang Dong,Hanxiong Chen,896, Jeffrey Xu Yu,258, Kazutaka Furuse,313, Hiroyuki Kitagawa ,226,,,,,,,,,,,,,,Grid-Index Algorithm for Reverse Rank Queries
+1255,Thomas Heinis,Farhan Tauheed,856,  Anastasia Ailamaki  ,2,,,,,,,,,,,,,,,,,,Spatial Data Management Challenges in the Simulation Sciences
+780,Christodoulos Efstathiades,Alexandros Belesiotis,702, Dimitrios Skoutas,145, Dieter Pfoser ,143,,,,,,,,,,,,,,,,Similarity Search on Spatio-Textual Point Sets
+1348,Yu Li,Eric Lo,839, Man Lung Yiu,356, Wenjian Xu ,608,,,,,,,,,,,,,,,,Query Optimization over Cloud Data Market
+1211,Shiwen Cheng,Marek Chrobak,1052, Vagelis Hristidis ,578,,,,,,,,,,,,,,,,,,Slowing the Firehose: Multi-Dimensional Diversity on Social Post Streams
+806,David Luaces,Jose R.R. Viqueira,967, Tomas F. Pena,568, Jose M. Cotos ,298,,,,,,,,,,,,,,,,Leveraging Bitmap Indexing for Subgraph Searching
+703,Alexandros Efentakis, ,,,,,,,,,,,,,,,,,,,,,Scalable Public Transportation Queries on the Database
+1269,Udayan Khurana,Amol Deshpande ,711,,,,,,,,,,,,,,,,,,,,Storing and Analyzing Historical Graph Data at Scale
+1332,Yaser Oulabi,Christian Bizer ,777,,,,,,,,,,,,,,,,,,,,Extending Cross-Domain Knowledge Bases with Long Tail Entities using Web Table Data
+1104,Nathalie Charbel,Joe Tekli,964, Richard Chbeir,477, Gilbert Tekli ,204,,,,,,,,,,,,,,,,Resolving XML Semantic Ambiguity
+1115,Nikos Pelekis,Panagiotis Tampakis,1130, Marios Vodas,370, Costas Panagiotakis,113, Yannis Theodoridis ,649,,,,,,,,,,,,,,In-DBMS Sampling-based Sub-trajectory Clustering
+1366,Yuya Sasaki,Yasuhiro Fujiwara,1333, Makoto Onizuka ,355,,,,,,,,,,,,,,,,,,Efficient Network Reliability Computation in Uncertain Graphs
+1308,Xiaodong Li,Reynold Cheng,1182, Yixiang Fang,658, Jiafeng Hu,265, Silviu Maniu  ,519,,,,,,,,,,,,,,Scalable Evaluation of k-NNQueries on Large Uncertain Graphs
+717,Andrey Gubichev,Thomas Neumann ,1257,,,,,,,,,,,,,,,,,,,,Exploiting the query structure for efficient join ordering in SPARQL queries
+1358,Yudian Zheng,Reynold Cheng,1182, Silviu Maniu,518, Luyi Mo ,351,,,,,,,,,,,,,,,,On Optimality of Jury Selection in Crowdsourcing
+803,David Broneske,Sebastian Bress,1200, Max Heimel,380, Gunter Saake ,211,,,,,,,,,,,,,,,,Toward Hardware-Sensitive Database Operations
+1127,Pablo Barrio,Goncalo Simoes ,883, Helena Galhardas,225, Luis Gravano ,348,,,,,,,,,,,,,,,,Learning to Rank Adaptively for Scalable Information Extraction
+698,Alberto Cordioli,Themis Palpanas ,1251,,,,,,,,,,,,,,,,,,,,An Automated System for Internet Pharmacy Verification
+682,Abdallah Arioua,Angela Bonifati¡ËO ,720,,,,,,,,,,,,,,,,,,,,User-guided Repairing of Inconsistent Knowledge Bases
+881,Gheorghi Guzun,Guadalupe Canahuate ,886,,,,,,,,,,,,,,,,,,,,Distributed query-aware quantization for high-dimensional similarity searches
+971,Julia Stoyanovich,Ke Yang,989, HV Jagadish ,235,,,,,,,,,,,,,,,,,,Online Set Selection with Fairness and Diversity Constraints
+1272,Vasilis Efthymiou,George Papadakis,876, Kostas Stefanidis,330, Vassilis Christophides ,581,,,,,,,,,,,,,,,,"MinoanER: Schema-Agnostic, Non-Iterative, Massively Parallel Resolution of Web Entities"
+1165,R. Uday Kiran,Haichuan Shang,890, Masashi Toyoda,376, Masaru Kitsuregawa ,375,,,,,,,,,,,,,,,,Discovering Recurring Patterns in Time Series
+1350,Yu Sun, Jianzhong Qi,279, Yu Zheng,663, Rui Zhang ,489,,,,,,,,,,,,,,,,K-Nearest Neighbor Temporal Aggregate Queries
+1097,Mostafa Ead,Herodotos Herodotou,904, Ashraf Aboulnaga,58, Shivnath Babu ,512,,,,,,,,,,,,,,,,PStorM: Profile Storage and Matching for Feedback-Based Tuning of MapReduce Jobs
+1013,Laura B. Kassner,Bernhard Mitschang ,749,,,,,,,,,,,,,,,,,,,,Exploring Text Classification for Messy Data: An Industry Use Case for Domain-Specific Analytics
+1286,Wai Kit Wong,Kwok Wai Wong,1009, Ho-Yin Yue ,227,,,,,,,,,,,,,,,,,,Optimizing Selection Processing for Encrypted Database using Past Result Knowledge Base
+1202,Sebastian Kruse,Paolo Papotti,1133, Felix Naumann ,175,,,,,,,,,,,,,,,,,,Estimating Data Integration and Cleaning Effort
+866,Foteini Katsarou,Nikos Ntarmos,1114, Peter Triantafillou ,445,,,,,,,,,,,,,,,,,,Subgraph Querying with Parallel Use of Query Rewritings and Alternative Algorithms
+1242,Sutanay Choudhury,Lawrence Holder,1014, George Chin,194, Khushbu Agarwal,323, John Feo ,294,,,,,,,,,,,,,,A Selectivity based approach to Continuous Pattern Detection in Streaming Graphs
+776,Chih-Ya Shen,Hong-Han Shuai,909, Kuo-Feng Hsu,333, Ming-Syan Chen ,396,,,,,,,,,,,,,,,,Task-Optimized Group Search for Social Internet of Things
+1175,Raman Grover,Michael J. Carey ,1074,,,,,,,,,,,,,,,,,,,,Data Ingestion in AsterixDB
+722,Anjan Kumar Amirishetty,Yunrui Li,1364, Tolga Yurek,567, Mahesh Girkar,354, Wilson Chan,615, Graham Ivey,206, Vsevolod Panteleenko,591, Ken Wong ,315,,,,,,,,Buddy Instance - A Mechanism for Increasing Availability  in Shared-Disk Clusters
+1122,Olga Poppe,Chuan Lei,785, Elke A. Rundensteiner,165, Dan Dougherty ,121,,,,,,,,,,,,,,,,Context-aware Event Stream Analytics
+826,Dritan Bleco,Yannis Kotidis ,1328,,,,,,,,,,,,,,,,,,,,Graph Analytics on Massive Collections of Small Graphs
+1045,Manish Kesarwani,Akshar Kaul,695, Prasad Naldurg,453, Sikhar Patranabis,517, Gagandeep Singh,184, Sameep Mehta,496, Debdeep Mukhopadhyay ,136,,,,,,,,,,Efficient Secure k-Nearest Neighbours over Encrypted Data
+1278,Victor Zakhary,Faisal Nawab,851, Divyakant Agrawal,150, Amr El Abbadi ,38,,,,,,,,,,,,,,,,Global-Scale Placement of Transactional Data Stores
+1324,Yang Wu,Cheng Long,773, Ada Wai-Chee Fu,14, Zitong Chen ,680,,,,,,,,,,,,,,,,Counting Edges with Target Labels in Online Social Networks via RandomWalk
+1231,Stephan M?ller,Anisoara Nica,721, Lars Butzmann,335, Stefan Klauck,535, Hasso Plattner ,223,,,,,,,,,,,,,,Using Object-Awareness to Optimize Join Processing in the SAP HANA Aggregate Cache
+907,Hoang Vu Nguyen,Klemens B?hm,998, Florian Becker,176, Bertrand Goldman,69, Georg Hinkel,192, Emmanuel M?ller ,166,,,,,,,,,,,,Identifying User Interests within the Data Space - a Case Study with SkyServer
+815,Dimitrios Skoutas,Dimitris Sacharidis ,818, Kostas Stamatoukos ,329,,,,,,,,,,,,,,,,,,Identifying and Describing Streets of Interest
+1081,Mingjie Tang,Yongyang Yu,1346, Walid G. Aref,593, Qutaibah M. Malluhi,459, Mourad Ouzzani ,404,,,,,,,,,,,,,,Efficient Processing of Hamming-Distance-Based Similarity-Search Queries Over MapReduce
+1318,Xingcan Cui,Xiaohui Yu,1309, Xiaofang Zhou,625, Jiong Guo ,288,,,,,,,,,,,,,,,,ID Repair for Trajectories with Transition Graphs
+985,Kasper Mullesgaard,Jens Laurits Pedersen,943, Hua Lu,232, Yongluan Zhou ,660,,,,,,,,,,,,,,,,Efficient Skyline Computation in MapReduce
+874,George A. Vouros,Elias Alevizos,833, Alexander Artikis,25, Georg Fuchs,191, Cyril Ray,118, Elena Camossi,161, David Scarlatti,133, Jose Manuel Cordero ,299,,,,,,,,Big Data Analytics for Time Critical Maritime and Aerial Mobility Forecasting
+1258,Thorsten Papenbrock,Felix Naumann ,860,,,,,,,,,,,,,,,,,,,,Data-driven Schema Normalization
+1096,Moritz Kaufmann,Manuel Then,1050, Alfons Kemper,31, Thomas Neumann ,559,,,,,,,,,,,,,,,,Parallel Array-Based Single- and Multi-Source Breadth First Searches on Large Dense Graphs
+1298,Wenlu Wang,Ji Zhang,945, Min-Te Sun,393, Wei-Shinn Ku ,606,,,,,,,,,,,,,,,,Efficient Parallel Spatial Skyline Evaluation Using MapReduce
+960,Jing Wang,Nikos Ntarmos,1114, Peter Triantafillou ,445,,,,,,,,,,,,,,,,,,Indexing Query Graphs to Speedup Graph Query Processing
+830,Efi Karra Taniskidou,George Papadakis,876, George Giannakopoulos,195, Manolis Koubarakis ,363,,,,,,,,,,,,,,,,Comparative Analysis of Content-based Personalized Microblog Recommendations [Experiments and Analysis]
+1056,Marios Meimaris,George Papastefanatos ,877, Panos Vassiliadis,435, Ioannis Anagnostopoulos ,241,,,,,,,,,,,,,,,,Efficient Computation of Containment and Complementarity in RDF Data Cubes
+1159,Puya Memarzia,Suprio Ray,1241, Virendra C. Bhavsar ,587,,,,,,,,,,,,,,,,,,A Six-dimensional Analysis of In-memory Aggregation
+903,Henrietta Dombrovskaya,Richard Lee ,1184,,,,,,,,,,,,,,,,,,,,Talking To The Database In A Semantically Rich Way
+816,Dimitris Bilidas,Manolis Koubarakis ,1047,,,,,,,,,,,,,,,,,,,,Scalable Parallelization of RDF Joins on Multicore Architectures
+836,Emre Sefer,Carl Kingsford ,759,,,,,,,,,,,,,,,,,,,,Convex Risk Minimization to Infer Networks from Probabilistic Diffusion Data at Multiple Scales
+956,Jiefeng Cheng,Qin Liu,1161, Zhenguo Li,673, Wei Fan,599, John C.S. Lui,293, Cheng He ,102,,,,,,,,,,,,VENUS: Vertex-Centric Streamlined Graph Computation on a Single PC
+804,David C. Anastasiu,Al M. Rashid,696, Andrea Tagarelli,43, George Karypis ,196,,,,,,,,,,,,,,,,Understanding Computer Usage Evolution 
+993,Kenneth Fuglsang Christensen,Lasse Linnerup Christiansen,1012, Torben Bach Pedersen,569, Jeppe Pihl ,264,,,,,,,,,,,,,,,,Searchlight: Context-Aware Predictive Continuous Querying of Moving Objects in Symbolic Space
+766,Charu C. Aggarwal,Philip S. Yu ,1148,,,,,,,,,,,,,,,,,,,,On Historical Diagnosis of Sensor Streams
+958,Jieying She,Yongxin Tong,1345, Lei Chen,336, Caleb Chen Cao ,89,,,,,,,,,,,,,,,,Conflict-Aware Event-Participant Arrangement
+1274,Vasilis Verroios,Hector Garcia-Molina ,901,,,,,,,,,,,,,,,,,,,,Entity Resolution with Crowd Errors
+1356,Yuchen Li,Zhifeng Bao,1382, Guoliang Li,212, Kian-Lee Tan ,327,,,,,,,,,,,,,,,,Real Time Personalized Search on Social Networks
+1145,Peter Macko,Virendra J. Marathe,1283, Daniel W. Margo,126, Margo I. Seltzer ,367,,,,,,,,,,,,,,,,LLAMA: Efficient Graph Analytics Using Large Multiversioned Arrays
+1203,Sebastian Schelter,Juan Soto,970, Volker Markl ,590, Douglas Burdick,155, Berthold Reinwald,68, Alexandre Ev?mievski ,28,,,,,,,,,,,,Efficient Sample Generation for Scalable Meta Learning
+1213,Siarhei Bykau,Flip Korn,862, Divesh Srivastava,148, Yannis Velegrakis ,652,,,,,,,,,,,,,,,,Fine-Grained Controversy Detection in Wikipedia
+1025,Lisi Chen,Gao Cong,871, Xin Cao,635, Kian-Lee Tan  ,328,,,,,,,,,,,,,,,,Temporal Spatial-Keyword Top-k Publish/Subscribe
+988,Ke Wu,Song Yang,1218, Kenny Q. Zhu ,319,,,,,,,,,,,,,,,,,,False Rumors Detection on Sina Weibo by Propagation Structures
+825,Dong-Wan Choi, Chin-Wan Chung ,108,,,,,,,,,,,,,,,,,,,,Nearest Neighborhood Search in Spatial Databases
+1289,Wei Feng,Chao Zhang,765, Wei Zhang,605, Jiawei Han,281, Jianyong Wang,276, Charu Aggarwal,99, Jianbin Huang ,271,,,,,,,,,,STREAMCUBE: Hierarchical Spatio-temporal Hashtag Clustering for Event Exploration over the Twitter Stream
+1191,Rong-Hua Li,Jeffrey Xu Yu,937, Lu Qin,346, Rui Mao,487, Tan Jin ,550,,,,,,,,,,,,,,On Random Walk Based Graph Sampling
+1315,Xin Huang,Hong Cheng,908, Lu Qin,346, Wentao Tian,611, Jeffrey Xu Yu ,259,,,,,,,,,,,,,,Querying K-Truss Community in Large and Dynamic Graphs
+734,Arko Provo Mukherjee,Pan Xu,1128, Srikanta Tirthapura ,528,,,,,,,,,,,,,,,,,,Mining Maximal Cliques from an Uncertain Graph
+1245,Takanori Maehara,Mitsuru Kusumoto,1087, Ken-ichi Kawarabayashi ,316,,,,,,,,,,,,,,,,,,Scalable SimRank Join Algorithm
+843,Erman Pattuk,Murat Kantarcioglu,1100, Huseyin Ulusoy,234, Bradley Malin ,84,,,,,,,,,,,,,,,,Privacy-Aware Dynamic Feature Selection
+1368,Zach Jorgensen,Ting Yu,1263, Graham Cormode ,205,,,,,,,,,,,,,,,,,,Conservative or Liberal? Personalized Differential Privacy
+1336,Yazhe Wang,Baihua Zheng ,746,,,,,,,,,,,,,,,,,,,,Preserving Privacy in Social Networks Against Connection Fingerprint Attacks
+1293,Wen Hua,Zhongyuan Wang,1383, Haixun Wang,217, Kai Zheng,307, Xiaofang Zhou ,626,,,,,,,,,,,,,,Short Text Understanding Through Lexical-Semantic Analysis
+1206,Shengzhi Xu,Sen Su,1204, Xiang Cheng,619, Zhengyi Li,674, Li Xiong ,339,,,,,,,,,,,,,,Differentially Private Frequent Sequence Mining via Sampling-based Candidate Pruning
+1163,Quan Pham,Tanu Malik,1247, Boris Glavic,82, Ian Foster ,236,,,,,,,,,,,,,,,,LDV: Light-weight Database Virtualization
+1378,Zheng Li,Tingjian Ge ,1264,,,,,,,,,,,,,,,,,,,,PIE: Approximate Interleaving Event Matching over Sequences 
+1059,Martin Kaufmann,Peter M. Fischer,1144, Norman May,427, Chang Ge,95, Anil K. Goel,48, Donald Kossmann ,152,,,,,,,,,,,,Bi-temporal Timeline Index: A Data Structure for Processing Queries on Bi-temporal Data
+1042,Majed Sahli,Essam Mansour,844, Tariq Alturkestani,554, Panos Kalnis ,434,,,,,,,,,,,,,,,,Automatic Tuning of Bag-of-Tasks Applications
+972,Julian Shun,Kanat Tangwongsan ,982,,,,,,,,,,,,,,,,,,,,"Multicore Triangle Computations Without Tuning Julian Shun1, Kanat Tangwongsan2"
+1066,Mehdi Kargar,Aijun An,693, Nick Cercone,419, Parke Godfrey,437, Jaroslaw Szlichta,252, Xiaohui Yu ,629,,,,,,,,,,,,Meaningful Keyword Search in Relational Databases with Large and Complex Schema
+1360,Yuhong Li,Leong Hou U,1019, Man Lung Yiu,356, Zhiguo Gong ,678,,,,,,,,,,,,,,,,Quick-Motif: An Efficient and Scalable Framework for Exact Motif Discovery
+735,Arlei Silva,Petko Bogdanov,1147, Ambuj K. Singh ,35,,,,,,,,,,,,,,,,,,Hierarchical In-Network Attribute Compression via Importance Sampling
+873,Ge Luo,Ke Yi,990, Siu-Wing Cheng,520, Zhenguo Li,673, Wei Fan,599, Cheng He,101, Yadong Mu ,642,,,,,,,,,,Piecewise Linear Approximation of Streaming Time Series Data with Max-error Guarantees
+1190,Rong Zhang,Zhenjie Zhang,1379, Xiaofeng He,627, Aoying Zhou ,55,,,,,,,,,,,,,,,,Dish Comment Summarization Based on Bilateral Topic Analysis
+1277,Victor Alvarez,Stefan Richter,1227, Xiao Chen,621, Jens Dittrich ,261,,,,,,,,,,,,,,,,A Comparison of Adaptive Radix Trees and Hash Tables
+723,Sudip Roy,Arnd Christian Ko,738, Igor Dvorkin,237, Manish Kumar ,360,,,,,,,,,,,,,,,,PerfAugur: Robust Diagnostics for Performance
+1029,Lu Chen,Yunjun Gao,1363, Xinhan Li,639, Christian S. Jensen,109, Gang Chen ,185,,,,,,,,,,,,,,Efficient Metric Indexing for Similarity Search 
+787,Chunyao Song,Tingjian Ge ,1264,,,,,,,,,,,,,,,,,,,,Window-Chained Longest Common Subsequence:  Common Event Matching in Sequences
+885,Gregory Buehrer,Roberto L. de Oliveira Jr.,1188, David Fuhry and Srinivasan Parthasarathy ,129,,,,,,,,,,,,,,,,,,Towards a Parameter-Free and Parallel Itemset Mining Algorithm in Linearithmic Time
+924,Ioannis Koltsidas,Slavisa Sarafijanovic,1217, Martin Petermann,373, Nils Haustein,425, Harald Seipp,221, Robert Haas,482, Jens Jelitto,262, Thomas Weigold,560, Edwin Childers,160, David Pease,132,,,,Seamlessly Integrating Disk and Tape in a Multi-tiered Distributed File System
+974,Jun Hou,Richi Nayak ,1185,,,,,,,,,,,,,,,,,,,,Robust Clustering of Multi-type Relational Data via a Heterogeneous Manifold Ensemble
+786,Chuanfei Xu,Bo Tang,753, Man Lung Yiu ,357,,,,,,,,,,,,,,,,,,Diversified Caching for Replicated Web Search Engines
+1024,Liping Peng,Vuk Ercegovac,1285, Kai Zeng,306, Peter J. Haas,444, Andrey Balmin,44, Yannis Sismanis ,647,,,,,,,,,,,,Groupwise Analytics via Adaptive MapReduce
+800,Daniel Schall,Theo H?rder ,1252,,,,,,,,,,,,,,,,,,,,Dynamic Physiological Partitioning on a Shared-Nothing Database Cluster
+948,Jian Dai,Bin Yang,752, Chenjuan Guo,106, Zhiming Ding ,679,,,,,,,,,,,,,,,,Personalized Route Recommendation using Big Trajectory Data
+906,Hina A. Khan,Mohamed A. Sharaf ,1089,,,,,,,,,,,,,,,,,,,,Progressive Diversification for Column-based Data Exploration Platforms
+1027,Long Yuan,Lu Qin,1032, Xuemin Lin,641, Lijun Chang,340, Wenjie Zhang ,610,,,,,,,,,,,,,,Diversified Top-K Clique Search
+1098,Muhammad Anis Uddin Nasir,Gianmarco De Francisci Morales,882, David Garc ?©¥a-Soriano,130, Nicolas Kourtellis,421, Marco Serafini ,365,,,,,,,,,,,,,,The Power of Both Choices: Practical Load Balancing for Distributed Stream Processing Engines
+1195,Saad Aljubayrin,Jianzhong Qi,954, Christian S. Jensen,109, Rui Zhang,488, Zhen He,670, Zeyi Wen ,669,,,,,,,,,,,,The Safest Path via Safe Zones 
+1082,Mingzhu Wei,Elke A. Rundensteiner,834, Murali Mani ,406,,,,,,,,,,,,,,,,,,INSURE: An Integrated Load Reduction Framework for XML Stream Processing
+1321,Yag ?©¥z Karg©¥n,Martin Kersten,1060, Stefan Manegold,536, Holger Pirk ,229,,,,,,,,,,,,,,,,The DBMS ? your Big Data Sommelier
+1304,Xian Li,Xin Luna Dong,1317, Kenneth B. Lyons,318, Weiyi Meng,607, Divesh Srivastava ,149,,,,,,,,,,,,,,Scaling up Copy Detection
+694,Akon Dey,Alan Fekete,697, Uwe Ro ?hm ,577,,,,,,,,,,,,,,,,,,Scalable Distributed Transactions across Heterogeneous Stores
+1186,Robert Brunel,Jan Finis,931, Gerald Franz,201, Norman May,427, Alfons Kemper,31, Thomas Neumann,558, Franz Faerber ,180,,,,,,,,,,Supporting Hierarchical Data in SAP HANA
+1063,Matteo Interlandi,Nan Tang ,1101,,,,,,,,,,,,,,,,,,,,Proof Positive and Negative in Data Cleaning
+916,Huiqi Hu,Yiqun Liu,1342, Guoliang Li,212, Jianhua Feng,272, Kian-Lee Tan ,327,,,,,,,,,,,,,,A Location-Aware Publish/Subscribe Framework for Parameterized Spatio-Textual Subscriptions
+1023,Ling Gu,Minqi Zhou,1085, Zhenjie Zhang,675, Ming-Chien Shan,395, Aoying Zhou,54, Marianne Winslett ,369,,,,,,,,,,,,Chronos: An Elastic Parallel Framework for Stream Benchmark Generation and Simulation
+769,Chen Jason Zhang,Lei Chen,1016, Yongxin Tong,661, Zheng Liu ,671,,,,,,,,,,,,,,,,Cleaning Uncertain Data with a Noisy Crowd
+1093,Mohammadreza Najafi,Mohammad Sadoghi,1092, Hans-Arno Jacobsen ,220,,,,,,,,,,,,,,,,,,Configurable Hardware-based Streaming Architecture using Online Programmable-Blocks
+893,Han Su,Kai Zheng,980, Kai Zeng,306, Jiamin Huang,266, Shazia Sadiq,509, Nicholas Jing Yuan,418, Xiaofang Zhou ,626,,,,,,,,,,Making Sense of Trajectory Data: A Partition-and-Summarization Approach
+1077,Michael Shekelyan,Gregor Josse ?,884, Matthias Schubert ,378,,,,,,,,,,,,,,,,,,Linear Path Skylines in Multicriteria Networks
+922,Inah Jeon,Evangelos E. Papalexakis,848, U Kang,571, Christos Faloutsos ,111,,,,,,,,,,,,,,,,HaTen2: Billion-scale Tensor Decompositions
+1267,Tuan-Anh Nguyen Pham,Xutao Li,1320, Gao Cong,187, Zhenjie Zhang ,676,,,,,,,,,,,,,,,,A General Graph-based Model for Recommendation in Event-based Social Networks
+981,Kaiqi Zhao,Gao Cong,871, Quan Yuan,458, Kenny Q. Zhu ,319,,,,,,,,,,,,,,,,SAR: A Sentiment-Aspect-Region Model for User Preference Analysis in Geo-tagged Reviews
+1344,Yongming Luo,George H.L. Fletcher,875, Jan Hidders,251, Paul De Bra ,440,,,,,,,,,,,,,,,,Efficient and scalable trie-based algorithms for computing set containment relations
+1142,Pericles de Oliveira,Altigran da Silva,705, Edleno de Moura ,157,,,,,,,,,,,,,,,,,,Ranking Candidate Networks of Relations to Improve Keyword Search over Relational Databases
+1306,Xiang Wang,Ying Zhang,1338, Wenjie Zhang,609, Xuemin Lin,641, Wei Wang ,602,,,,,,,,,,,,,,AP-Tree: Efficiently Support Continuous Spatial-Keyword Queries Over Stream
+1305,Xiang Ao,Ping Luo,1153, Chengkai Li,105, Fuzhen Zhuang,182, Qing He ,456,,,,,,,,,,,,,,Online Frequent Episode Mining
+1107,Nguyen Thanh Tam, Nguyen Quoc Viet Hung,417, Matthias Weidlich,379,  Karl Aberer ,7,,,,,,,,,,,,,,,,Result Selection and Summarization for Web Table Search
+1325,Yanhua Li,Jun Luo,975, Chi-Yin Chow,107, Kam-Lam Chan,308, Ye Ding,655, Fan Zhang ,172,,,,,,,,,,,,Growing the Charging Station Network for Electric Vehicles with Trajectory Data Analytics
+947,Jiajun Liu,Kun Zhao,1008, Philipp Sommer,447, Shuo Shang,516, Brano Kusy,85, Raja Jurdak ,463,,,,,,,,,,,,Bounded Quadrant System: Error-bounded Trajectory Compression on the Go
+732,Aristides Gionis,Michael Mathioudakis,1076, Antti Ukkonen ,53,,,,,,,,,,,,,,,,,,Bump hunting in the dark: Local discrepancy maximization on graphs
+887,Guanfeng Liu,Kai Zheng,980, Yan Wang,644, Mehmet A. Orgun,381, An Liu,39, Lei Zhao,337, Xiaofang Zhou ,626,,,,,,,,,,Multi-Constrained Graph Pattern Matching in Large-Scale Contextual Social Graphs
+1057,Marius Eich,Guido Moerkotte ,888,,,,,,,,,,,,,,,,,,,,Dynamic Programming: The Next Step
+878,Georgia Koutrika,Lei Liu,1017, Steve Simske ,539,,,,,,,,,,,,,,,,,,Generating Reading Orders over Document Collections
+952,Jianneng Cao,Fang-Yu Rao,853, Elisa Bertino,164, Murat Kantarcioglu ,407,,,,,,,,,,,,,,,,A Hybrid Private Record Linkage Scheme: Separating Differentially Private Synopses From Matching Records
+692,Ahmed Eldawy,Mohamed F. Mokbel ,1091,,,,,,,,,,,,,,,,,,,,SpatialHadoop: A MapReduce Framework for Spatial Data
+730,Arian Bar,Lukasz Golab,1037, Stefan Ruehrup,538, Mirko Schiavone,397, Pedro Casas ,442,,,,,,,,,,,,,,Cache-Oblivious Scheduling of Shared Workloads
+1376,Zhe Fan,Byron Choi,758, Jianliang Xu,274, Sourav S Bhowmick ,523,,,,,,,,,,,,,,,,Asymmetric Structure-Preserving Subgraph Queries for Large Graphs
+1119,Norases Vesdapunt,Hector Garcia-Molina ,901,,,,,,,,,,,,,,,,,,,,Identifying Users in Social Networks with Limited Information
+1246,Tanmoy Chakraborty,Natwar Modani,1105, Ramasuri Narayanam,465, Seema Nagar ,504,,,,,,,,,,,,,,,,DiSCern: A Diversified Citation Recommendation System for Scientific Queries
+1016,Lei Chen,Xin Lin,1316, Haibo Hu,216, Christian S. Jensen,109, Jianliang Xu ,275,,,,,,,,,,,,,,Answering Why-Not Questions on Spatial Keyword Top-k Queries
+1180,Renata Borovica-Gajic,Stratos Idreos,1234, Anastasia Ailamaki,41, Marcin Zukowski,364, Campbell Fraser ,91,,,,,,,,,,,,,,Smooth Scan: Statistics-Oblivious Access Paths
+1299,Wenqing Lin,Xiaokui Xiao,1310, Xing Xie,637, Xiao-Li Li ,623,,,,,,,,,,,,,,,,Network Motif Discovery: A GPU Approach
+1146,Petko Bakalov,Erik Hoel,842, Wee-Liang Heng ,598,,,,,,,,,,,,,,,,,,Time Dependent Transportation Network Models
+831,El Kindi Rezig,Eduard C. Dragut,829, Mourad Ouzzani,403, Ahmed K. Elmagarmid ,19,,,,,,,,,,,,,,,,Query-Time Record Linkage and Fusion over Web Databases
+1219,Songlin Hu,Wantao Liu,1288, Tilmann Rabl,564, Shuo Huang,515, Ying Liang,656, Zheng Xiao,672, Hans-Arno Jacobsen,219, Xubin Pei,640, Jiye Wang,289, ,,,,,DualTable: A Hybrid Storage Model for Update Optimization in Hive
+712,An Liu,Kai Zheng,980, Lu Li,345, Guanfeng Liu,210, Lei Zhao,337, Xiaofang Zhou ,626,,,,,,,,,,,,Efficient Secure Similarity Computation on Encrypted Trajectory Data
+889,Gunes Aluc,M. Tamer Ozsu,1039, Khuzaima Daudjee,324, Olaf Hartig ,428,,,,,,,,,,,,,,,,Executing Queries over Schemaless RDF Databases
+1340,Yingjun Wu,Kian-Lee Tan  ,997,,,,,,,,,,,,,,,,,,,,ChronoStream: Elastic Stateful Stream Computation in the Cloud
+961,Jinling Jiang,Hua Lu,913, Bin Yang,73, Bin Cui ,71,,,,,,,,,,,,,,,,Finding Top-k Local Users in Geo-Tagged Social Media Data
+1043,Manas Joglekar,Hector Garcia-Molina,900, Aditya Parameswaran ,17,,,,,,,,,,,,,,,,,,Comprehensive and Reliable Crowd Assessment Algorithms
+802,David B. Lomet,Faisal Nawab ,852,,,,,,,,,,,,,,,,,,,,High Performance Temporal Indexing on Modern Hardware
+683,Abdullah Mueen,Suman Nath,1237, Jie Liu ,283,,,,,,,,,,,,,,,,,,Fast Approximate Correlation for Massive Time-series Data
+1124,Oliver Kennedy,Suman Nath ,1238,,,,,,,,,,,,,,,,,,,,Jigsaw: Efficient Optimization Over Uncertain Enterprise Data
+688,Adam Silberstein,Jeff Terrace,934, Brian F. Cooper,86, Raghu Ramakrishnan ,461,,,,,,,,,,,,,,,,Feeding Frenzy: Selectively Materializing Users¡¯ Event Feeds
+1234,Stratos Idreos,Martin L. Kersten,1061, Stefan Manegold ,537,,,,,,,,,,,,,,,,,,Self-organizing Tuple Reconstruction in Column-stores
+1355,Yubao Wu, Ruoming Jin,490, Xiang Zhang ,620,,,,,,,,,,,,,,,,,,Fast and Unified Local Search for Random Walk Based K-Nearest-Neighbor Query in Large Graphs
+1301,Wolfgang Gatterbauer,Dan Suciu ,795,,,,,,,,,,,,,,,,,,,,Data Conflict Resolution Using Trust Mappings
+959,Jinbao Wang,Sai Wu,1196, Hong Gao,231, Jianzhong Li,277, Beng Chin Ooi ,63,,,,,,,,,,,,,,Indexing Multi-dimensional Data in a Cloud System
+1022,Liang Xu,Tok Wang Ling,1265,  Huayu Wu,5, Zhifeng Bao ,677,,,,,,,,,,,,,,,,DDE: From Dewey to a Fully Dynamic XML Labeling Scheme
+1379,Zhenjie Zhang,Marios Hadjieleftheriou,1055, Beng Chin Ooi,62, Divesh Srivastava ,149,,,,,,,,,,,,,,,,Bed-Tree: An All-Purpose Index Structure for String Similarity Search Based on Edit Distance
+1140,Per-Ake Larson,Cipri Clinciu,788, Eric N. Hanson,168, Artem Oks,57,  Susan L. Price,9, Srikumar Rangarajan,529, Aleksandras Surna,23, Qingqing Zhou ,457,,,,,,,,SQL Server Column Store Indexes
+996,Khaled Elmeleegy,Christopher Olston,784, Benjamin Reed ,66,,,,,,,,,,,,,,,,,,SpongeFiles: Mitigating Data Skew in MapReduce Using Distributed Memory
+918,Hyun Jin Moon,Carlo A. Curino,760, Carlo Zaniolo ,92,,,,,,,,,,,,,,,,,,Scalable Architecture and Query Optimization for Transaction-time DBs with Evolving Schemas
+714,Anastasia Ailamaki,Erietta Liarou,841, P¨Ï¡Ínar T,441, Danica Porobic,123, Iraklis Psaroudakis ,242,,,,,,,,,,,,,,How to Stop Under-Utilization and Love Multicores
+1021,Liang Jeff Chen,Yannis Papakonstantinou ,1329,,,,,,,,,,,,,,,,,,,,Context-sensitive Ranking for Document Retrieval
+761,Carsten Binnig,Stefan Hildenbrand,1226, Franz Farber ,181,,,,,,,,,,,,,,,,,,Dictionary-based Order-preserving String Compression for Main Memory Column Stores
+1235,Sudeepa Roy,Dan Suciu ,795,,,,,,,,,,,,,,,,,,,,A Formal Approach to Finding Explanations for Database Queries
+793,Dan Olteanu, Jiewen Huang ,284,,,,,,,,,,,,,,,,,,,,Secondary-Storage Confidence Computation for Conjunctive Queries with Inequalities
+1080,Milos Nikolic,Mohammed ElSeidy,1094, Christoph Koch ,110,,,,,,,,,,,,,,,,,,LINVIEW: Incremental View Maintenance for Complex Analytical Queries
+1075,Michael J. Franklin,Donald Kossmann,824, Tim Kraska,565, Sukriti Ramesh,547, Reynold Xin ,476,,,,,,,,,,,,,,CrowdDB: Answering Queries with Crowdsourcing
+1334,Yasuko Matsubara,Yasushi Sakurai,1335, Christos Faloutsos ,111,,,,,,,,,,,,,,,,,,AutoPlait: Automatic Mining of Co-evolving Time Sequences
+933,Jeff LeFevre,Jagan Sankaranarayanan,927, Hakan Hac©¥g?m?s,218, Junichi Tatemura,304, Neoklis Polyzotis,416, Michael J. Carey ,387,,,,,,,,,,,,MISO: Souping Up Big Data Query Processing with a Multistore System
+1197,Sang-Won Lee,Bongki Moon,755, Chanik Park ,96,,,,,,,,,,,,,,,,,,Advances in Flash Memory SSD Technology for Enterprise Database Applications
+1294,Wenchao Zhou,Micah Sherr,1071, Tao Tao,553, Xiaozhou Li,632, Boon Thau Loo,81, Yun Mao ,667,,,,,,,,,,,,Efficient Querying and Maintenance of Network Provenance at Internet-Scale
+1337,Yijou Chen,Richard L. Cole,1183, William J. McKenna,614, Sergei Perfilov,507,  Aman Sinha,1, Eugene Szedenits Jr. ,171,,,,,,,,,,,,Partial Join Order Optimization in the ParAccel Analytic Database
+700,Alexander Kalinin,Ugur Cetintemel,1270, Stan Zdonik ,533,,,,,,,,,,,,,,,,,,Interactive Data Exploration Using Semantic Windows
+1164,Quoc Trung Tran,Chee-Yong Chan,767, Srinivasan Parthasarathy ,530,,,,,,,,,,,,,,,,,,Query by Output
+1260,Tilmann Zaschke,Christoph Zimmerli,782, Moira C. Norrie ,400,,,,,,,,,,,,,,,,,,The PH-Tree - A Space-Efficient Storage Structure and Multi-Dimensional Index
+1172,Rajendra Shinde,Ashish Goel,741, Pankaj Gupta,433, Debojyoti Dutta ,137,,,,,,,,,,,,,,,,Similarity Search and Locality Sensitive Hashing using Ternary Content Addressable Memories
+911,Hongzhi Yin,Bin Cui,751, Ling Chen,342,  Zhiting Hu,10,  Zi Huang ,11,,,,,,,,,,,,,,A Temporal Context-Aware Model for User Behavior Modeling in Social Media Systems
+1347,Yoshitaka Yamamoto,Koji Iwanuma,999, Shoshi Fukuda ,513,,,,,,,,,,,,,,,,,,Resource-oriented Approximation for Frequent Itemset Mining from Bursty Data Streams
+1088,Mohamed A. Sharaf,Panos K. Chrysanthis,1131, Alexandros Labrinidis,30, Cristiana Amza ,116,,,,,,,,,,,,,,,,Optimizing I/O-Intensive Transactions in Highly Interactive Applications
+939,Jennie Duggan ,Ugur Cetintemel,1270, Olga Papaemmanouil ,430, Eli Upfal ,163,,,,,,,,,,,,,,,,Performance Prediction for Concurrent Database Workloads
+1372,Zengfeng Huang,Lu Wang,1034,Ke Yi,990,Yunhao Liu,1362,,,,,,,,,,,,,,,,Sampling Based Algorithms for Quantile Computation in Sensor Networks
+1004,Kostas Zoumpatianos,Stratos Idreos,1234, Themis Palpanas ,556,,,,,,,,,,,,,,,,,,Indexing for Interactive Exploration of Big Data Series
+1095,Mona Ahuja ,Cheng Che Chen,772, Ravi Gottapu,469, J?rg Hallmann,243, Waqar Hasan,597, Richard Johnson,478, Maciek Kozyrczak,352, Ramesh Pabbati,467, Neeta Pandit,413, Sreenivasulu Pokuri,526, Krishna Uppala,331,,Peta-Scale Data Warehousing at Yahoo!
+864,Florian M. Waas,Joseph M. Hellerstein ,969,,,,,,,,,,,,,,,,,,,,Parallelizing Extensible Query Optimizers
+729,Aravind Yalamanchi,Dieter Gawlick ,813,,,,,,,,,,,,,,,,,,,,Compensation-Aware Data Types in RDBMS
+1117,Nitin Gupta,Lucja Kot,1035, Sudip Roy,544, Gabriel Bender,183, Johannes Gehrke,291, Christoph Koch ,110,,,,,,,,,,,,Entangled Queries: Enabling Declarative Data-Driven Coordination
+1067,Meihui Zhang,Marios Hadjieleftheriou,1055, Beng Chin Ooi,62, Cecilia M. Procopiuc,94, Divesh Srivastava ,149,,,,,,,,,,,,,,Automatic Discovery of Attributes in Relational Databases
+1210,Shiming Zhang,Nikos Mamoulis,1113, David W. Cheung ,135,,,,,,,,,,,,,,,,,,Scalable Skyline Computation Using Object-based Space Partitioning
+689,Aditya Parameswaran,Georgia Koutrika,878, Benjamin Bercovitz,64, Hector Garcia-Molina ,224,,,,,,,,,,,,,,,,Recsplorer: Recommendation Algorithms Based on Precedence Mining
+1233,Steven Euijong Whang,David Menestrina,807, Georgia Koutrika,199, Martin Theobald,374, Hector Garcia-Molina ,224,,,,,,,,,,,,,,Entity Resolution with Iterative Blocking
+1123,Oliver Arnold,Sebastian Haas,1201, Gerhard Fettweis ,202, Benjamin Schlegel,67, Thomas Kissinger,557, Wolfgang Lehner  ,617,,,,,,,,,,,,An Application-Specific Instruction Set for Accelerating Set-Oriented Database Primitives
+801,Daniel Tahara,Thaddeus Diamond,1248, Daniel J. Abadi ,124,,,,,,,,,,,,,,,,,,Sinew: A SQL System for Multi-Structured Data
+1276,Verena Kantere,Debabrata Dash,810, Georgios Gratsias,200, Anastasia Ailamaki ,42,,,,,,,,,,,,,,,,Predicting Cost Amortization for Query Services
+980,Kai Zheng,Pui Cheong Fung,1158, Xiaofang Zhou ,626,,,,,,,,,,,,,,,,,,K-Nearest Neighbor Search for Fuzzy Objects
+858,Fei Li,Tianyin Pan,1259, H. V. Jagadish ,214,,,,,,,,,,,,,,,,,,Schema-free SQL
+1015,Lei Chang,Zhanwei Wang,1373, Tao Ma,552, Lirong Jian,344, Lili Ma,341, Alon Goldshuv,33, Luke Lonergan,350, Jeffrey Cohen,255, Caleb Welton,90, Gavin Sherry Milind Bhandarkar,189,,,,HAWQ: A Massively Parallel Processing SQL Engine in Hadoop
+936,Jeffrey Pound,Stelios Paparizos,1229, Panayiotis Tsaparas ,432,,,,,,,,,,,,,,,,,,Facet Discovery for Structured Web Search: A Query-log Mining Approach
+898,Haopeng Zhang,Yanlei Diao,1327, Neil Immerman ,414,,,,,,,,,,,,,,,,,,On Complexity and Optimization of Expensive Queries in Complex Event Processing
+691,Ahmad Ghazal,Dawit Seid,809, Ramesh Bhashyam,466, Alain Crolotte ,20, Manjula Koppuravuri,361, Vinod G ,586,,,,,,,,,,,,Dynamic Plan Generation for Parameterized Queries
+923,Ioannis Alagiannis, Stratos Idreos,540, Anastasia Ailamaki ,42,,,,,,,,,,,,,,,,,,H2O: A Hands-free Adaptive Store
+733,Arjun Dasgupta,Nan Zhang,1102, Gautam Das,188, Surajit Chaudhuri ,549,,,,,,,,,,,,,,,,Privacy Preservation of Aggregates in Hidden Databases:  Why and How?
+835,Emad Soroush,Magdalena Balazinska,1040, Daniel Wang ,127,,,,,,,,,,,,,,,,,,ArrayStore: A Storage Manager for Complex Parallel Array Processing
+1086,Mirco Stern,Klemens B?hm,998, Erik Buchmann ,169,,,,,,,,,,,,,,,,,,Processing Continuous Join Queries in Sensor Networks:a Filtering Approach
+1359,Yufei Tao,Ke Yi,990, Cheng Sheng,104, Panos Kalnis ,434,,,,,,,,,,,,,,,,Quality and Efficiency in High Dimensional Nearest Neighbor Search
+1126,Orestis Polychroniou,Rajkumar Sen,1173, Kenneth A. Ross ,317,,,,,,,,,,,,,,,,,,Track Join: Distributed Joins with Minimal Network Traffic
+891,Haiquan Chen,Wei-Shinn Ku,1291, Haixun Wang,217, Min-Te Sun ,394,,,,,,,,,,,,,,,,Leveraging Spatio-Temporal Redundancy for RFID Data Cleansing
+1236,Sudipto Das,Yannis Sismanis,1330, Kevin S. Beyer,322, Rainer Gemulla,462, Peter J. Haas,444, John McPherson ,295,,,,,,,,,,,,Ricardo: Integrating R and Hadoop
+724,Anshuman Dutt,Jayant R. Haritsa ,932,,,,,,,,,,,,,,,,,,,,Plan Bouquets: Query Processing without Selectivity Estimation
+1275,Venu Satuluri,Srinivasan Parthasarathy,1223, Yiye Ruan ,659,,,,,,,,,,,,,,,,,,Local Graph Sparsification for Scalable Clustering
+727,Anup Chalamalla,Ihab F. Ilyas,920, Mourad Ouzzani,403, Paolo Papotti ,436,,,,,,,,,,,,,,,,Descriptive and Prescriptive Data Cleaning Anup Chalamalla1
+1377,Zhen Hua Liu,Thomas Baby,1254, Sukhendu Chakraborty,546, Junyan Ding,305, Anguel Novoselsky,45, Vikas Arora ,585,,,,,,,,,,,,Pay-As-You-Go ? An Adaptive Approach to Provide Full Context-Aware Text Search over Document Content
+819,Dimitris Tsirogiannis,Stavros Harizopoulos,1224, Mehul A. Shah ,383,,,,,,,,,,,,,,,,,,Analyzing the Energy Efficiency of a Database Server
+1341,Yingxia Shao,Lei Chen,1016, Bin Cui ,71,,,,,,,,,,,,,,,,,,Efficient Cohesive Subgraphs Detection in Parallel
+1215,Sihem Amer-Yahia,Jian Huang,949, Cong Yu ,112,,,,,,,,,,,,,,,,,,Building Community-Centric Information Exploration Applications on Social Content Sites
+1331,Yanyan Shen,Kaushik Chakrabarti,986, Surajit Chaudhuri,548, Bolin Ding,79, Lev Novik ,338,,,,,,,,,,,,,,Discovering Queries based on Example Tuples
+1280,Viktor Leis,Peter Boncz,1143, Alfons Kemper,31, Thomas Neumann ,559,,,,,,,,,,,,,,,,Morsel-Driven Parallelism: A NUMA-Aware Query Evaluation Framework for the Many-Core Age
+740,Arvind Arasu,Raghav Kaushik,1169, Jian Li ,268,,,,,,,,,,,,,,,,,,Data Generation using Declarative Constraints
+1384,Zitong Chen,Yubao Liu,1354, Raymond Chi-Wing Wong,473, Jiamin Xiong,267, Ganlin Mai,186, Cheng Long ,103,,,,,,,,,,,,Efficient Algorithms for Optimal Location Queries in Road Networks
+995,Khai Q. Tran,Jeffrey F. Naughton,935, Bruhathi Sundarmurthy,88, Dimitris Tsirogiannis ,147,,,,,,,,,,,,,,,,"JECB: a Join-Extension, Code-Based Approach to OLTP Data Partitioning"
+1351,Yu Xu,Pekka Kostamaa,1138, Yan Qi,643, Jian Wen,270, Kevin Keliang Zhao ,321,,,,,,,,,,,,,,A Hadoop Based Distributed Loading Approach to Parallel Data Warehouses
+1370,Zaiben Chen,Heng Tao Shen,902, Xiaofang Zhou,625, Yu Zheng,663, Xing Xie ,638,,,,,,,,,,,,,,Searching Trajectories by Locations - An Efficiency Study
+1281,Vinayak Borkar,Michael Carey,1073, Sebu Koleth,503, Alex Kotopoulis,24, Kautul Mehta,312, Joshua Spiegel,301, Sachin Thatte,492, Till Westmann ,563,,,,,,,,Graphical XQuery in the AquaLogic Data Services Platform
+1312,Xiaoyong Chai,Ba-Quy Vuong,745, AnHai Doan,46, Jeffrey F. Naughton ,256,,,,,,,,,,,,,,,,Efficiently Incorporating User Feedback into Information Extraction and Integration Programs
+1110,Nikolaus Augsten,Armando Miraglia,736, Thomas Neumann,558, Alfons Kemper ,32,,,,,,,,,,,,,,,,On-the-Fly Token Similarity Joins in Relational Databases
+1092,Mohammad Sadoghi,Hans-Arno Jacobsen ,895,,,,,,,,,,,,,,,,,,,,BE-Tree: An Index Structure to Efficiently Match Boolean Expressions over High-dimensional Discrete Space
+1303,Woon-Hak Kang,Sang-Won Lee,1197, Bongki Moon,80, Yang-Suk Kee,645, Moonwook Oh ,401,,,,,,,,,,,,,,Durable Write Cache in Flash Memory SSD for Relational and NoSQL Databases
+859,Feifei Li,Ke Yi,990, Jeffrey Jestes ,257,,,,,,,,,,,,,,,,,,Ranking Distributed Probabilistic Data Feifei Li1 Ke Yi2 Jeffrey Jestes1
+854,Fangjin Yang ,Eric Tschetter,840, Xavier L?aut?,618, Nelson Ray,415, Gian Merlino,203, Deep Ganguli ,138,,,,,,,,,,,,Druid A Real-time Analytical Data Store
+870,Gabriel Bender,¨©ucja Kot,1036, Johannes Gehrke ,292,,,,,,,,,,,,,,,,,,Explainable Security for Relational Databases
+832,Eli Cortez,Altigran S. da Silva,706, Marcos Andr? Gon?alves,366, Edleno S. de Moura ,159,,,,,,,,,,,,,,,,ONDUX: On-Demand Unsupervised Learning for Information Extraction
+846,Evan P. C. Jones,Daniel J. Abadi,798, Samuel Madden ,498,,,,,,,,,,,,,,,,,,Low Overhead Concurrency Control for Partitioned Main Memory Databases
+1256,Thomas Neumann, ,,,,,,,,,,,,,,,,,,,,,Query Simplification: Graceful Degradation for Join-Order Optimization
+955,Jie Xu,Dmitri V. Kalashnikov,823, Sharad Mehrotra ,508,,,,,,,,,,,,,,,,,,Efficient Summarization Framework for Multi-Attribute Uncertain Data
+812,Di Chen,Christian Konrad,778, Ke Yi,314, Wei Yu,604, Qin Zhang ,455,,,,,,,,,,,,,,Robust Set Reconciliation 
+1020,Lian Liu,Raymond Chi-Wing Wong ,1179,,,,,,,,,,,,,,,,,,,,Finding Shortest Path on Land Surface
+879,Georgios J. Fakas,Zhi Cai,1381, Nikos Mamoulis ,423,,,,,,,,,,,,,,,,,,Diverse and proportional Size-l Object Summaries for Relational Keyword Search
+978,Kai Ren,YongChul Kwon,1343, Magdalena Balazinska,353, Bill Howe ,70,,,,,,,,,,,,,,,,Hadoop's Adolescence An analysis of Hadoop usage in scientific workloads
+946,Jia Wang,James Cheng ,930,,,,,,,,,,,,,,,,,,,,Truss Decomposition in Massive Networks
+957,Jiexing Li,Arnd Christian Konig,739, Vivek Narasayya,588, Surajit Chaudhuri,548, Vivek Narasayya,588, Surajit Chaudhuri ,549,,,,,,,,,,,,Robust Estimation of Resource Consumption for SQL Queries using Statistical Techniques
+912,Houtan Shirani-Mehr,Farnoush Banaei-Kashani,857, Cyrus Shahabi ,119,,,,,,,,,,,,,,,,,,Efficient Reachability Query Evaluation in Large Spatiotemporal Contact Datasets
+1041,Maheswaran Sathiamoorthy,Megasthenis Asteris,1065, Dimitris Papailiopoulos,146, Alexandros G. Dimakis,29, Ramkumar Vadali,468, Scott Chen,500, Dhruba Borthakur ,142,,,,,,,,,,XORing Elephants: Novel Erasure Codes for Big Data
+771,Chen Zeng,Jeffrey F. Naughton,935, Jin-Yi Cai ,286,,,,,,,,,,,,,,,,,,On Differentially Private Frequent Itemset Mining
+855,Fanwei Zhu,Yuan Fang,1352, Kevin Chen-Chuan Chang,320, Jing Ying ,287,,,,,,,,,,,,,,,,Incremental and Accuracy-Aware Personalized PageRank through Scheduled Approximation
+1326,Yanif Ahmad,Oliver Kennedy,1124,  Christoph Koch,4, Milos Nikolic ,391,,,,,,,,,,,,,,,,"DBToaster: Higher-order Delta Processing for Dynamic, Frequently Fresh Views"
+1118,Nodira Khoussainova,Magdalena Balazinska,1040, Dan Suciu ,122,,,,,,,,,,,,,,,,,,PerfXplain: Debugging MapReduce Job Performance
+899,Harold Lim,Herodotos Herodotou,904, Shivnath Babu ,512,,,,,,,,,,,,,,,,,,Stubby: A Transformation-based Optimizer for MapReduce Workflows
+1314,Xin Cao,Lisi Chen,1025, Gao Cong,187, Xiaokui Xiao ,630,,,,,,,,,,,,,,,,Keyword-aware Optimal Route Search
+1160,Qiang Zeng,Xiaorui Jiang,1311, Hai Zhuge ,215,,,,,,,,,,,,,,,,,,Adding Logical Operators to Tree Pattern Queries on Graph-Structured Data
+844,Essam Mansour,Amin Allam,708, Spiros Skiadopoulos,524, Panos Kalnis ,434,,,,,,,,,,,,,,,,ERA: Efficient Serial and Parallel Suffix Tree Construction for Very Long Strings
+1068,Meiyu Lu,Divyakant Agrawal,822, Bing Tian Dai,74, Anthony K. H. Tung,51, atung@comp.nus.edu.sg ,60,,,,,,,,,,,,,,Schema-As-You-Go: On Probabilistic Tagging and Querying of Wide Tables
+1243,Svilen R. Mihaylov,Zachary G. Ives,1369, Sudipto Guha  ,545,,,,,,,,,,,,,,,,,,"REX: Recursive, Delta-Based Data-Centric Computation"
+1174,Rakesh Pimplikar,Sunita Sarawagi ,1240,,,,,,,,,,,,,,,,,,,,Answering Table Queries on the Web using Column Keywords
+796,Danica Porobic,Ippokratis Pandis,925, Miguel Branco,389, Pinar Tozun,449, Anastasia Ailamaki ,42,,,,,,,,,,,,,,OLTP on Hardware Islands
+750,Bin Cao,Antonio Badia ,726,,,,,,,,,,,,,,,,,,,,Efficient Implementation of Generalized Quantification in Relational Query Languages
+926,Iraklis Psaroudakis,Manos Athanassoulis,1049, Anastasia Ailamaki ,42,,,,,,,,,,,,,,,,,,Sharing Data and Work Across Concurrent Analytical Queries
+731,Arijit Khan,Yinghui Wu,1339, Charu C. Aggarwal,100, Xifeng Yan ,634,,,,,,,,,,,,,,,,NeMa: Fast Graph Search with Label Similarity
+1078,Michael T. Goodrich,Duy Nguyen,827, Olga Ohrimenko,429, Charalampos Papamanthou,97, Roberto Tamassia,484, Nikos Triandopoulos,424, Cristina Videira Lopes ,117,,,,,,,,,,Efficient Verification of Web-Content Searching Through Authenticated Web Crawlers
+1010,Kyriakos Mouratidis,HweeHwa Pang ,917,,,,,,,,,,,,,,,,,,,,Computing Immutable Regions for Subspace Top-k Queries
+774,Cheng Long,Raymond Chi-Wing Wong,1178, H. V. Jagadish ,214,,,,,,,,,,,,,,,,,,Direction-Preserving Trajectory Simplification
+1070,Miao Qiao, Lu Qin,346, Hong Cheng,230,  Jeffrey Xu Yu,6, Wentao Tian  ,612,,,,,,,,,,,,,,Top-K Nearest Keyword Search on Large Graphs
+1199,Sayan Ranu,Ambuj K. Singh ,707,,,,,,,,,,,,,,,,,,,,Answering Top-k Queries Over a Mixture of Attractive and Repulsive Dimensions
+1232,Stephen Tu,M. Frans Kaashoek,1038, Samuel Madden,497, Nickolai Zeldovich  ,420,,,,,,,,,,,,,,,,Processing Analytical Queries over Encrypted Data
+686,Ada Wai-Chee Fu,Huanhuan Wu,914, James Cheng,248, Raymond Chi-Wing Wong ,474,,,,,,,,,,,,,,,,IS-LABEL: an Independent-Set based Labeling Scheme for Point-to-Point Distance Querying
+1322,Yang Li,Pegah Kamousi,1137, Fangqiu Han,173, Shengqi Yang,511, Xifeng Yan,633, Subhash Suri ,543,,,,,,,,,,,,Memory Efficient Minimum Substring Partitioning
+1282,Vince Barany,Balder ten Cate,747, Martin Otto ,372,,,,,,,,,,,,,,,,,,Queries with Guarded Negation Vince Ba
+1046,Manoj K Agarwal,Krithi Ramamritham,1006, Manish Bhide ,359,,,,,,,,,,,,,,,,,,Real Time Discovery of Dense Clusters in Highly Dynamic Graphs:  Identifying Real World Events in Highly Dynamic Environments
+1239,Sumeet Bajaj,Radu Sion ,1167,,,,,,,,,,,,,,,,,,,,CorrectDB: SQL Engine with Practical Query Authentication
+973,Jun Gao,Ruoming Jin,1194, Jiashuai Zhou,280, Jeffrey Xu Yu,258, Xiao Jiang,622, Tengjiao Wang ,555,,,,,,,,,,,,Relational Approach for Shortest Path Discovery over Large Graphs
+744,Avraham Shinnar,David Cunningham,805, Benjamin Herta,65, Vijay Saraswat ,583,,,,,,,,,,,,,,,,M3R: Increased Performance for In-Memory Hadoop Jobs
+1149,Philipp Rosch,Lars Dannecker,1011, Gregor Hackenbroich,209, Franz Farber ,181,,,,,,,,,,,,,,,,A Storage Advisor for Hybrid-Store Databases 
+1030,Lu Li ,Chee-Yong Chan ,768,,,,,,,,,,,,,,,,,,,,Efficient Indexing for Diverse Query Results
+850,Fabian M. Suchanek,Serge Abiteboul,1205, Pierre Senellart ,448,,,,,,,,,,,,,,,,,,"PARIS: Probabilistic Alignment of Relations, Instances, and Schema"
+1353,Yuan Yuan,Rubao Lee,1193, Xiaodong Zhang ,624,,,,,,,,,,,,,,,,,,The Yin and Yang of Processing Data Warehousing Queries on GPU Devices
+1079,Milad Eftekhar,Nick Koudas ,1108,,,,,,,,,,,,,,,,,,,,Partitioning and Ranking Tagged Data Sources
+1157,Prasang Upadhyaya,Magdalena Balazinska,1040, Dan Suciu ,122,,,,,,,,,,,,,,,,,,How to Price Shared Optimizations in the Cloud
+1151,Phokion G. Kolaitis,Enela Pema,838, Wang-Chiew Tan¡ËO ,595,,,,,,,,,,,,,,,,,,Efficient Querying of Inconsistent Databases with Binary Integer Programming
+1051,Marco D. Adelfio,Hanan Samet ,894,,,,,,,,,,,,,,,,,,,,Schema Extraction for Tabular Data on the Web
+1228,Steffen Rendle, ,,,,,,,,,,,,,,,,,,,,,Scaling Factorization Machines to Relational Data
+1048,Manolis Terrovitis,John Liagouris,965, Nikos Mamoulis,422, Spiros Skiadopoulos ,525,,,,,,,,,,,,,,,,Privacy Preservation by Disassociation
+962,Jinsoo Lee,Wook-Shin Han,1302, Romans Kasperovics,485, Jeong-Hoon Lee ,263,,,,,,,,,,,,,,,,An In-depth Comparison of Subgraph Isomorphism Algorithms in Graph Databases
+984,Karl Schnaitter,Neoklis Polyzotis ,1106,,,,,,,,,,,,,,,,,,,,Semi-Automatic Index Tuning: Keeping DBAs in the Loop
+1250,Thanh T. L. Tran,Yanlei Diao,1327, Charles Sutton,98, Anna Liu ,49,,,,,,,,,,,,,,,,Supporting User-Defined Functions on Uncertain Data
+709,Amit Goyal,Francesco Bonchi,868, Laks V. S. Lakshmanan ,334,,,,,,,,,,,,,,,,,,A Data-Based Approach to Social Influence Maximization
+1054,Marina Barsky,Sangkyum Kim,1198, Tim Weninger,566, Jiawei Han ,282,,,,,,,,,,,,,,,,Mining Flipping Correlations from Large Datasets with Taxonomies
+775,Cheng Sheng,Nan Zhang,1102, Yufei Tao,665, Xin Jin ,636,,,,,,,,,,,,,,,,Optimal Algorithms for Crawling a Hidden Database in the Web
+754,Bogdan Cautis,Evgeny Kharlamov ,849,,,,,,,,,,,,,,,,,,,,Answering Queries using Views over Probabilistic XML: Complexity and Tractability
+1287,Wang Lam,Lu Liu,1031, STS Prasad,541, Anand Rajaraman,40, Zoheb Vacheri,681, AnHai Doan ,47,,,,,,,,,,,,Muppet: MapReduce-Style Processing of Fast Data
+921,Iman Elghandour,Ashraf Aboulnaga ,742,,,,,,,,,,,,,,,,,,,,ReStore: Reusing Results of MapReduce Jobs
+1230,Stephan Ewen,Kostas Tzoumas,1003, Moritz Kaufmann,402, Volker Markl ,590,,,,,,,,,,,,,,,,Spinning Fast Iterative Data Flows Stephan Ewen 1 Kostas Tzoumas 2 Moritz Kaufmann 3
+797,Daniel Fabbri,Kristen LeFevre ,1005,,,,,,,,,,,,,,,,,,,,Explanation-Based Auditing
+951,Jiannan Wang,Tim Kraska,1261, Michael J. Franklin,388, Jianhua Feng ,273,,,,,,,,,,,,,,,,CrowdER: Crowdsourcing Entity Resolution
+1386,Zsolt Istv?n,Louis Woods,1028, Gustavo Alonso ,213,,,,,,,,,,,,,,,,,,Histograms as a Side Effect of Data Movement for Big Data
+1120,Nurzhan Bakibayev,Dan Olteanu,793, Jakub Z¢¥avodn¢¥ ,247,,,,,,,,,,,,,,,,,,FDB: A Query Engine for Factorised Relational Databases
+762,Changbin Liu,Lu Ren,1033, Boon Thau Loo,81, Yun Mao,666, Prithwish Basu ,454,,,,,,,,,,,,,,Cologne: A Declarative Distributed Constraint Optimization Platform
+942,Jens Krueger,Changkyu Kim,763, Martin Grund,371, Nadathur Satish,409, David Schwalb,134, Jatin Chhugani,253, Hasso Plattner,222, Pradeep Dubey,450, Alexander Zeier,26, ,,,,,Fast Updates on Read-Optimized Databases Using Multi-Core CPUs
+699,Alekh Jindal,Endre Palatinus,837, Vladimir Pavlov,589, Jens Dittrich ,261,,,,,,,,,,,,,,,,A Comparison of Knives for Bread Slicing
+1295,Wenfei Fan,Floris Geerts,865, Frank Neven ,178,,,,,,,,,,,,,,,,,,Making Queries Tractable on Big Data with Preprocessing (through the eyes of complexity theory)
+1249,Thanh Nguyen,Viviane Moreira,1284, Huong Nguyen,233, Hoa Nguyen,228, Juliana Freire ,302,,,,,,,,,,,,,,Multilingual Schema Matching for Wikipedia Infoboxes
+1072,Michael A. Bender,Martin Farach-Colton,1058, Rob Johnson,481, Russell Kraner,491, Bradley C. Kuszmaul,83, Dzejla Medjedovic,156, Pablo Montes,431, Pradeep Shetty,451, Richard P. Spillane,479, Erez Zadok,167,,,,Don¡¯t Thrash: How to Cache Your Hash on Flash
+794,Dan R. K. Ports,Kevin Grittner ,994,,,,,,,,,,,,,,,,,,,,Serializable Snapshot Isolation in PostgreSQL
+687,Adam Marcus,Eugene Wu,845, David Karger,131, Samuel Madden,497, Robert Miller ,483,,,,,,,,,,,,,,Human-powered Sorts and Joins
+757,Brian E. Ruttenberg,Ambuj K. Singh ,707,,,,,,,,,,,,,,,,,,,,Indexing the Earth Mover¢® ?s Distance Using Normal Distributions
+976,K. Selc¢¬uk Candan,Rosaria Rossini,1192, Maria Luisa Sapino,368, Xiaolan Wang ,631,,,,,,,,,,,,,,,,sDTW: Computing DTW Distances using Locally Relevant Constraints based on Salient Feature Alignments
+880,Georgios Kellaris,Stavros Papadopoulos ,1225,,,,,,,,,,,,,,,,,,,,Practical Differential Privacy via Grouping and Smoothing
+929,James Cheng,Zechao Shang,1371, Hong Cheng,230, Haixun Wang,217, Jeffrey Xu Yu ,259,,,,,,,,,,,,,,K-Reach: Who is in Your Small World
+1154,Pirooz Chubak,Davood Rafiei ,808,,,,,,,,,,,,,,,,,,,,Efficient Indexing and Querying over Syntactically Annotated Trees
+1002,Konstantinos Mamouras,Sigal Oren,1214, Lior Seeman,343, Lucja Kot,347, Lucja Kot,347, Johannes Gehrke ,292,,,,,,,,,,,,The Complexity of Social Coordination
+1292,Weiguo Zheng,Lei Zou,1018, Yansong Feng,653, Lei Chen,336, Dongyan Zhao ,153,,,,,,,,,,,,,,Efficient SimRank-based Similarity Join Over Large Graphs 
+1357,Yucheng Low,Joseph Gonzalez,968, Aapo Kyrola,12, Danny Bickson,128, Carlos Guestrin,93, Joseph M. Hellerstein ,300,,,,,,,,,,,,Distributed GraphLab: A Framework for Machine Learning and Data Mining in the Cloud
+983,Karin Murthy,Prasad M Deshpande,1156, Atreyee Dey,59, Ramanujam Halasipuram,464, Mukesh Mohania,405, Deepak P,139, Jennifer Reed,260, Scott Schumacher ,501,,,,,,,,Exploiting Evidence from Unstructured Data to Enhance Master Data Management
+861,Feng Zhao,Anthony K. H. Tung ,725,,,,,,,,,,,,,,,,,,,,Large Scale Cohesive Subgraphs Discovery for Social Network Visual Analysis
+863,Florian Funke,Alfons Kemper,704, Thomas Neumann ,559,,,,,,,,,,,,,,,,,,Compacting Transactional Data in Hybrid OLTP&OLAP Databases
+1064,Mayank Sachan,Arnab Bhattacharya ,737,,,,,,,,,,,,,,,,,,,,Mining Statistically Significant Substrings using the Chi-Square Statistic
+1290,Wei Lu,Yanyan Shen,1331, Su Chen,542, Beng Chin Ooi ,63,,,,,,,,,,,,,,,,Efficient Processing of k Nearest Neighbor Joins using MapReduce
+1319,Xuan Liu,Meiyu Lu,1068, Beng Chin Ooi,62, Yanyan Shen,654, Sai Wu,493, Meihui Zhang ,384,,,,,,,,,,,,CDAS: A Crowdsourcing Data Analytics System
+1111,Nikolay Laptev,Kai Zeng,979, Carlo Zaniolo ,92,,,,,,,,,,,,,,,,,,Early Accurate Results for Advanced Analytics on MapReduce
+1365,Yupeng Fu,Raghav Kaushik,1169, Ravishankar ,471,,,,,,,,,,,,,,,,,,On Scaling Up Sensitive Data Auditing
+1116,Nilesh Dalvi,Ashwin Machanavajjhala,743, Bo Pang ,76,,,,,,,,,,,,,,,,,,An Analysis of Structured Data on the Web
+1176,Rani Qumsiyeh,Maria S. Pera,1053, Yiu-Kai Ng ,657,,,,,,,,,,,,,,,,,,Generating Exact- and Ranked Partially-Matched Answers to Questions in Advertisements
+1380,Zhepeng Yan,Nan Zheng,1103, Zachary G. Ives,668, Partha Pratim Talukdar,438, Cong Yu ,112,,,,,,,,,,,,,,Actively Soliciting Feedback for Query Answers in Keyword Search-Based Data Integration
+684,Abhay Jha,Dan Suciu ,795,,,,,,,,,,,,,,,,,,,,Probabilistic Databases with MarkoViews
+1375,Zhao Sun,Hongzhi Wang,910, Haixun Wang,217, Bin Shao,72, Jianzhong Li ,278,,,,,,,,,,,,,,Efficient Subgraph Matching on Billion Node Graphs
+867,Franc¢¬ois Goasdoue,Konstantinos Karanasos,1001, Julien Leblay,303, Ioana Manolescu ,240,,,,,,,,,,,,,,,,View Selection in Semantic Web Databases
+1187,Robert Isele,Christian Bizer ,777,,,,,,,,,,,,,,,,,,,,Learning Expressive Linkage Rules using Genetic Programming
+963,Joachim Selke,Christoph Lofi,781, Wolf-Tilo Balke ,616,,,,,,,,,,,,,,,,,,Pushing the Boundaries of Crowd-enabled Databases  with Query-driven Schema Expansion
+1300,Willis Lang,Stavros Harizopoulos,1224, Jignesh M. Patel,285, Mehul A. Shah,382, Dimitris Tsirogiannis ,147,,,,,,,,,,,,,,Towards Energy-Efficient Database Cluster Design
+890,Haichuan Shang,Masaru Kitsuregawa ,1062,,,,,,,,,,,,,,,,,,,,Skyline Operator on Anti-correlated Distributions
+919,Hyunjung Park,Jennifer Widom ,940,,,,,,,,,,,,,,,,,,,,Query Optimization over Crowdsourced Data
+1125,Joseph M. Hellerstein,U.C. Berkeley,1268, U. Wisconsin,573, Greenplum,208, U. Florida,572,,,,,,,,,,,,,,The MADlib Analytics Library
+1141,Per-?ke Larson,Spyros Blanas,1222, Cristian Diaconu,115, Craig Freedman,114, Jignesh M. Patel,285, Mike Zwilling ,390,,,,,,,,,,,,High-Performance Concurrency Control  Mechanisms for Main-Memory Databases
+1262,Ting Deng,Wenfei Fan ,1296,,,,,,,,,,,,,,,,,,,,On the Complexity of Query Result Diversification
+1168,Radu Stoica,Anastasia Ailamaki ,715,,,,,,,,,,,,,,,,,,,,Improving Flash Write Performance by Using Update Frequency
+1361,Yun Chi,Hakan Hac©¥gu ?mu ?s ,892, Wang-Pin Hsiung,596, Jeffrey F. Naughton ,256,,,,,,,,,,,,,,,,Distribution-Based Query Scheduling
+1323,Yang Wang,Peng Wang,1139, Jian Pei,269, Wei Wang,601, Sheng Huang ,510,,,,,,,,,,,,,,A Data-adaptive and Dynamic Segmentation Index for Whole Matching on Time Series 
+716,Andrew Pavlo,Evan P.C. Jones,847, Stanley Zdonik ,534,,,,,,,,,,,,,,,,,,On Predictive Modeling for Optimizing Transaction Execution in Parallel OLTP Systems

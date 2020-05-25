@@ -1,0 +1,373 @@
+reviewer_orcid,reviewer_name,reviewer_institution,reviewer_email,reviewer_advisor,reviewer_positive,reviewer_negative,count
+915,Hugo Firth,School of Computing Science Newcastle University,h.firth@ncl.ac.uk,,2,2,0
+1177,Raphael Bonaque,"INRIA & U. Paris-Sud, France",raphael.bonaque@inria.fr,,3,1,1
+950,Jiang Du,University of Toronto,jdu@cs.toronto.edu,,4,4,2
+897,Haohan Zhu,Department of Computer Science Boston University,zhu@cs.bu.edu,,5,2,3
+1135,Paras Mehta ,Freie Universit Berlin Germany  Dimitris Sacharidis Technische Universit?t Wien Austria,paras.mehta@fu-berlin.de dimitris@ec.tuwien.ac.at,,6,1,0
+791,Daichi Amagata,Department of Multimedia Engineering Graduate School of Information Science and Technology Osaka University,amagata.daichi@ist.osaka-u.ac.jp,,7,5,1
+1099,Muhammad Farhan,"Australian National University Canberra, Australia",muhammad.farhan@anu.edu.au,,9,2,3
+814,Dimitrios Karapiperis,"Hellenic Open University School of Science and Technology Patras, Greece",dkarapiperis@eap.gr,,10,2,0
+1279,Vijay Ingalalli,"LIRMM, IRSTEA Montpellier, France",vijay@lirmm.fr,,11,1,1
+1136,Parth Nagarkar,"School of Computing, Informatics, and Decision Systems Engineering Arizona State University Tempe, AZ 85287-8809, USA",nagarkar@asu.edu,,1,1,2
+728,Anupam Sanghi,"Indian Institute of Science Bangalore, India",anupam@dsl.cds.iisc.ac.in,,2,2,3
+789,Cristian Consonni,University of Trento,cristian.consonni@unitn.it,,3,1,0
+779,Christina Pavlopoulou,"University of California, Riverside",cpavl001@ucr.edu,,4,4,1
+1273,Vasilis Samoladas,"ECE, Technical University of Crete. IMIS, Athena R.C.",vsam@softnet.tuc.gr,,5,2,2
+718,Angela Bonifati,"University of Lille & INRIA, France",angela.bonifati@inria.fr,,6,1,3
+792,Damian Bursztyn,"INRIA, France, Universite Paris-Sud, France, Universite Rennes 1 France","damian.burstztyn@inria.fr, damian.burstztyn@irisa.fr",,7,5,0
+1000,Konstantina Bereta,National and Kapodistrian University of Athens Greece,konstantina.bereta@di.uoa.gr,,8,2,1
+938,Jennie Duggan,Brown University,jennie@cs.brown.edu,,9,2,2
+1112,Nikos Bikakis,Athens Univ. of Econ. & Bus. Greece,,,10,2,3
+1150,Philipp Schirmer,"bakdata GmbH Berlin, Germany",,,11,1,0
+941,Jens Ehrlich,"Hasso-Plattner-Institute (HPI), Potsdam, Germany",,,1,1,1
+690,Aggeliki Dimitriou,"School of Electrical and Computer Engineering National Technical University of Athens, Greece",,,2,2,2
+785,Chuan Lei,"Worcester Polytechnic Institute, Worcester, MA 01609, USA",,,3,1,3
+1220,Souripriya Das,"Oracle  One Oracle Drive, Nashua, NH 03062",,,4,4,0
+1349,Yu Lu,"Institute for Infocomm Research, A*STAR, Singapore",,,5,2,1
+1189,Rohan Khade,"George Mason University Fairfax, VA, USA",,,6,1,2
+1374,Zhao Cao,"IBM Research Beijing, China",,,7,5,3
+770,Chen Luo,"University of California, Irvine",,,8,2,0
+1207,Shi Gao,"University of California, Los Angeles",,,9,2,1
+1181,Rene R Veloso,"Universidade Est. Montes Claros, Brazil",,,11,1,3
+250,James Wagner,"DePaul University Chicago, Illinois",,,2,2,1
+1266,Tova Milo,Tel Aviv University,,,3,1,2
+1109,Nicole Bidoit,"Universite Paris Sud / Inria 91405 Orsay Cedex, France",,,4,4,3
+1253,Theodoros Chondrogiannis,Free University of Bozen-Bolzano,,,5,2,0
+851,Faisal Nawab,"Department of Computer Science University of California, Santa Barbara Santa Barbara, CA 93106",,,6,1,1
+987,Ke Wang,"Simon Fraser University, Singapore Management University",,,7,5,2
+783,Christophe Claramunt,"Naval Academy Res. Inst. Lanv?oc, France",,,8,2,3
+1367,Yuyang Dong,"Department of Computer Science University of Tsukuba Ibaraki, Japan",,,9,2,0
+1255,Thomas Heinis,"Data-Intensive Applications and Systems Laboratory, E?cole Polytechnique Fe?de?rale de Lausanne, Switzerland",,,10,2,1
+780,Christodoulos Efstathiades,European University Cyprus Cyprus,,,11,1,2
+1348,Yu Li,Department of Computing Hong Kong Polytechnic University,,,1,1,3
+1211,Shiwen Cheng,"Department of Computer Science & Engineering University of California, Riverside, California, USA",,,2,2,0
+806,David Luaces," Centro Singular de Investigacion en Tecnoloxias da Informacion (CiTIUS), Universidade de Santiago de Compostela (USC) Santiago de Compostela, Spain",,,3,1,1
+703,Alexandros Efentakis,"Research Center ""Athena"" Artemidos 6 & Epidavrou, Marousi 15125, Greece",,,4,4,2
+1269,Udayan Khurana,IBM TJ Watson Research Center,,,5,2,3
+1332,Yaser Oulabi,"Data and Web Science Group, University Mannheim B6 26, 68159 Mannheim, Germany",,,6,1,0
+1104,Nathalie Charbel,"LE2I Lab. UMR-CNRS,  University of Bourgogne (UB),  21078 Dijon, France",,,7,5,1
+1115,Nikos Pelekis,"Dept. of Statistics and Ins. Science  University of Piraeus  Piraeus, Greece",,,8,2,2
+1366,Yuya Sasaki,"Graduate School of Information Science and Technology, Osaka University, Osaka, Japan ¢®¡¿NTT Software Innovation Center, Tokyo, Japan",,,9,2,3
+1308,Xiaodong Li,"The University of Hong Kong, China",,,11,1,1
+717,Andrey Gubichev,TU Munchen Germany,,,1,1,2
+1358,Yudian Zheng,"Department of Computer Science, University of Hong Kong, Pokfulam Road, Hong Kong",,,2,2,3
+803,David Broneske,University of Magdeburg Germany,,,3,1,0
+1127,Pablo Barrio,Columbia University,,,4,4,1
+698,Alberto Cordioli,Prometeia,,,5,2,2
+682,Abdallah Arioua,University Lyon 1 & CNRS Liris,,,7,5,0
+881,Gheorghi Guzun,"San Jose State University San Jose, California",,,8,2,1
+971,Julia Stoyanovich,"? Drexel University Philadelphia, PA",,,9,2,2
+1272,Vasilis Efthymiou,IBM Research,,,10,2,3
+1165,R. Uday Kiran,"The University of Tokyo, Tokyo, Japan",,,11,1,0
+1350,Yu Sun,"Department of Computing and Information Systems, University of Melbourne, Victoria, Australia",,,1,1,1
+1097,Mostafa Ead,Amazon,,,2,2,2
+1013,Laura B. Kassner,Daimler AG 71059 Sindelfingen,,,3,1,3
+1286,Wai Kit Wong,Hang Seng Management College,,,4,4,0
+1202,Sebastian Kruse,"Hasso Plattner Institute (HPI), Germany",,,6,1,2
+866,Foteini Katsarou,"School of Computing Science University of Glasgow, UK",,,7,5,3
+1242,Sutanay Choudhury,"Pacific Northwest National Laboratory, USA",,,8,2,0
+776,Chih-Ya Shen,"National Tsing Hua University, Hsinchu, Taiwan",,,9,2,1
+1175,Raman Grover,"Department of Computer Science, University of California- Irvine, CA, 92697",,,10,2,2
+722,Anjan Kumar Amirishetty,"Oracle Corporation 500 Oracle Parkway Redwood Shores, CA 94065, U.S.A. ",,,11,1,3
+1122,Olga Poppe,"Worcester Polytechnic Institute, 100 Institute Road, Worcester, MA 01609, USA",,,1,1,0
+826,Dritan Bleco,"Athens University of Economics and Business 76 Patission Street Athens, Greece",,,2,2,1
+1045,Manish Kesarwani,"IBM Research India Bangalore, India",,,4,4,3
+1278,Victor Zakhary,"University of California, Santa Barbara, CA 93106",,,5,2,0
+1324,Yang Wu,"Chinese University of Hong Kong Shatin, Hong Kong, China",,,6,1,1
+1231,Stephan M?ller,"Hasso Plattner Institute Potsdam, Germany",,,7,5,2
+907,Hoang Vu Nguyen,"Karlsruhe Institute of Technology (KIT), Germany",,,9,2,0
+815,Dimitrios Skoutas,"IMIS, Athena R.C., Greece",,,10,2,1
+1081,Mingjie Tang,"Computer Science, Purdue University",,,11,1,2
+1318,Xingcan Cui,"Shandong University, China",,,1,1,3
+985,Kasper Mullesgaard,"Department of Computer Science, Aalborg University, Denmark",,,2,2,0
+874,George A. Vouros,"University of Piraeus, Greece",,,4,4,2
+1258,Thorsten Papenbrock,"Hasso Plattner Institute (HPI) 14482 Potsdam, Germany",,,5,2,3
+1096,Moritz Kaufmann,Technical University of Munich,,,6,1,0
+1298,Wenlu Wang,"Department of Computer Science and Software Engineering, Auburn University, Auburn, AL, USA",,,7,5,1
+960,Jing Wang,"School of Computing Science University of Glasgow, UK",,,8,2,2
+830,Efi Karra Taniskidou,"University of California, Irvine",,,9,2,3
+1056,Marios Meimaris,"University of Thessaly, 2ATHENA Research Center, Greece",,,10,2,0
+1159,Puya Memarzia,"Faculty of Computer Science, University of New Brunswick, Fredericton, Canada",,,11,1,1
+903,Henrietta Dombrovskaya,"Enova  200 W. Jackson Blvd.  Chicago, IL 60606",,,1,1,2
+816,Dimitris Bilidas,National and Kapodistrian University of Athens Greece,,,2,2,3
+836,Emre Sefer,"Lane Center of Computational Biology, School of Computer Science, Carnegie Mellon University, Pittsburgh, PA, USA",esefer@andrew.cmu.edu,,3,1,0
+956,Jiefeng Cheng,"Huawei Noah's Ark Lab, Hong Kong",Oliver Kennedy,,4,4,1
+804,David C. Anastasiu,"University of Minnesota, Twin Cities, MN 55455, U.S.A.",dragos@cs.umn.edu,,5,2,2
+993,Kenneth Fuglsang Christensen,"Department of Computer Science, Aalborg University",kchris08@student.aau.dk,,6,1,3
+766,Charu C. Aggarwal,"IBM T. J. Watson Research Center Yorktown Heights, New York, USA",charu@us.ibm.com,,7,5,0
+958,Jieying She,"Department of Computer Science and Engineering The Hong Kong University of Science and Technology Clear Water Bay, Kowloon, Hong Kong SAR, PR China",,,8,2,1
+1274,Vasilis Verroios,Stanford University,,,9,2,2
+1356,Yuchen Li,"University of Singapore, Singapore",,,10,2,3
+1145,Peter Macko,"School of Engineering and Applied Sciences, Harvard University 33 Oxford Street, Cambridge, MA, USA, Oracle Labs 35 Network Drive, Burlington, MA, USA ",,,11,1,0
+1203,Sebastian Schelter,Technische Universit¡§at Berlin ,,,1,1,1
+1213,Siarhei Bykau,"Purdue University, USA",,,2,2,2
+1025,Lisi Chen,Nanyang Technological University,,,3,1,3
+988,Ke Wu,"Department of Computer Science & Engineering Shanghai Jiao Tong University, Shanghai, China",,,4,4,0
+825,Dong-Wan Choi,"CS Department, KAIST, Daejeon, Korea",,,5,2,1
+1289,Wei Feng,"Tsinghua National Laboratory for Information Science and Technology (TNList) Department of Computer Science and Technology, Tsinghua University, Beijing, China ¡ËO Department of Computer Science, University of Illinois at Urbana-Champaign, IL, USA ¢®¡¿ IBM T. J. Watson Research Center, NY, USA \ Department of Computer Science, Xidian University, Xi¢® ?an, China",,,6,1,2
+1191,Rong-Hua Li,"Shenzhen University, Shenzhen, China",,,7,5,3
+1315,Xin Huang,"The Chinese University of Hong Kong, China",,,9,2,1
+734,Arko Provo Mukherjee,"Department of Electrical and Computer Engineering, Iowa State University 2215 Coover Hall, Ames, IA, USA",,,10,2,2
+1245,Takanori Maehara,"JST, ERATO, Kawarabayashi Large Graph Project, Japan, Preferred Infrastructure, Inc 2-40-1, Hongo, Bunkyo-ku, Tokyo, Japan",,,11,1,3
+843,Erman Pattuk,"University of Texas at Dallas, Richardson, Texas USA",,,1,1,0
+1368,Zach Jorgensen,"North Carolina State University, USA",,,2,2,1
+1336,Yazhe Wang,"School of Information Systems Singapore Management University Singapore, 178902",,,3,1,2
+1293,Wen Hua,"School of Information, Renmin University of China, Beijing, China",,,4,4,3
+1206,Shengzhi Xu,"State Key Laboratory of Networking and Switching Technology Beijing University of Posts and Telecommunications, Beijing, China",,,5,2,0
+1163,Quan Pham,"Computation Institute, University of Chicago, Chicago, Illinois, USA",,,7,5,2
+1378,Zheng Li,"Department of Computer Science, University of Massachusetts, Lowell",,,8,2,3
+1059,Martin Kaufmann,"Systems Group, ETH Zurich, Switzerland",,,9,2,0
+1042,Majed Sahli,"King Abdullah University of Science & Technology, Thuwal, Saudi Arabia",,,10,2,1
+972,Julian Shun,"Computer Science Department, Carnegie Mellon University, USA",,,11,1,2
+1066,Mehdi Kargar,"Department of Electrical Engineering and Computer Science, Lassonde School of Engineering York University, Toronto, Canada",,,1,1,3
+1360,Yuhong Li,"Department of Computer and Information Science, University of Macau Av. Padre Tomas Pereira Taipa, Macau",,,2,2,0
+735,Arlei Silva,"Computer Science Department, University of California, Santa Barbara, CA, USA",,,3,1,1
+873,Ge Luo,HKUST,,,4,4,2
+1190,Rong Zhang,"Shanghai Key Laboratory of Trustworthy Computing, East China Normal University, China",,,5,2,3
+1277,Victor Alvarez,"Information Systems Group, Saarland University",,,6,1,0
+723,Sudip Roy,"Sudip Roy? Google Research Mountain View, CA 94043, USA",,,7,5,1
+1029,Lu Chen,"College of Computer Science, Zhejiang University, Hangzhou, China",,,8,2,2
+787,Chunyao Song,"Department of Computer Science, University of Massachusetts, Lowell, MA, USA",,,9,2,3
+885,Gregory Buehrer,Microsoft,,,10,2,0
+924,Ioannis Koltsidas,"IBM Research - Zurich, Zurich, Switzerland",,,11,1,1
+974,Jun Hou,"School of Electrical Engineering and Computer Science Queensland University of Technology Brisbane, 4000, Australia",,,1,1,2
+786,Chuanfei Xu,Department of Computing The Hong Kong Polytechnic University,,,2,2,3
+1024,Liping Peng,"School of Computer Science University of Massachusetts, Amherst",,,3,1,0
+800,Daniel Schall,"Databases and Information Systems Group University of Kaiserslautern, Germany",,,4,4,1
+948,Jian Dai,"University of Chinese Academy of Sciences, Beijing, China, Institute of Software, Chinese Academy of Sciences, Beijing, China",,,5,2,2
+906,Hina A. Khan,"The University of Queensland Queensland, Australia",,,6,1,3
+1027,Long Yuan,"The University of New South Wales, Australia",,,7,5,0
+1098,Muhammad Anis Uddin Nasir,"KTH Royal Institute of Technology, Stockholm, Sweden",,,8,2,1
+1195,Saad Aljubayrin,"Department of Computing and Information Systems, University of Melbourne Melbourne, Australia",,,9,2,2
+1082,Mingzhu Wei,"Oracle Corp. Nashua, NH, USA",,,10,2,3
+1321,Yag ?©¥z Karg©¥n,"Database Architectures Group, Centrum Wiskunde & Informatica (CWI), Amsterdam, The Netherlands",,,11,1,0
+1304,Xian Li,Computer Science Department of Binghamton University,,,1,1,1
+694,Akon Dey,"School of Information Technologies, University of Sydney NSW 2006 Australia",,,2,2,2
+1186,Robert Brunel," Technische Universita ?t Mu ?nchen, Garching, Germany",,,3,1,3
+1063,Matteo Interlandi,"Qatar Computing Research Institute Doha, Qatar",,,4,4,0
+916,Huiqi Hu,"Department of Computer Science and Technology, TNList, Tsinghua University, Beijing 100084, China",,,5,2,1
+1023,Ling Gu,"Shanghai Key Laboratory of Trustworthy Computing, East China Normal University, China",,,6,1,2
+769,Chen Jason Zhang,"Hong Kong University of Science and Technology, Hong Kong, China",,,7,5,3
+1093,Mohammadreza Najafi,"MSRG, Technical University Munich",,,8,2,0
+893,Han Su,"University of Queensland, Australia",,,9,2,1
+1077,Michael Shekelyan,"Institute for Informatics, Ludwig-Maximilians-University Munich Oettingenstr. 67, 80538 Munich, Germany",,,10,2,2
+922,Inah Jeon,"Department of Computer Science, KAIST 291 Daehak-ro, Yuseong-gu, Daejeon 305-701, Republic of Korea",,,11,1,3
+1267,Tuan-Anh Nguyen Pham,"School of Computer Engineering, Nanyang Technological University, Singapore 639798",,,1,1,0
+981,Kaiqi Zhao,"School of Computer Engineering Nanyang Technological University, Singapore",,,2,2,1
+1344,Yongming Luo,"Eindhoven University of Technology, The Netherlands",,,3,1,2
+1142,Pericles de Oliveira,"Instituto de Computac ?a ?o ? Universidade Federal do Amazonas Manaus, Brazil",,,4,4,3
+1306,Xiang Wang,"School of Computer Science and Engineering, University of New South Wales, Australia",,,7,5,2
+1305,Xiang Ao,"Key Lab of Intelligent Information Processing of Chinese Academy of Sciences (CAS), Institute of Computing Technology, CAS, Beijing, China",,,8,2,3
+1107,Nguyen Thanh Tam,Ecole Polytechnique F¢¥ed¢¥erale de Lausanne,,,9,2,0
+1325,Yanhua Li,"HUAWEI Noah¡¯s Ark Lab, Hong Kong",,,10,2,1
+947,Jiajun Liu,"AS Program, CSIRO, Pullenvale, Australia",,,11,1,2
+732,Aristides Gionis,"Helsinki Institute for Information Technology HIIT Aalto University, Finland",,,1,1,3
+887,Guanfeng Liu,"School of Computer Science and Technology, Soochow University, Suzhou 215006, China",,,2,2,0
+1057,Marius Eich,"University of Mannheim Mannheim, Germany",,,3,1,1
+878,Georgia Koutrika,"HP Labs, Palo Alto, USA",,,4,4,2
+952,Jianneng Cao,Institute for Infocomm Research,,,5,2,3
+692,Ahmed Eldawy,"Computer Science and Engineering, University of Minnesota, Minneapolis, MN, USA",,,6,1,0
+730,Arian Bar,"Telecommunications Research Center Vienna (FTW), Vienna, Austria",,,7,5,1
+1376,Zhe Fan,"Department of Computer Science, Hong Kong Baptist University, Hong Kong, China",,,8,2,2
+1119,Norases Vesdapunt,"Computer Science Department, Stanford University",,,10,2,0
+1246,Tanmoy Chakraborty,"Department of Computer Science & Engineering Indian Institute of Technology, Kharagpur, India ? 721302",,,11,1,1
+1016,Lei Chen,"Department of Computer Science, Hong Kong Baptist University, Hong Kong, China",,,1,1,2
+1180,Renata Borovica-Gajic,?cole Polytechnique F?d?rale de Lausanne,,,2,2,3
+1299,Wenqing Lin,"A*STAR, Singapore",,,3,1,0
+1146,Petko Bakalov,"Environmental Systems Research Institute 380 New York Str. Redlands, CA 92373, USA",,,4,4,1
+831,El Kindi Rezig,"Department of Computer Science Purdue University West Lafayette, IN 47907",,,5,2,2
+1219,Songlin Hu,"Institute of Computing Technology, Chinese Academy of Sciences, China",,,6,1,3
+712,An Liu,"School of Computer Science and Technology, Soochow University, China",,,7,5,0
+889,Gunes Aluc,"Cheriton School of Computer Science, University of Waterloo",,,8,2,1
+1340,Yingjun Wu,"School of Computing, National University of Singapore",,,10,2,3
+961,Jinling Jiang,"Department of Computer Science, Aalborg University, Denmark",,,11,1,0
+1043,Manas Joglekar,"Computer Science Department, Stanford University Stanford, California, USA 94305",,,1,1,1
+802,David B. Lomet,"Microsoft Research, Redmond, WA 98052 USA",,,2,2,2
+683,Abdullah Mueen,UC Riverside,mueen@cs.ucr.edu,,3,1,3
+1124,Oliver Kennedy,EPFL & Cornell University,oliver.kennedy@epfl.ch,,4,4,0
+688,Adam Silberstein,"Yahoo! Research Santa Clara, CA, USA",silberst@yahoo-inc.com,,5,2,1
+1234,Stratos Idreos,CWI Amsterdam The Netherlands,idreos@cwi.nl,,6,1,2
+1355,Yubao Wu,"Department of Electrical Engineering and Computer Science, Case Western Reserve University",yubao.wu@case.edu,,7,5,3
+1301,Wolfgang Gatterbauer,"University of Washington, Seattle",gatter@cs.washington.edu,,8,2,0
+959,Jinbao Wang,"School of Computer Science and Technology, Harbin Institute of Technology Harbin, China",wangjinbao@comp.nus.sg,,9,2,1
+1022,Liang Xu,School of Computing National University of Singapore,xuliang@comp.nus.edu.sg,,10,2,2
+1379,Zhenjie Zhang,"School of Computing, National University of Singapore, Singapore",zhenjie@comp.nus.edu.sg,,11,1,3
+1140,Per-Ake Larson,Microsoft,palarson@microsoft.com,,1,1,0
+996,Khaled Elmeleegy,Turn Inc.,kelmeleegy@turn.com,,4,4,3
+918,Hyun Jin Moon,NEC Labs America,hjmoon@sv.nec-labs.com,,5,2,0
+714,Anastasia Ailamaki,EPFL,anastasia.ailamaki@epfl.ch,,6,1,1
+1021,Liang Jeff Chen,"UC San Diego La Jolla, CA, US",jeffchen@cs.ucsd.edu,,7,5,2
+761,Carsten Binnig,ETH Zurich,binnigc@inf.ethz.ch,,8,2,3
+1235,Sudeepa Roy,"University of Washington Seattle, WA, USA",sudeepa@cs.washington.edu,,10,2,1
+793,Dan Olteanu,"Computing Laboratory, Oxford University, Oxford, OX1 3QD, UK",dan.olteanu@comlab.ox.ac.uk,,11,1,2
+1080,Milos Nikolic,Ecole Polytechnique Federale de Lausanne,milos.nikolic@epfl.ch,,1,1,3
+1075,Michael J. Franklin,"AMPLab, UC Berkeley",franklin@cs.berkeley.edu,,2,2,0
+1334,Yasuko Matsubara,Kumamoto University,yasuko@cs.kumamoto-u.ac.jp,,3,1,1
+933,Jeff LeFevre,"University of California, Santa Cruz",jlefevre@ics.uci.edu,,4,4,2
+1197,Sang-Won Lee,"School of Info & Comm Engr Sungkyunkwan University Suwon 440-746, Korea",wonlee@ece.skku.ac.kr,,5,2,3
+1294,Wenchao Zhou,University of Pennsylvania,wenchaoz@cis.upenn.edu,,6,1,0
+1337,Yijou Chen,"ParAccel, Inc.  3 Results Way, Cupertino, CA 95014",,,7,5,1
+700,Alexander Kalinin,Brown University,,,8,2,2
+1164,Quoc Trung Tran,National University of Singapore The Ohio State University,,,9,2,3
+1260,Tilmann Zaschke,"Institute for Information Systems, Department of Computer Science ETH Zurich, Switzerland
+",,,11,1,1
+1172,Rajendra Shinde,"Stanford University. Stanford, CA USA",,,1,1,2
+911,Hongzhi Yin,"Key Lab of High Confidence Software Technologies (MOE), School of EECS, Peking University",,,2,2,3
+1347,Yoshitaka Yamamoto,University of Yamanashi,,,3,1,0
+1088,Mohamed A. Sharaf,"ECE Department University of Toronto Toronto, Ontario, Canada",,,4,4,1
+939,Jennie Duggan ,Brown University,,,5,2,2
+1372,Zengfeng Huang,Hong Kong University of Science and Technology,,,6,1,3
+1004,Kostas Zoumpatianos,University of Trento,,,7,5,0
+1095,Mona Ahuja ,"Yahoo!, Inc. ",,,8,2,1
+864,Florian M. Waas,Greenplum Inc.,,,9,2,2
+729,Aravind Yalamanchi,Oracle USA,,,11,1,0
+1117,Nitin Gupta,"Cornell University Ithaca, NY 14853, USA",,,1,1,1
+1067,Meihui Zhang,National University of Singapore,,,2,2,2
+1210,Shiming Zhang,"Department of Computer Science The University of Hong Kong, Hong Kong",,,3,1,3
+689,Aditya Parameswaran,"Computer Science Dept., Stanford University Stanford, CA - 94305, USA",,,4,4,0
+1233,Steven Euijong Whang,"Computer Science Department, Stanford University 353 Serra Mall, Stanford, CA 94305, USA",,,5,2,1
+1123,Oliver Arnold,"Vodafone Chair Mobile Communications Systems Technische Universit?t Dresden Dresden, Germany",,,6,1,2
+801,Daniel Tahara,Yale University,,,7,5,3
+1276,Verena Kantere,"Cyprus University of Technology A. Kyprianos 31, P.O. Box 50329, 3603 Lemesos, Cyprus",,,8,2,0
+980,Kai Zheng,"School of Information Technology and Electrical Engineering The University of Queensland Brisbane 4072, Australia",,,9,2,1
+858,Fei Li,"Univ. of Michigan, Ann Arbor",,,10,2,2
+1015,Lei Chang,Pivotal Inc,,,1,1,0
+936,Jeffrey Pound,"University of Waterloo Waterloo, Canada",,,4,4,3
+898,Haopeng Zhang,"School of Computer Science, University of Massachusetts Amherst",,,6,1,1
+691,Ahmad Ghazal,"Teradata Corporation  100 N. Sepulveda Blvd  Elsegundo, CA 90245, USA  ahmad.ghazal@ teradata.com    Alain Crolotte  Teradata Corporation  100 N. Sepulveda Blvd  Elsegundo, CA 90245, USA",,,7,5,2
+923,Ioannis Alagiannis,Ecole Polytechnique Federale de Lausanne,,,8,2,3
+733,Arjun Dasgupta,CSE Department UT Arlington,,,10,2,1
+835,Emad Soroush,"Computer Science Department University of Washington Seattle, USA",,,11,1,2
+1086,Mirco Stern,"Mirco Stern Dept. of Computer Science KIT, Karlsruhe, Germany",,,2,2,0
+1359,Yufei Tao,"Chinese University of Hong Kong Sha Tin, New Territories, Hong Kong",,,3,1,1
+1126,Orestis Polychroniou,Columbia University,,,4,4,2
+891,Haiquan Chen,"Haiquan Chen Dept. of CSSE Auburn University Auburn, AL, USA",,,5,2,3
+1236,Sudipto Das,"University of California Santa Barbara, CA, USA",,,6,1,0
+724,Anshuman Dutt,"Database Systems Lab, SERC/CSA Indian Institute of Science, Bangalore, INDIA",,,7,5,1
+1275,Venu Satuluri,Dept. of Computer Science and Engineering The Ohio State University,,,8,2,2
+727,Anup Chalamalla,University of Waterloo,,,9,2,3
+1377,Zhen Hua Liu,"Oracle Corporation 500 Oracle Parkway Redwood Shores, CA 94065, USA",,,10,2,0
+819,Dimitris Tsirogiannis,"University of Toronto Toronto, ON, Canada",,,11,1,1
+1341,Yingxia Shao,"Key Lab of High Confidence Software Technologies (MOE), School of EECS, Peking University",,,1,1,2
+1215,Sihem Amer-Yahia,"Yahoo! Research New York, NY",,,2,2,3
+1331,Yanyan Shen,National University of Singapore,,,3,1,0
+1280,Viktor Leis,Technische Universit?t M?nchen,,,4,4,1
+740,Arvind Arasu,"Microsoft Research Redmond, WA",,,5,2,2
+1384,Zitong Chen,"Sun Yat-Sen University, China",,,6,1,3
+995,Khai Q. Tran,Oracle Labs,,,7,5,0
+1351,Yu Xu,"San Diego, CA, USA",,,8,2,1
+1370,Zaiben Chen,"School of Information Technology & Electrical Engineering The University of Queensland, QLD 4072 Australia",,,9,2,2
+1281,Vinayak Borkar,"BEA Systems San Jose, CA, USA",,,10,2,3
+1312,Xiaoyong Chai,University of Wisconsin-Madison,,,11,1,0
+1110,Nikolaus Augsten,"University of Salzburg Salzburg, Austria",,,1,1,1
+1092,Mohammad Sadoghi,"Department of Computer Science University of Toronto, Canada",,,2,2,2
+1303,Woon-Hak Kang,"Sungkyunkwan University Suwon, 440-746, Korea",,,3,1,3
+859,Feifei Li,"Department of Computer Science, FSU Tallahassee, FL, USA",,,4,4,0
+854,Fangjin Yang ,"Metamarkets Group, Inc.",,,5,2,1
+870,Gabriel Bender,"Cornell University Ithaca, NY 14853, USA",,,7,5,3
+832,Eli Cortez,"Universidade Federal do Amazonas Departamento de Ci?ncia da Computa??o Manaus, AM, Brazil",,,8,2,0
+846,Evan P. C. Jones,"MIT CSAIL Cambridge, MA, USA",,,9,2,1
+1256,Thomas Neumann,"Max-Planck Institute for Informatics Saarbr?cken, Germany",,,10,2,2
+955,Jie Xu,"Dept. of Computer Science, University of Irvine Irvine, California, USA",,,11,1,3
+812,Di Chen,"Hong Kong University of Science and Technology, Hong Kong, China",,,1,1,0
+1020,Lian Liu,"The Hong Kong University of Science and Technology Kowloon, Hong Kong",,,3,1,2
+879,Georgios J. Fakas,Department of Computer Science and Engineering HKUST Hong Kong,gfakas@cse.ust.hk,,4,4,3
+978,Kai Ren,Carnegie Mellon University,kair@cs.washington.edu,,5,2,0
+946,Jia Wang,Department of Computer Science and Engineering The Chinese University of Hong Kong,jwang@cse.cuhk.edu.hk,,6,1,1
+957,Jiexing Li,"Department of Computer Sciences University of Wisconsin - Madison 1210 West Dayton Street Madison, WI 53706 USA",jxli@cs.wisc.edu,,7,5,2
+912,Houtan Shirani-Mehr,Computer Science Dept. Univ. of Southern California,hshirani@usc.edu,,8,2,3
+1041,Maheswaran Sathiamoorthy,University of Southern California,msathiam@usc.edu,,9,2,0
+771,Chen Zeng,"Department of Computer Science, University of Wisconsin-Madison, Madison, WI, 53706",zeng@cs.wisc.edu,,10,2,1
+855,Fanwei Zhu,"Zhejiang University City College, China",zhufw@zucc.edu.cn,,11,1,2
+1326,Yanif Ahmad,Johns Hopkins University,yanif@jhu.edu,,1,1,3
+1118,Nodira Khoussainova,"Department of Computer Science and Engineering, University of Washington, Seattle, WA, USA",nodira@cs.washington.edu,,2,2,0
+899,Harold Lim,Duke University,harold@cs.duke.edu,,3,1,1
+1314,Xin Cao,"School of Computer Engineering, Nanyang Technological University, Singapore",xcao1@e.ntu.edu.sg,,4,4,2
+1160,Qiang Zeng,"Institute of Computing Technology, Chinese Academy of Sciences Beijing 100190, China",zengqiang@kg.ict.ac.cn,,5,2,3
+844,Essam Mansour,Math. & Computer Sciences and Engineering King Abdullah Univ. of Science and Technology,fname.lname@kaust.edu.sa,,6,1,0
+1068,Meiyu Lu,School of Computing National University of Singapore,lumeiyu@comp.nus.edu.sg,,7,5,1
+1243,Svilen R. Mihaylov,"University of Pennsylvania Philadelphia, PA, USA",svilen@cis.upenn.edu,,8,2,2
+1174,Rakesh Pimplikar,"IBM Research New Delhi, India",rakesh.pimplikar@in.ibm.com,,9,2,3
+796,Danica Porobic,"Ecole Polytechnique Federale de Lausanne Lausanne, VD, Switzerland",danica.porobic@us.ibm.com,,10,2,0
+750,Bin Cao,"Teradata Corporation El Segundo, CA 90245 USA",bin.cao@teradata.com,,11,1,1
+926,Iraklis Psaroudakis,Ecole Polytechnique Federale de Lausanne,iraklis.psaroudakis@epfl.ch,,1,1,2
+731,Arijit Khan,"Computer Science University of California, Santa Barbara Hawthorne, NY",arijitkhan@cs.ucsb.edu,,2,2,3
+1078,Michael T. Goodrich,UC Irvine,goodrich@ics.uci.edu,,3,1,0
+1010,Kyriakos Mouratidis,School of Information Systems Singapore Management University,kyriakos@smu.edu.sg,,4,4,1
+774,Cheng Long,The Hong Kong University of Science and Technology,,,5,2,2
+1070,Miao Qiao,"The Chinese University of Hong Kong, Hong Kong, China",,,6,1,3
+1199,Sayan Ranu,"Department of Computer Science University of California Santa Barbara, 93106",,,7,5,0
+1232,Stephen Tu,MIT CSAIL,,,8,2,1
+686,Ada Wai-Chee Fu,Dept. of Computer Science and Engineering The Chinese University of Hong Kong,,,9,2,2
+1322,Yang Li,"University of California, Santa Barbara",,,10,2,3
+1282,Vince Barany,"TU Darmstadt, Germany",,,11,1,0
+1046,Manoj K Agarwal,"IBM Research-India, New Delhi",,,1,1,1
+1239,Sumeet Bajaj,"Stony Brook University New York, USA",,,2,2,2
+973,Jun Gao,"Key Laboratory of High Confidence Software Technologies, EECS, Peking University ¡¹ Department of Computer Science, Kent State University ? Department of Systems Engineering & Engineering Management, Chinese University of Hong Kong",,,3,1,3
+744,Avraham Shinnar,"IBM Research Hawthorne, NY",,,4,4,0
+1149,Philipp Rosch,"SAP Research, SAP AG Chemnitzer Str. 48 01187 Dresden, Germany",,,5,2,1
+1030,Lu Li ,Department of Computer Science School of Computing National University of Singapore,,,6,1,2
+850,Fabian M. Suchanek,"INRIA Saclay - Ile-de-France 4 rue Jacques Monod 91893 Orsay Cedex, France",,,7,5,3
+1353,Yuan Yuan,Department of Computer Science and Engineering The Ohio State University,,,8,2,0
+1079,Milad Eftekhar,Department of Computer Science University of Toronto,,,9,2,1
+1157,Prasang Upadhyaya,"Department of Computer Science and Engineering University of Washington Seattle, WA, USA",,,10,2,2
+1151,Phokion G. Kolaitis,UC Santa Cruz and IBM Research - Almaden,,,11,1,3
+1051,Marco D. Adelfio,"Center for Automation Research, Institute for Advanced Computer Studies Department of Computer Science, University of Maryland College Park, MD 20742 USA",,,1,1,0
+1228,Steffen Rendle,"University of Konstanz 78457 Konstanz, Germany",,,2,2,1
+1048,Manolis Terrovitis,"IMIS, Research Center 'Athena'",,,3,1,2
+962,Jinsoo Lee,"School of Computer Science and Engineering Kyungpook National University, Korea",,,4,4,3
+984,Karl Schnaitter,Teradata Aster,,,5,2,0
+1250,Thanh T. L. Tran,"University of Massachusetts, Amherst",,,6,1,1
+709,Amit Goyal,"University of British Columbia Vancouver, BC, Canada",,,7,5,2
+1054,Marina Barsky," Univ. of Victoria, BC, Canada",,,8,2,3
+775,Cheng Sheng,Chinese University of Hong Kong,,,9,2,0
+754,Bogdan Cautis,"Institut Mines-Te?le?com, Te?le?com ParisTech, CNRS LTCI, Paris, France",,,10,2,1
+1287,Wang Lam,WalmartLabs,,,11,1,2
+921,Iman Elghandour,University of Waterloo,,,1,1,3
+1230,Stephan Ewen,"Technische Universitat Berlin, Germany",,,2,2,0
+797,Daniel Fabbri,"Electrical Engineering & Computer Science, University of Michigan, 2260 Hayward Ave. Ann Arbor, MI 48109 USA",,,3,1,1
+951,Jiannan Wang,"AMPLab, UC Berkeley",,,4,4,2
+1386,Zsolt Istv?n,"Systems Group, Dept. of Computer Science ETH Z?rich, Switzerland",,,5,2,3
+1120,Nurzhan Bakibayev,"Department of Computer Science, University of Oxford, OX1 3QD, UK",,,6,1,0
+762,Changbin Liu,University of Pennsylvania,,,7,5,1
+942,Jens Krueger,"Hasso-Plattner-Institute, Potsdam, Germany",,,8,2,2
+699,Alekh Jindal,"Information Systems Group, Saarland University",,,9,2,3
+1295,Wenfei Fan,"Informatics, University of Edinburgh & RCBD and SKLSDE Lab, Beihang University",,,10,2,0
+1249,Thanh Nguyen,1University of Utah 2UFRGS-Brazil 3NYU Poly,,,11,1,1
+1072,Michael A. Bender,0,,,1,1,2
+794,Dan R. K. Ports,"MIT CSAIL 32 Vassar St. Cambridge, MA 02139",,,2,2,3
+687,Adam Marcus,MIT CSAIL,,,3,1,0
+757,Brian E. Ruttenberg,"University of California, Santa Barbara Santa Barbara, CA, USA",,,4,4,1
+976,K. Selc¢¬uk Candan,"Arizona State University Tempe, AZ, USA",,,5,2,2
+880,Georgios Kellaris,"Department of Computer Science and Engineering Hong Kong University of Science and Technology Clear Water Bay, Hong Kong",,,6,1,3
+929,James Cheng,"Nanyang Technological University, Singapore",,,7,5,0
+1154,Pirooz Chubak,Department of Computing Science University of Alberta,,,8,2,1
+1002,Konstantinos Mamouras,"Cornell University Ithaca, NY 14853, USA",,,9,2,2
+1292,Weiguo Zheng,"Peking University, China",,,10,2,3
+1357,Yucheng Low,Carnegie Mellon University,,,11,1,0
+983,Karin Murthy,IBM Research - India,,,1,1,1
+861,Feng Zhao,School of Computing National University of Singapore,,,2,2,2
+863,Florian Funke,"TU Mu?nchen Munich, Germany",,,3,1,3
+1064,Mayank Sachan,"Dept. of Computer Science and Engineering Indian Institute of Technology, Kanpur INDIA",,,4,4,0
+1290,Wei Lu,National University of Singapore,,,5,2,1
+1319,Xuan Liu,"School of Computing, National University of Singapore, Singapore",,,6,1,2
+1111,Nikolay Laptev,"University of California, Los Angeles",,,7,5,3
+1365,Yupeng Fu,UC San Diego,,,8,2,0
+1116,Nilesh Dalvi,"Yahoo! Research 4301 Great America Parkway Santa Clara, CA 95054",,,9,2,1
+1176,Rani Qumsiyeh,"Computer Science Dept. Brigham Young University Provo, Utah 84602, U.S.A.",,,10,2,2
+1380,Zhepeng Yan,"University of Pennsylvania Philadelphia, PA, USA",,,11,1,3
+684,Abhay Jha,"University of Washington Seattle, WA 98195?2350",,,1,1,0
+1375,Zhao Sun,? Fudan University,,,2,2,1
+867,Franc¢¬ois Goasdoue,"Leo team, INRIA Saclay and LRI, Universite Paris-Sud 11",,,3,1,2
+1187,Robert Isele,"Web-based Systems Group Freie Universita?t Berlin Garystr. 21, 14195 Berlin, Germany",,,4,4,3
+963,Joachim Selke,"Institut f?r Informationssysteme Technische Universit?t Braunschweig Braunschweig, Germany",,,5,2,0
+1300,Willis Lang,University of Wisconsin,,,6,1,1
+890,Haichuan Shang,"Institute of Industrial Science, The University of Tokyo, Japan",,,7,5,2
+919,Hyunjung Park,Stanford University,,,8,2,3
+1125,Joseph M. Hellerstein,Joseph M. Hellerstein,,,9,2,0
+1141,Per-?ke Larson,Microsoft,,,10,2,1
+1262,Ting Deng,"Big Data Research Center and SKLSDE Lab, Beihang University",,,11,1,2
+1168,Radu Stoica,?cole Polytechnique F?d?rale de Lausanne,,,1,1,3
+1361,Yun Chi,NEC Laboratories America,,,2,2,0
+1323,Yang Wang,"School of Computer Science, Fudan University, Shanghai, China",,,3,1,1
+716,Andrew Pavlo,Brown University,,,4,4,2
