@@ -10,7 +10,7 @@ An Algorithm for Peer Reviewer Recommendation Based on Scholarly Activity Assess
 
 ### Version History
 
-* v.1.0 : 심사자 추천 모델
+* v.1.0 : 심사자 추천 알고리즘
 
 ### Contacts
 
