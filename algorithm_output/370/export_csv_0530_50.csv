@@ -1,0 +1,301 @@
+,submitter_title,date,submitter_name,reviewer_name,reviewer_orcid,sim,count
+0,Diversifying Top-K Results,20200101,Lu Qin,Hyunjung Park,919,0.11554054054054053,0
+1,Diversifying Top-K Results,20200101,Lu Qin,Ke Wang,987,0.11554054054054053,0
+2,Diversifying Top-K Results,20200101,Lu Qin,Yufei Tao,1359,0.15555555555555556,0
+3,Diversifying Top-K Results,20200101,Lu Qin,Abdallah Arioua,682,0.11554054054054053,0
+4,Diversifying Top-K Results,20200101,Lu Qin,Nikolaus Augsten,1110,0.11554054054054053,0
+5,Diversifying Top-K Results,20200101,Lu Qin,Zhao Sun,1375,0.15555555555555556,0
+6,A Generic Framework for Efficient and Effective Subsequence Retrieval,20200102,Haohan Zhu,Chih-Ya Shen,776,0.07832594463128473,0
+7,A Generic Framework for Efficient and Effective Subsequence Retrieval,20200102,Haohan Zhu,Yang Li,1322,0.08048240544725077,0
+8,A Generic Framework for Efficient and Effective Subsequence Retrieval,20200102,Haohan Zhu,Ting Deng,1262,0.11554054054054053,0
+9,A Generic Framework for Efficient and Effective Subsequence Retrieval,20200102,Haohan Zhu,Victor Alvarez,1277,0.07631578947368423,0
+10,A Generic Framework for Efficient and Effective Subsequence Retrieval,20200102,Haohan Zhu,Michael Shekelyan,1077,0.11554054054054053,0
+11,A Generic Framework for Efficient and Effective Subsequence Retrieval,20200102,Haohan Zhu,Yudian Zheng,1358,0.11554054054054053,0
+12,A Comparison of Flexible Schemas for Software as a Service,20200103,Stefan Aulbach,Arvind Arasu,740,0.11861504307305325,0
+13,A Comparison of Flexible Schemas for Software as a Service,20200103,Stefan Aulbach,Dimitris Tsirogiannis,819,0.11861504307305325,0
+14,A Comparison of Flexible Schemas for Software as a Service,20200103,Stefan Aulbach,Mingzhu Wei,1082,0.11861504307305325,0
+15,A Comparison of Flexible Schemas for Software as a Service,20200103,Stefan Aulbach,Renata Borovica-Gajic,1180,0.12180451127819547,0
+16,A Comparison of Flexible Schemas for Software as a Service,20200103,Stefan Aulbach,Jinbao Wang,959,0.11861504307305325,0
+17,A Comparison of Flexible Schemas for Software as a Service,20200103,Stefan Aulbach,Bogdan Cautis,754,0.12180451127819547,0
+18,A Comprehensive Study of Main-Memory Partitioning and its Application to Large-Scale Comparison- and Radix-Sort,20200104,Orestis Polychroniou,Julian Shun,972,0.11554054054054053,0
+19,A Comprehensive Study of Main-Memory Partitioning and its Application to Large-Scale Comparison- and Radix-Sort,20200104,Orestis Polychroniou,Miao Qiao,1070,0.07832594463128473,0
+20,A Comprehensive Study of Main-Memory Partitioning and its Application to Large-Scale Comparison- and Radix-Sort,20200104,Orestis Polychroniou,Aristides Gionis,732,0.11554054054054053,0
+21,A Comprehensive Study of Main-Memory Partitioning and its Application to Large-Scale Comparison- and Radix-Sort,20200104,Orestis Polychroniou,Yongming Luo,1344,0.07832594463128473,0
+22,A Comprehensive Study of Main-Memory Partitioning and its Application to Large-Scale Comparison- and Radix-Sort,20200104,Orestis Polychroniou,Julia Stoyanovich,971,0.08048240544725077,0
+23,A Comprehensive Study of Main-Memory Partitioning and its Application to Large-Scale Comparison- and Radix-Sort,20200104,Orestis Polychroniou,Zitong Chen,1384,0.07631578947368423,0
+24,Making Pattern Queries Bounded in Big Graphs,20200105,Yang Cao,Udayan Khurana,1269,0.11554054054054053,0
+25,Making Pattern Queries Bounded in Big Graphs,20200105,Yang Cao,Jinsoo Lee,962,0.11554054054054053,0
+26,Making Pattern Queries Bounded in Big Graphs,20200105,Yang Cao,Foteini Katsarou,866,0.11554054054054053,0
+27,Making Pattern Queries Bounded in Big Graphs,20200105,Yang Cao,Steven Euijong Whang,1233,0.11554054054054053,0
+28,Making Pattern Queries Bounded in Big Graphs,20200105,Yang Cao,Angela Bonifati,718,0.11554054054054053,0
+29,Making Pattern Queries Bounded in Big Graphs,20200105,Yang Cao,Charu C. Aggarwal,766,0.15555555555555556,0
+30,Predictive Tree: An Efficient Index for Predictive Queries On Road Networks,20200106,Abdeltawab M. Hendawi,Parth Nagarkar,1136,0.19642857142857145,0
+31,Predictive Tree: An Efficient Index for Predictive Queries On Road Networks,20200106,Abdeltawab M. Hendawi,Venu Satuluri,1275,0.11554054054054053,0
+32,Predictive Tree: An Efficient Index for Predictive Queries On Road Networks,20200106,Abdeltawab M. Hendawi,Emre Sefer,836,0.15555555555555556,0
+33,Predictive Tree: An Efficient Index for Predictive Queries On Road Networks,20200106,Abdeltawab M. Hendawi,Qiang Zeng,1160,0.11554054054054053,0
+34,Predictive Tree: An Efficient Index for Predictive Queries On Road Networks,20200106,Abdeltawab M. Hendawi,Charu C. Aggarwal,766,0.11554054054054053,0
+35,Predictive Tree: An Efficient Index for Predictive Queries On Road Networks,20200106,Abdeltawab M. Hendawi,Tilmann Zaschke,1260,0.11861504307305325,0
+36,Kernel-Based Cardinality Estimation on Metric Data,20200107,Michael Mattig,Thanh T. L. Tran,1250,0.11861504307305325,0
+37,Kernel-Based Cardinality Estimation on Metric Data,20200107,Michael Mattig,Sayan Ranu,1199,0.15974069235137256,0
+38,Kernel-Based Cardinality Estimation on Metric Data,20200107,Michael Mattig,Thanh Nguyen,1249,0.11861504307305325,0
+39,Kernel-Based Cardinality Estimation on Metric Data,20200107,Michael Mattig,Mirco Stern,1086,0.11554054054054053,0
+40,Kernel-Based Cardinality Estimation on Metric Data,20200107,Michael Mattig,Arlei Silva,735,0.11554054054054053,0
+41,Kernel-Based Cardinality Estimation on Metric Data,20200107,Michael Mattig,Jie Xu,955,0.11861504307305325,0
+42,Iterative Estimation of Mutual Information with Error Bounds,20200108,Michael Vollmer,Kai Zheng,980,0.11554054054054053,0
+43,Iterative Estimation of Mutual Information with Error Bounds,20200108,Michael Vollmer,Mostafa Ead,1097,0.11554054054054053,0
+44,Iterative Estimation of Mutual Information with Error Bounds,20200108,Michael Vollmer,Cristian Consonni,789,0.11861504307305325,0
+45,Iterative Estimation of Mutual Information with Error Bounds,20200108,Michael Vollmer,Thanh T. L. Tran,1250,0.11861504307305325,0
+46,Iterative Estimation of Mutual Information with Error Bounds,20200108,Michael Vollmer,Laura B. Kassner,1013,0.11554054054054053,0
+47,Iterative Estimation of Mutual Information with Error Bounds,20200108,Michael Vollmer,Siarhei Bykau,1213,0.11554054054054053,0
+48,ERACER: A Database Approach for Statistical Inference and Data Cleaning,20200109,Chris Mayfield,Daniel Tahara,801,0.15555555555555556,0
+49,ERACER: A Database Approach for Statistical Inference and Data Cleaning,20200109,Chris Mayfield,Jennie Duggan ,939,0.15555555555555556,0
+50,ERACER: A Database Approach for Statistical Inference and Data Cleaning,20200109,Chris Mayfield,Zsolt Istv?n,1386,0.15555555555555556,0
+51,ERACER: A Database Approach for Statistical Inference and Data Cleaning,20200109,Chris Mayfield,Sudipto Das,1236,0.15555555555555556,0
+52,ERACER: A Database Approach for Statistical Inference and Data Cleaning,20200109,Chris Mayfield,Jing Wang,960,0.20177670577535006,0
+53,ERACER: A Database Approach for Statistical Inference and Data Cleaning,20200109,Chris Mayfield,Fangjin Yang ,854,0.12191408436135236,0
+54,Processing a Trillion Cells per Mouse Click,20200110,Alexander Hall,Daniel Tahara,801,0.19642857142857145,0
+55,Processing a Trillion Cells per Mouse Click,20200110,Alexander Hall,Sudeepa Roy,1235,0.15555555555555556,0
+56,Processing a Trillion Cells per Mouse Click,20200110,Alexander Hall,Dimitris Bilidas,816,0.15555555555555556,0
+57,Processing a Trillion Cells per Mouse Click,20200110,Alexander Hall,Abdullah Mueen,683,0.15555555555555556,0
+58,Processing a Trillion Cells per Mouse Click,20200110,Alexander Hall,Hina A. Khan,906,0.19642857142857145,0
+59,Processing a Trillion Cells per Mouse Click,20200110,Alexander Hall,Stephen Tu,1232,0.15555555555555556,0
+60,Fast Personalized PageRank on MapReduce,20200111,Bahman Bahmani,Wenfei Fan,1295,0.037820512820512825,0
+61,Fast Personalized PageRank on MapReduce,20200111,Bahman Bahmani,Shiming Zhang,1210,0.03880735353897094,0
+62,Fast Personalized PageRank on MapReduce,20200111,Bahman Bahmani,Long Yuan,1027,0.07631578947368423,0
+63,Fast Personalized PageRank on MapReduce,20200111,Bahman Bahmani,Yang Li,1322,0.039865827348249984,0
+64,Fast Personalized PageRank on MapReduce,20200111,Bahman Bahmani,Jiajun Liu,947,0.03880735353897094,0
+65,Fast Personalized PageRank on MapReduce,20200111,Bahman Bahmani,Fanwei Zhu,855,0.07631578947368423,0
+66,Aggregation in Probabilistic Databases via Knowledge Compilation,20200112,Robert Fink,Kai Zheng,980,0.11554054054054053,0
+67,Aggregation in Probabilistic Databases via Knowledge Compilation,20200112,Robert Fink,Parth Nagarkar,1136,0.11554054054054053,0
+68,Aggregation in Probabilistic Databases via Knowledge Compilation,20200112,Robert Fink,Stratos Idreos,1234,0.08048240544725077,0
+69,Aggregation in Probabilistic Databases via Knowledge Compilation,20200112,Robert Fink,Raphael Bonaque,1177,0.11554054054054053,0
+70,Aggregation in Probabilistic Databases via Knowledge Compilation,20200112,Robert Fink,Nguyen Thanh Tam,1107,0.11554054054054053,0
+71,Aggregation in Probabilistic Databases via Knowledge Compilation,20200112,Robert Fink,Steffen Rendle,1228,0.11554054054054053,0
+72,Semantic and Influence aware k-RepresentativeQueries over Social Streams,20200113,Yanhao Wang,Paras Mehta ,1135,0.11861504307305325,0
+73,Semantic and Influence aware k-RepresentativeQueries over Social Streams,20200113,Yanhao Wang,Tova Milo,1266,0.11861504307305325,0
+74,Semantic and Influence aware k-RepresentativeQueries over Social Streams,20200113,Yanhao Wang,Theodoros Chondrogiannis,1253,0.15555555555555556,0
+75,Semantic and Influence aware k-RepresentativeQueries over Social Streams,20200113,Yanhao Wang,Raphael Bonaque,1177,0.19642857142857145,0
+76,Semantic and Influence aware k-RepresentativeQueries over Social Streams,20200113,Yanhao Wang,Tuan-Anh Nguyen Pham,1267,0.15555555555555556,0
+77,Semantic and Influence aware k-RepresentativeQueries over Social Streams,20200113,Yanhao Wang,Jieying She,958,0.15555555555555556,0
+78,A Comparison of Platforms for Implementing and Running Very Large Scale Machine Learning Algorithms,20200114,Zhuhua Cai,Pirooz Chubak,1154,0.07832594463128473,0
+79,A Comparison of Platforms for Implementing and Running Very Large Scale Machine Learning Algorithms,20200114,Zhuhua Cai,Brian E. Ruttenberg,757,0.07832594463128473,0
+80,A Comparison of Platforms for Implementing and Running Very Large Scale Machine Learning Algorithms,20200114,Zhuhua Cai,Theodoros Chondrogiannis,1253,0.07832594463128473,0
+81,A Comparison of Platforms for Implementing and Running Very Large Scale Machine Learning Algorithms,20200114,Zhuhua Cai,Radu Stoica,1168,0.07832594463128473,0
+82,A Comparison of Platforms for Implementing and Running Very Large Scale Machine Learning Algorithms,20200114,Zhuhua Cai,Dan Olteanu,793,0.07832594463128473,0
+83,A Comparison of Platforms for Implementing and Running Very Large Scale Machine Learning Algorithms,20200114,Zhuhua Cai,Muhammad Farhan,1099,0.07832594463128473,0
+84,Dynamic Plan Generation for Parameterized Queries,20200115,Ahmad Ghazal,Chuan Lei,785,0.19642857142857145,0
+85,Dynamic Plan Generation for Parameterized Queries,20200115,Ahmad Ghazal,Michael J. Franklin,1075,0.15555555555555556,0
+86,Dynamic Plan Generation for Parameterized Queries,20200115,Ahmad Ghazal,Feifei Li,859,0.15555555555555556,0
+87,Dynamic Plan Generation for Parameterized Queries,20200115,Ahmad Ghazal,Jinbao Wang,959,0.15555555555555556,0
+88,Dynamic Plan Generation for Parameterized Queries,20200115,Ahmad Ghazal,Florian Funke,863,0.15555555555555556,0
+89,Dynamic Plan Generation for Parameterized Queries,20200115,Ahmad Ghazal,Liping Peng,1024,0.15555555555555556,0
+90,E = MC3: Managing Uncertain Enterprise Data in a Cluster-Computing Environment,20200116,Fei Xu,Thanh T. L. Tran,1250,0.11861504307305325,0
+91,E = MC3: Managing Uncertain Enterprise Data in a Cluster-Computing Environment,20200116,Fei Xu,Dimitris Bilidas,816,0.15555555555555556,0
+92,E = MC3: Managing Uncertain Enterprise Data in a Cluster-Computing Environment,20200116,Fei Xu,Georgios Kellaris,880,0.11554054054054053,0
+93,E = MC3: Managing Uncertain Enterprise Data in a Cluster-Computing Environment,20200116,Fei Xu,Christophe Claramunt,783,0.11554054054054053,0
+94,E = MC3: Managing Uncertain Enterprise Data in a Cluster-Computing Environment,20200116,Fei Xu,Joachim Selke,963,0.11554054054054053,0
+95,E = MC3: Managing Uncertain Enterprise Data in a Cluster-Computing Environment,20200116,Fei Xu,Bogdan Cautis,754,0.11861504307305325,0
+96,Business-Intelligence Queries with Order Dependencies in DB2,20200117,Jaroslaw Szlichta,Stratos Idreos,1234,0.08264523561501609,0
+97,Business-Intelligence Queries with Order Dependencies in DB2,20200117,Jaroslaw Szlichta,Meihui Zhang,1067,0.15974069235137256,0
+98,Business-Intelligence Queries with Order Dependencies in DB2,20200117,Jaroslaw Szlichta,Akon Dey,694,0.15974069235137256,0
+99,Business-Intelligence Queries with Order Dependencies in DB2,20200117,Jaroslaw Szlichta,Thorsten Papenbrock,1258,0.12180451127819547,0
+100,Business-Intelligence Queries with Order Dependencies in DB2,20200117,Jaroslaw Szlichta,Fangjin Yang ,854,0.1252283576242048,0
+101,Business-Intelligence Queries with Order Dependencies in DB2,20200117,Jaroslaw Szlichta,Jinbao Wang,959,0.11861504307305325,0
+102,Detecting Database File Tampering through Page Carving,20200118,James Wagner,Stratos Idreos,1234,0.1642327847507107,0
+103,Detecting Database File Tampering through Page Carving,20200118,James Wagner,Prasang Upadhyaya,1157,0.15555555555555556,0
+104,Detecting Database File Tampering through Page Carving,20200118,James Wagner,Renata Borovica-Gajic,1180,0.11861504307305325,0
+105,Detecting Database File Tampering through Page Carving,20200118,James Wagner,Tilmann Zaschke,1260,0.11861504307305325,0
+106,Detecting Database File Tampering through Page Carving,20200118,James Wagner,Fangjin Yang ,854,0.12191408436135236,0
+107,Detecting Database File Tampering through Page Carving,20200118,James Wagner,Martin Kaufmann,1059,0.15555555555555556,0
+108,Track Join: Distributed Joins with Minimal Network Traffic,20200119,Orestis Polychroniou,Alexandros Efentakis,703,0.15555555555555556,0
+109,Track Join: Distributed Joins with Minimal Network Traffic,20200119,Orestis Polychroniou,Arjun Dasgupta,733,0.15555555555555556,0
+110,Track Join: Distributed Joins with Minimal Network Traffic,20200119,Orestis Polychroniou,Dan Olteanu,793,0.15555555555555556,0
+111,Track Join: Distributed Joins with Minimal Network Traffic,20200119,Orestis Polychroniou,Mirco Stern,1086,0.15555555555555556,0
+112,Track Join: Distributed Joins with Minimal Network Traffic,20200119,Orestis Polychroniou,Michael T. Goodrich,1078,0.15555555555555556,0
+113,Track Join: Distributed Joins with Minimal Network Traffic,20200119,Orestis Polychroniou,Liping Peng,1024,0.15555555555555556,0
+114,ParaTimer: A Progress Indicator for MapReduce DAGs,20200120,Kristi Morton,Brian E. Ruttenberg,757,0.15555555555555556,0
+115,ParaTimer: A Progress Indicator for MapReduce DAGs,20200120,Kristi Morton,Prasang Upadhyaya,1157,0.15555555555555556,0
+116,ParaTimer: A Progress Indicator for MapReduce DAGs,20200120,Kristi Morton,Haopeng Zhang,898,0.15555555555555556,0
+117,ParaTimer: A Progress Indicator for MapReduce DAGs,20200120,Kristi Morton,Martin Kaufmann,1059,0.19642857142857145,0
+118,ParaTimer: A Progress Indicator for MapReduce DAGs,20200120,Kristi Morton,Muhammad Farhan,1099,0.15555555555555556,0
+119,ParaTimer: A Progress Indicator for MapReduce DAGs,20200120,Kristi Morton,Jinbao Wang,959,0.15555555555555556,0
+120,PABIRS: A Data Access Middleware for Distributed File Systems,20200121,Sai Wu,Shiwen Cheng,1211,0.19642857142857145,0
+121,PABIRS: A Data Access Middleware for Distributed File Systems,20200121,Sai Wu,Prasang Upadhyaya,1157,0.19642857142857145,0
+122,PABIRS: A Data Access Middleware for Distributed File Systems,20200121,Sai Wu,Jing Wang,960,0.20177670577535006,0
+123,PABIRS: A Data Access Middleware for Distributed File Systems,20200121,Sai Wu,Renata Borovica-Gajic,1180,0.15974069235137256,0
+124,PABIRS: A Data Access Middleware for Distributed File Systems,20200121,Sai Wu,Lu Li ,1030,0.15974069235137256,0
+125,PABIRS: A Data Access Middleware for Distributed File Systems,20200121,Sai Wu,Gunes Aluc,889,0.19642857142857145,0
+126,Adaptive Fault-Tolerance for Dynamic Resource Provisioning in Distributed Stream Processing Systems,20200122,Paolo Bellavista,R. Uday Kiran,1165,0.11554054054054053,0
+127,Adaptive Fault-Tolerance for Dynamic Resource Provisioning in Distributed Stream Processing Systems,20200122,Paolo Bellavista,Jennie Duggan ,939,0.15555555555555556,0
+128,Adaptive Fault-Tolerance for Dynamic Resource Provisioning in Distributed Stream Processing Systems,20200122,Paolo Bellavista,Robert Brunel,1186,0.11861504307305325,0
+129,Adaptive Fault-Tolerance for Dynamic Resource Provisioning in Distributed Stream Processing Systems,20200122,Paolo Bellavista,An Liu,712,0.11554054054054053,0
+130,Adaptive Fault-Tolerance for Dynamic Resource Provisioning in Distributed Stream Processing Systems,20200122,Paolo Bellavista,Nitin Gupta,1117,0.11554054054054053,0
+131,Adaptive Fault-Tolerance for Dynamic Resource Provisioning in Distributed Stream Processing Systems,20200122,Paolo Bellavista,Zach Jorgensen,1368,0.11554054054054053,0
+132,Fast Sort on CPUs and GPUs: A Case for Bandwidth Oblivious SIMD Sort,20200123,Nadathur Satish,Inah Jeon,922,0.11861504307305325,0
+133,Fast Sort on CPUs and GPUs: A Case for Bandwidth Oblivious SIMD Sort,20200123,Nadathur Satish,Jiexing Li,957,0.15555555555555556,0
+134,Fast Sort on CPUs and GPUs: A Case for Bandwidth Oblivious SIMD Sort,20200123,Nadathur Satish,Puya Memarzia,1159,0.19642857142857145,0
+135,Fast Sort on CPUs and GPUs: A Case for Bandwidth Oblivious SIMD Sort,20200123,Nadathur Satish,Jun Gao,973,0.11554054054054053,0
+136,Fast Sort on CPUs and GPUs: A Case for Bandwidth Oblivious SIMD Sort,20200123,Nadathur Satish,Yongming Luo,1344,0.11861504307305325,0
+137,Fast Sort on CPUs and GPUs: A Case for Bandwidth Oblivious SIMD Sort,20200123,Nadathur Satish,Zhao Sun,1375,0.2382352941176471,0
+138,"Serializability, not Serial: Concurrency Control and Availability in Multi-Datacenter Datastores",20200124,Stacy Patterson,Marios Meimaris,1056,0.07832594463128473,0
+139,"Serializability, not Serial: Concurrency Control and Availability in Multi-Datacenter Datastores",20200124,Stacy Patterson,Aravind Yalamanchi,729,0.11554054054054053,0
+140,"Serializability, not Serial: Concurrency Control and Availability in Multi-Datacenter Datastores",20200124,Stacy Patterson,Manish Kesarwani,1045,0.15555555555555556,0
+141,"Serializability, not Serial: Concurrency Control and Availability in Multi-Datacenter Datastores",20200124,Stacy Patterson,Arvind Arasu,740,0.11554054054054053,0
+142,"Serializability, not Serial: Concurrency Control and Availability in Multi-Datacenter Datastores",20200124,Stacy Patterson,Victor Zakhary,1278,0.11554054054054053,0
+143,"Serializability, not Serial: Concurrency Control and Availability in Multi-Datacenter Datastores",20200124,Stacy Patterson,Sumeet Bajaj,1239,0.11554054054054053,0
+144,Actively Soliciting Feedback for Query Answers in Keyword Search-Based Data Integration,20200125,Zhepeng Yan,Mostafa Ead,1097,0.11554054054054053,0
+145,Actively Soliciting Feedback for Query Answers in Keyword Search-Based Data Integration,20200125,Zhepeng Yan,Abdallah Arioua,682,0.11554054054054053,0
+146,Actively Soliciting Feedback for Query Answers in Keyword Search-Based Data Integration,20200125,Zhepeng Yan,Vasilis Efthymiou,1272,0.11554054054054053,0
+147,Actively Soliciting Feedback for Query Answers in Keyword Search-Based Data Integration,20200125,Zhepeng Yan,Lu Li ,1030,0.11861504307305325,0
+148,Actively Soliciting Feedback for Query Answers in Keyword Search-Based Data Integration,20200125,Zhepeng Yan,Mohammad Sadoghi,1092,0.1293070946107876,0
+149,Actively Soliciting Feedback for Query Answers in Keyword Search-Based Data Integration,20200125,Zhepeng Yan,Nikolay Laptev,1111,0.15555555555555556,0
+150,Data Generation using Declarative Constraints,20200126,Arvind Arasu,Abdallah Arioua,682,0.15555555555555556,0
+151,Data Generation using Declarative Constraints,20200126,Arvind Arasu,Zaiben Chen,1370,0.11861504307305325,0
+152,Data Generation using Declarative Constraints,20200126,Arvind Arasu,El Kindi Rezig,831,0.11861504307305325,0
+153,Data Generation using Declarative Constraints,20200126,Arvind Arasu,Jeff LeFevre,933,0.11861504307305325,0
+154,Data Generation using Declarative Constraints,20200126,Arvind Arasu,Mingjie Tang,1081,0.11861504307305325,0
+155,Data Generation using Declarative Constraints,20200126,Arvind Arasu,Anshuman Dutt,724,0.11554054054054053,0
+156,Dependency-Aware Reordering for Parallelizing Query Optimization in Multi-Core CPUs,20200127,Wook-Shin Han,R. Uday Kiran,1165,0.11554054054054053,0
+157,Dependency-Aware Reordering for Parallelizing Query Optimization in Multi-Core CPUs,20200127,Wook-Shin Han,Cristian Consonni,789,0.11861504307305325,0
+158,Dependency-Aware Reordering for Parallelizing Query Optimization in Multi-Core CPUs,20200127,Wook-Shin Han,Foteini Katsarou,866,0.11554054054054053,0
+159,Dependency-Aware Reordering for Parallelizing Query Optimization in Multi-Core CPUs,20200127,Wook-Shin Han,Miao Qiao,1070,0.11861504307305325,0
+160,Dependency-Aware Reordering for Parallelizing Query Optimization in Multi-Core CPUs,20200127,Wook-Shin Han,Viktor Leis,1280,0.11554054054054053,0
+161,Dependency-Aware Reordering for Parallelizing Query Optimization in Multi-Core CPUs,20200127,Wook-Shin Han,Anshuman Dutt,724,0.11554054054054053,0
+162,Hybrid Storage Management for Database Systems,20200128,Xin Liu,Stratos Idreos,1234,0.1642327847507107,0
+163,Hybrid Storage Management for Database Systems,20200128,Xin Liu,Radu Stoica,1168,0.19642857142857145,0
+164,Hybrid Storage Management for Database Systems,20200128,Xin Liu,Wenchao Zhou,1294,0.15555555555555556,0
+165,Hybrid Storage Management for Database Systems,20200128,Xin Liu,Ioannis Alagiannis,923,0.19642857142857145,0
+166,Hybrid Storage Management for Database Systems,20200128,Xin Liu,Khaled Elmeleegy,996,0.19642857142857145,0
+167,Hybrid Storage Management for Database Systems,20200128,Xin Liu,Sang-Won Lee,1197,0.15555555555555556,0
+168,Efficient Indexing for Diverse Query Results,20200129,Lu Li ,Paras Mehta ,1135,0.16408668730650156,0
+169,Efficient Indexing for Diverse Query Results,20200129,Lu Li ,Majed Sahli,1042,0.11861504307305325,0
+170,Efficient Indexing for Diverse Query Results,20200129,Lu Li ,Miao Qiao,1070,0.12180451127819547,0
+171,Efficient Indexing for Diverse Query Results,20200129,Lu Li ,Sumeet Bajaj,1239,0.11861504307305325,0
+172,Efficient Indexing for Diverse Query Results,20200129,Lu Li ,Abdallah Arioua,682,0.11861504307305325,0
+173,Efficient Indexing for Diverse Query Results,20200129,Lu Li ,Georgios J. Fakas,879,0.11861504307305325,0
+174,Hardware-Oblivious Parallelism for In-Memory Column-Stores,20200130,Max Heimel ,Konstantinos Mamouras,1002,0.1254665687408196,0
+175,Hardware-Oblivious Parallelism for In-Memory Column-Stores,20200130,Max Heimel ,Thanh T. L. Tran,1250,0.08505325311334808,0
+176,Hardware-Oblivious Parallelism for In-Memory Column-Stores,20200130,Max Heimel ,Rakesh Pimplikar,1174,0.1254665687408196,0
+177,Hardware-Oblivious Parallelism for In-Memory Column-Stores,20200130,Max Heimel ,Hoang Vu Nguyen,907,0.08280404302609262,0
+178,Hardware-Oblivious Parallelism for In-Memory Column-Stores,20200130,Max Heimel ,Yingxia Shao,1341,0.08280404302609262,0
+179,Hardware-Oblivious Parallelism for In-Memory Column-Stores,20200130,Max Heimel ,El Kindi Rezig,831,0.08505325311334808,0
+180,SpatialHadoop: A MapReduce Framework for Spatial Data,20200131,Ahmed Eldawy,Dimitris Tsirogiannis,819,0.15555555555555556,0
+181,SpatialHadoop: A MapReduce Framework for Spatial Data,20200131,Ahmed Eldawy,Sudipto Das,1236,0.15555555555555556,0
+182,SpatialHadoop: A MapReduce Framework for Spatial Data,20200131,Ahmed Eldawy,Victor Alvarez,1277,0.15555555555555556,0
+183,SpatialHadoop: A MapReduce Framework for Spatial Data,20200131,Ahmed Eldawy,Nikolay Laptev,1111,0.15555555555555556,0
+184,SpatialHadoop: A MapReduce Framework for Spatial Data,20200131,Ahmed Eldawy,Zheng Li,1378,0.15555555555555556,0
+185,SpatialHadoop: A MapReduce Framework for Spatial Data,20200131,Ahmed Eldawy,Yijou Chen,1337,0.1254665687408196,0
+186,3-HOP: A High-Compression Indexing Scheme for Reachability Query,20200201,Ruoming Jin,Alexandros Efentakis,703,0.11554054054054053,0
+187,3-HOP: A High-Compression Indexing Scheme for Reachability Query,20200201,Ruoming Jin,Xiaodong Li,1308,0.20177670577535006,0
+188,3-HOP: A High-Compression Indexing Scheme for Reachability Query,20200201,Ruoming Jin,Dimitris Bilidas,816,0.11554054054054053,0
+189,3-HOP: A High-Compression Indexing Scheme for Reachability Query,20200201,Ruoming Jin,Saad Aljubayrin,1195,0.11554054054054053,0
+190,3-HOP: A High-Compression Indexing Scheme for Reachability Query,20200201,Ruoming Jin,Zhao Sun,1375,0.11554054054054053,0
+191,3-HOP: A High-Compression Indexing Scheme for Reachability Query,20200201,Ruoming Jin,Tanmoy Chakraborty,1246,0.11554054054054053,0
+192,Optimizing Recursive Queries with Monotonic Aggregates in DeALS,20200202,Alexander Shkapsky,Ahmed Eldawy,692,0.15555555555555556,0
+193,Optimizing Recursive Queries with Monotonic Aggregates in DeALS,20200202,Alexander Shkapsky,Hoang Vu Nguyen,907,0.11554054054054053,0
+194,Optimizing Recursive Queries with Monotonic Aggregates in DeALS,20200202,Alexander Shkapsky,Jiexing Li,957,0.11554054054054053,0
+195,Optimizing Recursive Queries with Monotonic Aggregates in DeALS,20200202,Alexander Shkapsky,Robert Brunel,1186,0.11861504307305325,0
+196,Optimizing Recursive Queries with Monotonic Aggregates in DeALS,20200202,Alexander Shkapsky,Henrietta Dombrovskaya,903,0.19642857142857145,0
+197,Optimizing Recursive Queries with Monotonic Aggregates in DeALS,20200202,Alexander Shkapsky,Iraklis Psaroudakis,926,0.11554054054054053,0
+198,Entity Resolution with Iterative Blocking,20200203,Steven Euijong Whang,Chuan Lei,785,0.11554054054054053,0
+199,Entity Resolution with Iterative Blocking,20200203,Steven Euijong Whang,Marios Meimaris,1056,0.07832594463128473,0
+200,Entity Resolution with Iterative Blocking,20200203,Steven Euijong Whang,Hyun Jin Moon,918,0.07832594463128473,0
+201,Entity Resolution with Iterative Blocking,20200203,Steven Euijong Whang,Sudeepa Roy,1235,0.07631578947368423,0
+202,Entity Resolution with Iterative Blocking,20200203,Steven Euijong Whang,Chen Jason Zhang,769,0.11554054054054053,0
+203,Entity Resolution with Iterative Blocking,20200203,Steven Euijong Whang,Lu Li ,1030,0.07832594463128473,0
+204,Asynchronous View Maintenance for VLSD Databases,20200204,Parag Agrawal,Kai Zheng,980,0.11554054054054053,0
+205,Asynchronous View Maintenance for VLSD Databases,20200204,Parag Agrawal,Inah Jeon,922,0.07832594463128473,0
+206,Asynchronous View Maintenance for VLSD Databases,20200204,Parag Agrawal,Sayan Ranu,1199,0.07832594463128473,0
+207,Asynchronous View Maintenance for VLSD Databases,20200204,Parag Agrawal,Jing Wang,960,0.07832594463128473,0
+208,Asynchronous View Maintenance for VLSD Databases,20200204,Parag Agrawal,Renata Borovica-Gajic,1180,0.07832594463128473,0
+209,Asynchronous View Maintenance for VLSD Databases,20200204,Parag Agrawal,Dritan Bleco,826,0.11554054054054053,0
+210,Context-sensitive Ranking for Document Retrieval,20200205,Liang Jeff Chen,Michael J. Franklin,1075,0.11554054054054053,0
+211,Context-sensitive Ranking for Document Retrieval,20200205,Liang Jeff Chen,Fabian M. Suchanek,850,0.08280404302609262,0
+212,Context-sensitive Ranking for Document Retrieval,20200205,Liang Jeff Chen,Iraklis Psaroudakis,926,0.11554054054054053,0
+213,Context-sensitive Ranking for Document Retrieval,20200205,Liang Jeff Chen,Shi Gao,1207,0.11554054054054053,0
+214,Context-sensitive Ranking for Document Retrieval,20200205,Liang Jeff Chen,Adam Silberstein,688,0.11554054054054053,0
+215,Context-sensitive Ranking for Document Retrieval,20200205,Liang Jeff Chen,Florian Funke,863,0.11554054054054053,0
+216,Improving Company Recognition from Unstructured Text by using Dictionaries,20200206,Michael Loster,Michael J. Franklin,1075,0.15974069235137256,0
+217,Improving Company Recognition from Unstructured Text by using Dictionaries,20200206,Michael Loster,Amit Goyal,709,0.11861504307305325,0
+218,Improving Company Recognition from Unstructured Text by using Dictionaries,20200206,Michael Loster,Meihui Zhang,1067,0.15974069235137256,0
+219,Improving Company Recognition from Unstructured Text by using Dictionaries,20200206,Michael Loster,Rong Zhang,1190,0.15974069235137256,0
+220,Improving Company Recognition from Unstructured Text by using Dictionaries,20200206,Michael Loster,Efi Karra Taniskidou,830,0.11861504307305325,0
+221,Improving Company Recognition from Unstructured Text by using Dictionaries,20200206,Michael Loster,Yuyang Dong,1367,0.11861504307305325,0
+222,Efficient Exact Edit Similarity Query Processing with the Asymmetric Signature Scheme,20200207,Jianbin Qin,Paras Mehta ,1135,0.15974069235137256,0
+223,Efficient Exact Edit Similarity Query Processing with the Asymmetric Signature Scheme,20200207,Jianbin Qin,Alekh Jindal,699,0.19642857142857145,0
+224,Efficient Exact Edit Similarity Query Processing with the Asymmetric Signature Scheme,20200207,Jianbin Qin,Kasper Mullesgaard,985,0.19642857142857145,0
+225,Efficient Exact Edit Similarity Query Processing with the Asymmetric Signature Scheme,20200207,Jianbin Qin,Long Yuan,1027,0.15555555555555556,0
+226,Efficient Exact Edit Similarity Query Processing with the Asymmetric Signature Scheme,20200207,Jianbin Qin,Yufei Tao,1359,0.19642857142857145,0
+227,Efficient Exact Edit Similarity Query Processing with the Asymmetric Signature Scheme,20200207,Jianbin Qin,Lu Chen,1029,0.2382352941176471,0
+228,Querying K-Truss Community in Large and Dynamic Graphs,20200208,Xin Huang,Yubao Wu,1355,0.11861504307305325,0
+229,Querying K-Truss Community in Large and Dynamic Graphs,20200208,Xin Huang,Amit Goyal,709,0.15974069235137256,0
+230,Querying K-Truss Community in Large and Dynamic Graphs,20200208,Xin Huang,Saad Aljubayrin,1195,0.15974069235137256,0
+231,Querying K-Truss Community in Large and Dynamic Graphs,20200208,Xin Huang,Feifei Li,859,0.15974069235137256,0
+232,Querying K-Truss Community in Large and Dynamic Graphs,20200208,Xin Huang,Tilmann Zaschke,1260,0.12180451127819547,0
+233,Querying K-Truss Community in Large and Dynamic Graphs,20200208,Xin Huang,Sutanay Choudhury,1242,0.20177670577535006,0
+234,TI: An Efficient Indexing Mechanism for Real-Time Search on Tweets,20200209,Chun Chen,Arjun Dasgupta,733,0.15555555555555556,0
+235,TI: An Efficient Indexing Mechanism for Real-Time Search on Tweets,20200209,Chun Chen,Rakesh Pimplikar,1174,0.15555555555555556,0
+236,TI: An Efficient Indexing Mechanism for Real-Time Search on Tweets,20200209,Chun Chen,Miao Qiao,1070,0.11861504307305325,0
+237,TI: An Efficient Indexing Mechanism for Real-Time Search on Tweets,20200209,Chun Chen,Tanmoy Chakraborty,1246,0.19642857142857145,0
+238,TI: An Efficient Indexing Mechanism for Real-Time Search on Tweets,20200209,Chun Chen,Rani Qumsiyeh,1176,0.15555555555555556,0
+239,TI: An Efficient Indexing Mechanism for Real-Time Search on Tweets,20200209,Chun Chen,Yuchen Li,1356,0.20177670577535006,0
+240,KSQL: Streaming SQL Engine for Apache Kafka,20200210,Hojjat Jafarpour,Michael J. Franklin,1075,0.19642857142857145,0
+241,KSQL: Streaming SQL Engine for Apache Kafka,20200210,Hojjat Jafarpour,Aravind Yalamanchi,729,0.11554054054054053,0
+242,KSQL: Streaming SQL Engine for Apache Kafka,20200210,Hojjat Jafarpour,Svilen R. Mihaylov,1243,0.11554054054054053,0
+243,KSQL: Streaming SQL Engine for Apache Kafka,20200210,Hojjat Jafarpour,Christophe Claramunt,783,0.15555555555555556,0
+244,KSQL: Streaming SQL Engine for Apache Kafka,20200210,Hojjat Jafarpour,Jinbao Wang,959,0.11554054054054053,0
+245,KSQL: Streaming SQL Engine for Apache Kafka,20200210,Hojjat Jafarpour,Vasilis Samoladas,1273,0.15555555555555556,0
+246,Storing and Analyzing Historical Graph Data at Scale,20200211,Udayan Khurana,Hyun Jin Moon,918,0.11861504307305325,0
+247,Storing and Analyzing Historical Graph Data at Scale,20200211,Udayan Khurana,Peter Macko,1145,0.15555555555555556,0
+248,Storing and Analyzing Historical Graph Data at Scale,20200211,Udayan Khurana,Foteini Katsarou,866,0.15555555555555556,0
+249,Storing and Analyzing Historical Graph Data at Scale,20200211,Udayan Khurana,Sutanay Choudhury,1242,0.19642857142857145,0
+250,Storing and Analyzing Historical Graph Data at Scale,20200211,Udayan Khurana,Hongzhi Yin,911,0.15555555555555556,0
+251,Storing and Analyzing Historical Graph Data at Scale,20200211,Udayan Khurana,K. Selc¢¬uk Candan,976,0.15555555555555556,0
+252,Sequenced Route Query with Semantic Hierarchy,20200212,Yuya Sasaki,Zhepeng Yan,1380,0.11554054054054053,0
+253,Sequenced Route Query with Semantic Hierarchy,20200212,Yuya Sasaki,Paras Mehta ,1135,0.15974069235137256,0
+254,Sequenced Route Query with Semantic Hierarchy,20200212,Yuya Sasaki,Cristian Consonni,789,0.11861504307305325,0
+255,Sequenced Route Query with Semantic Hierarchy,20200212,Yuya Sasaki,Foteini Katsarou,866,0.11554054054054053,0
+256,Sequenced Route Query with Semantic Hierarchy,20200212,Yuya Sasaki,Yun Chi,1361,0.11554054054054053,0
+257,Sequenced Route Query with Semantic Hierarchy,20200212,Yuya Sasaki,Zheng Li,1378,0.11554054054054053,0
+258,Modeling and Exploiting Goal and Action Associations for Recommendations,20200213,Dimitra Papadimitriou,Yaser Oulabi,1332,0.11554054054054053,0
+259,Modeling and Exploiting Goal and Action Associations for Recommendations,20200213,Dimitra Papadimitriou,Marina Barsky,1054,0.15555555555555556,0
+260,Modeling and Exploiting Goal and Action Associations for Recommendations,20200213,Dimitra Papadimitriou,Shiwen Cheng,1211,0.15555555555555556,0
+261,Modeling and Exploiting Goal and Action Associations for Recommendations,20200213,Dimitra Papadimitriou,Amit Goyal,709,0.11554054054054053,0
+262,Modeling and Exploiting Goal and Action Associations for Recommendations,20200213,Dimitra Papadimitriou,Ting Deng,1262,0.15555555555555556,0
+263,Modeling and Exploiting Goal and Action Associations for Recommendations,20200213,Dimitra Papadimitriou,Yuyang Dong,1367,0.15555555555555556,0
+264,Discovering Correlations in Annotated Databases,20200214,Xuebin He,Konstantinos Mamouras,1002,0.11554054054054053,0
+265,Discovering Correlations in Annotated Databases,20200214,Xuebin He,Ling Gu,1023,0.19642857142857145,0
+266,Discovering Correlations in Annotated Databases,20200214,Xuebin He,Abdallah Arioua,682,0.15555555555555556,0
+267,Discovering Correlations in Annotated Databases,20200214,Xuebin He,Nikolaus Augsten,1110,0.11554054054054053,0
+268,Discovering Correlations in Annotated Databases,20200214,Xuebin He,Franc¢¬ois Goasdoue,867,0.15555555555555556,0
+269,Discovering Correlations in Annotated Databases,20200214,Xuebin He,Rajendra Shinde,1172,0.11554054054054053,0
+270,Efficient and scalable trie-based algorithms for computing set containment relations,20200215,Yongming Luo,Long Yuan,1027,0.15974069235137256,0
+271,Efficient and scalable trie-based algorithms for computing set containment relations,20200215,Yongming Luo,Feifei Li,859,0.11861504307305325,0
+272,Efficient and scalable trie-based algorithms for computing set containment relations,20200215,Yongming Luo,Haichuan Shang,890,0.12180451127819547,0
+273,Efficient and scalable trie-based algorithms for computing set containment relations,20200215,Yongming Luo,Lu Chen,1029,0.11861504307305325,0
+274,Efficient and scalable trie-based algorithms for computing set containment relations,20200215,Yongming Luo,Florian Funke,863,0.11861504307305325,0
+275,Efficient and scalable trie-based algorithms for computing set containment relations,20200215,Yongming Luo,Christodoulos Efstathiades,780,0.11861504307305325,0
+276,Reachability Queries on Large Dynamic Graphs: A Total Order Approach,20200216,Andy Diwen Zhu,Hoang Vu Nguyen,907,0.11554054054054053,0
+277,Reachability Queries on Large Dynamic Graphs: A Total Order Approach,20200216,Andy Diwen Zhu,Radu Stoica,1168,0.11554054054054053,0
+278,Reachability Queries on Large Dynamic Graphs: A Total Order Approach,20200216,Andy Diwen Zhu,Feifei Li,859,0.11554054054054053,0
+279,Reachability Queries on Large Dynamic Graphs: A Total Order Approach,20200216,Andy Diwen Zhu,Zhao Sun,1375,0.11554054054054053,0
+280,Reachability Queries on Large Dynamic Graphs: A Total Order Approach,20200216,Andy Diwen Zhu,Tilmann Zaschke,1260,0.15974069235137256,0
+281,Reachability Queries on Large Dynamic Graphs: A Total Order Approach,20200216,Andy Diwen Zhu,Jinbao Wang,959,0.11554054054054053,0
+282,Opportunistic Physical Design for Big Data Analytics,20200217, Jeff LeFevre,Pirooz Chubak,1154,0.11554054054054053,0
+283,Opportunistic Physical Design for Big Data Analytics,20200217, Jeff LeFevre,Manish Kesarwani,1045,0.11554054054054053,0
+284,Opportunistic Physical Design for Big Data Analytics,20200217, Jeff LeFevre,Thanh T. L. Tran,1250,0.11861504307305325,0
+285,Opportunistic Physical Design for Big Data Analytics,20200217, Jeff LeFevre,Sumeet Bajaj,1239,0.15555555555555556,0
+286,Opportunistic Physical Design for Big Data Analytics,20200217, Jeff LeFevre,Damian Bursztyn,792,0.11554054054054053,0
+287,Opportunistic Physical Design for Big Data Analytics,20200217, Jeff LeFevre,Iraklis Psaroudakis,926,0.15555555555555556,0
+288,Discovering Order Dependencies through Order Compatibility,20200218,Cristian Consonni,Bin Cao,750,0.15974069235137256,0
+289,Discovering Order Dependencies through Order Compatibility,20200218,Cristian Consonni,Hyunjung Park,919,0.15974069235137256,0
+290,Discovering Order Dependencies through Order Compatibility,20200218,Cristian Consonni,Raphael Bonaque,1177,0.15974069235137256,0
+291,Discovering Order Dependencies through Order Compatibility,20200218,Cristian Consonni,Jing Wang,960,0.12180451127819547,0
+292,Discovering Order Dependencies through Order Compatibility,20200218,Cristian Consonni,Jeff LeFevre,933,0.12180451127819547,0
+293,Discovering Order Dependencies through Order Compatibility,20200218,Cristian Consonni,Per-Ake Larson,1140,0.16408668730650156,0
+294,Comparative Analysis of Content-based Personalized Microblog Recommendations [Experiments and Analysis],20200219,Efi Karra Taniskidou,Haiquan Chen,891,0.11554054054054051,0
+295,Comparative Analysis of Content-based Personalized Microblog Recommendations [Experiments and Analysis],20200219,Efi Karra Taniskidou,Shiwen Cheng,1211,0.15555555555555556,0
+296,Comparative Analysis of Content-based Personalized Microblog Recommendations [Experiments and Analysis],20200219,Efi Karra Taniskidou,Amit Goyal,709,0.15555555555555556,0
+297,Comparative Analysis of Content-based Personalized Microblog Recommendations [Experiments and Analysis],20200219,Efi Karra Taniskidou,Kaiqi Zhao,981,0.15555555555555556,0
+298,Comparative Analysis of Content-based Personalized Microblog Recommendations [Experiments and Analysis],20200219,Efi Karra Taniskidou,Shi Gao,1207,0.19642857142857145,0
+299,Comparative Analysis of Content-based Personalized Microblog Recommendations [Experiments and Analysis],20200219,Efi Karra Taniskidou,Zhenjie Zhang,1379,0.11554054054054051,0

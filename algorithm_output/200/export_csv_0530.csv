@@ -1,0 +1,61 @@
+,submitter_title,date,submitter_name,reviewer_name,reviewer_orcid,sim,count
+0,Diversifying Top-K Results,20200101,Lu Qin,Hoang Vu Nguyen,907,0.11554054054054053,0
+1,Diversifying Top-K Results,20200101,Lu Qin,Yuhong Li,1360,0.11554054054054053,0
+2,Diversifying Top-K Results,20200101,Lu Qin,Lu Chen,1029,0.15555555555555556,0
+3,Diversifying Top-K Results,20200101,Lu Qin,Abdallah Arioua,682,0.11554054054054053,0
+4,Diversifying Top-K Results,20200101,Lu Qin,Abdullah Mueen,683,0.11554054054054053,0
+5,Diversifying Top-K Results,20200101,Lu Qin,David B. Lomet,802,0.11861504307305325,0
+6,A Generic Framework for Efficient and Effective Subsequence Retrieval,20200102,Haohan Zhu,Raphael Bonaque,1177,0.07631578947368423,0
+7,A Generic Framework for Efficient and Effective Subsequence Retrieval,20200102,Haohan Zhu,Arian Bar,730,0.07832594463128473,0
+8,A Generic Framework for Efficient and Effective Subsequence Retrieval,20200102,Haohan Zhu,Daichi Amagata,791,0.07631578947368423,0
+9,A Generic Framework for Efficient and Effective Subsequence Retrieval,20200102,Haohan Zhu,Yudian Zheng,1358,0.11554054054054053,0
+10,A Generic Framework for Efficient and Effective Subsequence Retrieval,20200102,Haohan Zhu,Chih-Ya Shen,776,0.07832594463128473,0
+11,A Generic Framework for Efficient and Effective Subsequence Retrieval,20200102,Haohan Zhu,Michael Shekelyan,1077,0.11554054054054053,0
+12,A Comparison of Flexible Schemas for Software as a Service,20200103,Stefan Aulbach,Mingzhu Wei,1082,0.11861504307305325,0
+13,A Comparison of Flexible Schemas for Software as a Service,20200103,Stefan Aulbach,Jing Wang,960,0.12180451127819547,0
+14,A Comparison of Flexible Schemas for Software as a Service,20200103,Stefan Aulbach,Jinbao Wang,959,0.11861504307305325,0
+15,A Comparison of Flexible Schemas for Software as a Service,20200103,Stefan Aulbach,Anupam Sanghi,728,0.11861504307305325,0
+16,A Comparison of Flexible Schemas for Software as a Service,20200103,Stefan Aulbach,Daniel Schall,800,0.08040935672514621,0
+17,A Comparison of Flexible Schemas for Software as a Service,20200103,Stefan Aulbach,Carsten Binnig,761,0.11861504307305325,0
+18,A Comprehensive Study of Main-Memory Partitioning and its Application to Large-Scale Comparison- and Radix-Sort,20200104,Orestis Polychroniou,Julian Shun,972,0.11554054054054053,0
+19,A Comprehensive Study of Main-Memory Partitioning and its Application to Large-Scale Comparison- and Radix-Sort,20200104,Orestis Polychroniou,Yongming Luo,1344,0.07832594463128473,0
+20,A Comprehensive Study of Main-Memory Partitioning and its Application to Large-Scale Comparison- and Radix-Sort,20200104,Orestis Polychroniou,Julia Stoyanovich,971,0.08048240544725077,0
+21,A Comprehensive Study of Main-Memory Partitioning and its Application to Large-Scale Comparison- and Radix-Sort,20200104,Orestis Polychroniou,Dimitris Bilidas,816,0.07631578947368423,0
+22,A Comprehensive Study of Main-Memory Partitioning and its Application to Large-Scale Comparison- and Radix-Sort,20200104,Orestis Polychroniou,Abdullah Mueen,683,0.11554054054054053,0
+23,A Comprehensive Study of Main-Memory Partitioning and its Application to Large-Scale Comparison- and Radix-Sort,20200104,Orestis Polychroniou,Aristides Gionis,732,0.11554054054054053,0
+24,Making Pattern Queries Bounded in Big Graphs,20200105,Yang Cao,Khaled Elmeleegy,996,0.07631578947368423,0
+25,Making Pattern Queries Bounded in Big Graphs,20200105,Yang Cao,Abdallah Arioua,682,0.07631578947368423,0
+26,Making Pattern Queries Bounded in Big Graphs,20200105,Yang Cao,Sutanay Choudhury,1242,0.2382352941176471,0
+27,Making Pattern Queries Bounded in Big Graphs,20200105,Yang Cao,Yuyang Dong,1367,0.07631578947368423,0
+28,Making Pattern Queries Bounded in Big Graphs,20200105,Yang Cao,Wolfgang Gatterbauer,1301,0.07631578947368423,0
+29,Making Pattern Queries Bounded in Big Graphs,20200105,Yang Cao,Andrey Gubichev,717,0.07832594463128473,0
+30,Predictive Tree: An Efficient Index for Predictive Queries On Road Networks,20200106,Abdeltawab M. Hendawi,Raphael Bonaque,1177,0.11554054054054053,0
+31,Predictive Tree: An Efficient Index for Predictive Queries On Road Networks,20200106,Abdeltawab M. Hendawi,Lu Chen,1029,0.11554054054054053,0
+32,Predictive Tree: An Efficient Index for Predictive Queries On Road Networks,20200106,Abdeltawab M. Hendawi,Emre Sefer,836,0.15555555555555556,0
+33,Predictive Tree: An Efficient Index for Predictive Queries On Road Networks,20200106,Abdeltawab M. Hendawi,Julia Stoyanovich,971,0.12191408436135236,0
+34,Predictive Tree: An Efficient Index for Predictive Queries On Road Networks,20200106,Abdeltawab M. Hendawi,Dimitris Bilidas,816,0.15555555555555556,0
+35,Predictive Tree: An Efficient Index for Predictive Queries On Road Networks,20200106,Abdeltawab M. Hendawi,Kenneth Fuglsang Christensen,993,0.19642857142857145,0
+36,Kernel-Based Cardinality Estimation on Metric Data,20200107,Michael Mattig,Cristian Consonni,789,0.07832594463128473,0
+37,Kernel-Based Cardinality Estimation on Metric Data,20200107,Michael Mattig,Gheorghi Guzun,881,0.11861504307305325,0
+38,Kernel-Based Cardinality Estimation on Metric Data,20200107,Michael Mattig,Manas Joglekar,1043,0.11554054054054053,0
+39,Kernel-Based Cardinality Estimation on Metric Data,20200107,Michael Mattig,Sudip Roy,723,0.11554054054054053,0
+40,Kernel-Based Cardinality Estimation on Metric Data,20200107,Michael Mattig,Jennie Duggan,938,0.11554054054054053,0
+41,Kernel-Based Cardinality Estimation on Metric Data,20200107,Michael Mattig,Mingjie Tang,1081,0.11861504307305325,0
+42,Iterative Estimation of Mutual Information with Error Bounds,20200108,Michael Vollmer,Mingzhu Wei,1082,0.11554054054054053,0
+43,Iterative Estimation of Mutual Information with Error Bounds,20200108,Michael Vollmer,Julia Stoyanovich,971,0.08048240544725077,0
+44,Iterative Estimation of Mutual Information with Error Bounds,20200108,Michael Vollmer,Jennie Duggan,938,0.11554054054054053,0
+45,Iterative Estimation of Mutual Information with Error Bounds,20200108,Michael Vollmer,Yudian Zheng,1358,0.11554054054054053,0
+46,Iterative Estimation of Mutual Information with Error Bounds,20200108,Michael Vollmer,Arlei Silva,735,0.11554054054054053,0
+47,Iterative Estimation of Mutual Information with Error Bounds,20200108,Michael Vollmer,Gregory Buehrer,885,0.11554054054054053,0
+48,ERACER: A Database Approach for Statistical Inference and Data Cleaning,20200109,Chris Mayfield,Jing Wang,960,0.20177670577535012,0
+49,ERACER: A Database Approach for Statistical Inference and Data Cleaning,20200109,Chris Mayfield,Inah Jeon,922,0.11861504307305325,0
+50,ERACER: A Database Approach for Statistical Inference and Data Cleaning,20200109,Chris Mayfield,Abdallah Arioua,682,0.11554054054054053,0
+51,ERACER: A Database Approach for Statistical Inference and Data Cleaning,20200109,Chris Mayfield,Rong Zhang,1190,0.11554054054054053,0
+52,ERACER: A Database Approach for Statistical Inference and Data Cleaning,20200109,Chris Mayfield,Gunes Aluc,889,0.11554054054054053,0
+53,ERACER: A Database Approach for Statistical Inference and Data Cleaning,20200109,Chris Mayfield,Nathalie Charbel,1104,0.11554054054054053,0
+54,Processing a Trillion Cells per Mouse Click,20200110,Alexander Hall,Christina Pavlopoulou,779,0.15555555555555556,0
+55,Processing a Trillion Cells per Mouse Click,20200110,Alexander Hall,Peter Macko,1145,0.15555555555555556,0
+56,Processing a Trillion Cells per Mouse Click,20200110,Alexander Hall,Dimitris Bilidas,816,0.15555555555555556,0
+57,Processing a Trillion Cells per Mouse Click,20200110,Alexander Hall,Abdullah Mueen,683,0.15555555555555556,0
+58,Processing a Trillion Cells per Mouse Click,20200110,Alexander Hall,Per-Ake Larson,1140,0.20177670577535015,0
+59,Processing a Trillion Cells per Mouse Click,20200110,Alexander Hall,Jiefeng Cheng,956,0.15555555555555556,0

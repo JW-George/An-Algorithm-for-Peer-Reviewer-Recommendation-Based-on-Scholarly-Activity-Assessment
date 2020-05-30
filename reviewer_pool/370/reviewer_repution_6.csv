@@ -1,0 +1,371 @@
+reviewer_orcid,reviewer_title,reviewer_title_doi,reviewer_diligency,reviewer_available
+915,Loom: Query-aware Partitioning of Online Graphs,,1,1
+1177,"Social, Structured and Semantic Search",,0,2
+950,DeepSea: Progressive Workload-Aware Partitioning of Materialized Views in Scalable Data Analytics,,1,3
+897,Privacy Preserving Similarity Evaluation of Time Series Data,,0,1
+1135,Finding Socio-Textual Associations Among Locations,,1,2
+791,Monitoring MaxRS in Spatial Data Streams,,0,3
+1099,A Highly Scalable Labelling Approach for Exact Distance Queries in Complex Networks,,0,2
+814,Efficient Record Linkage Using a Compact Hamming Space,,1,3
+1279,Querying RDF Data Using A Multigraph-based Approach,,0,1
+1136,HCS: Hierarchical Cut Selection for Efficiently Processing Queries on Data Columns using Hierarchical Bitmap,,1,2
+728,Scalable and Dynamic Regeneration of Big Data Volumes,,0,3
+789,Discovering Order Dependencies through Order Compatibility,,1,1
+779,A Parallel and Scalable Processor for JSON Data,,0,2
+1273,Functional Geometric Monitoring for Distributed Streams,,1,3
+718,Learning Path Queries on Graph Databases,,0,1
+792,Optimizing Reformulation-based Query Answering in RDF,,1,2
+1000,The Copernicus App Lab project: Easy Access to Copernicus Data,,0,3
+938,Contender: A Resource Modeling Approach for Concurrent Query Performance Prediction,,1,1
+1112,Attendance Maximization for Successful Social Event Planning,,0,2
+1150,DynFD: Functional Dependency Discovery in Dynamic Datasets,,1,3
+941,Holistic Data Profiling: Simultaneous Discovery of Various Metadata,,0,1
+690,Cohesive Keyword Search on Tree Data,,1,2
+785,Redoop: Supporting Recurring Queries in Hadoop,,0,3
+1220,A Tale of Two Graphs: Property Graphs as RDF in Oracle,,1,1
+1349,"Taxi Queue, Passenger Queue or No Queue? A Queue Detection and Analysis System using Taxi State Transition",,0,2
+1189,Finding Contrast Patterns for Mixed Streaming Data,,1,3
+1374,Efficient and Flexible Index Access in MapReduce,,0,1
+770,Umzi: Unified Multi-Zone Indexing for Large-Scale HTAP,,1,2
+1207,"RDF-TX: A Fast, User-Friendly System for Querying the History of RDF Knowledge Bases",,0,3
+1181,Reachability Queries in Very Large Graphs: A Fast Refined Online Search Approach,,0,2
+719,Interactive Inference of Join Queries,,1,3
+1266,Interactive Rule Refinement for Fraud Detection,,1,2
+1109,Query-Based Why-Not Provenance with NedExplain ,,0,3
+1253,Exact and Approximate Algorithms for Finding k-Shortest Paths with Limited Overlap,,1,1
+851,COP: Planning Conflicts for Faster Parallel Transactional Machine Learning,,0,2
+987,Reconstruction Privacy: Enabling Statistical Learning,,1,3
+783,Maritime Data Integration and Analysis:  Recent Progress and Research Challenges,,0,1
+1367,Grid-Index Algorithm for Reverse Rank Queries,,1,2
+1255,Spatial Data Management Challenges in the Simulation Sciences,,0,3
+780,Similarity Search on Spatio-Textual Point Sets,,1,1
+1348,Query Optimization over Cloud Data Market,,0,2
+1211,Slowing the Firehose: Multi-Dimensional Diversity on Social Post Streams,,1,3
+806,Leveraging Bitmap Indexing for Subgraph Searching,,0,1
+703,Scalable Public Transportation Queries on the Database,,1,2
+1269,Storing and Analyzing Historical Graph Data at Scale,,0,3
+1332,Extending Cross-Domain Knowledge Bases with Long Tail Entities using Web Table Data,,1,1
+1104,Resolving XML Semantic Ambiguity,,0,2
+1115,In-DBMS Sampling-based Sub-trajectory Clustering,,1,3
+1366,Efficient Network Reliability Computation in Uncertain Graphs,,0,1
+1308,Scalable Evaluation of k-NNQueries on Large Uncertain Graphs,,0,3
+717,Exploiting the query structure for efficient join ordering in SPARQL queries,,1,1
+1358,On Optimality of Jury Selection in Crowdsourcing,,0,2
+803,Toward Hardware-Sensitive Database Operations,,1,3
+1127,Learning to Rank Adaptively for Scalable Information Extraction,,0,1
+698,An Automated System for Internet Pharmacy Verification,,1,2
+682,User-guided Repairing of Inconsistent Knowledge Bases,,1,1
+881,Distributed query-aware quantization for high-dimensional similarity searches,,0,2
+971,Online Set Selection with Fairness and Diversity Constraints,,1,3
+1272,"MinoanER: Schema-Agnostic, Non-Iterative, Massively Parallel Resolution of Web Entities",,0,1
+1165,Discovering Recurring Patterns in Time Series,,1,2
+1350,K-Nearest Neighbor Temporal Aggregate Queries,,0,3
+1097,PStorM: Profile Storage and Matching for Feedback-Based Tuning of MapReduce Jobs,,1,1
+1013,Exploring Text Classification for Messy Data: An Industry Use Case for Domain-Specific Analytics,,0,2
+1286,Optimizing Selection Processing for Encrypted Database using Past Result Knowledge Base,,1,3
+1202,Estimating Data Integration and Cleaning Effort,,1,2
+866,Subgraph Querying with Parallel Use of Query Rewritings and Alternative Algorithms,,0,3
+1242,A Selectivity based approach to Continuous Pattern Detection in Streaming Graphs,,1,1
+776,Task-Optimized Group Search for Social Internet of Things,,0,2
+1175,Data Ingestion in AsterixDB,,1,3
+722,Buddy Instance - A Mechanism for Increasing Availability  in Shared-Disk Clusters,,0,1
+1122,Context-aware Event Stream Analytics,,1,2
+826,Graph Analytics on Massive Collections of Small Graphs,,0,3
+1045,Efficient Secure k-Nearest Neighbours over Encrypted Data,,0,2
+1278,Global-Scale Placement of Transactional Data Stores,,1,3
+1324,Counting Edges with Target Labels in Online Social Networks via RandomWalk,,0,1
+1231,Using Object-Awareness to Optimize Join Processing in the SAP HANA Aggregate Cache,,1,2
+907,Identifying User Interests within the Data Space - a Case Study with SkyServer,,1,1
+815,Identifying and Describing Streets of Interest,,0,2
+1081,Efficient Processing of Hamming-Distance-Based Similarity-Search Queries Over MapReduce,,1,3
+1318,ID Repair for Trajectories with Transition Graphs,,0,1
+985,Efficient Skyline Computation in MapReduce,,1,2
+874,Big Data Analytics for Time Critical Maritime and Aerial Mobility Forecasting,,1,1
+1258,Data-driven Schema Normalization,,0,2
+1096,Parallel Array-Based Single- and Multi-Source Breadth First Searches on Large Dense Graphs,,1,3
+1298,Efficient Parallel Spatial Skyline Evaluation Using MapReduce,,0,1
+960,Indexing Query Graphs to Speedup Graph Query Processing,,1,2
+830,Comparative Analysis of Content-based Personalized Microblog Recommendations [Experiments and Analysis],,0,3
+1056,Efficient Computation of Containment and Complementarity in RDF Data Cubes,,1,1
+1159,A Six-dimensional Analysis of In-memory Aggregation,,0,2
+903,Talking To The Database In A Semantically Rich Way,,1,3
+816,Scalable Parallelization of RDF Joins on Multicore Architectures,,0,1
+836,Convex Risk Minimization to Infer Networks from Probabilistic Diffusion Data at Multiple Scales,,1,2
+956,VENUS: Vertex-Centric Streamlined Graph Computation on a Single PC,,0,3
+804,Understanding Computer Usage Evolution ,,1,1
+993,Searchlight: Context-Aware Predictive Continuous Querying of Moving Objects in Symbolic Space,,0,2
+766,On Historical Diagnosis of Sensor Streams,,1,3
+958,Conflict-Aware Event-Participant Arrangement,,0,1
+1274,Entity Resolution with Crowd Errors,,1,2
+1356,Real Time Personalized Search on Social Networks,,0,3
+1145,LLAMA: Efficient Graph Analytics Using Large Multiversioned Arrays,,1,1
+1203,Efficient Sample Generation for Scalable Meta Learning,,0,2
+1213,Fine-Grained Controversy Detection in Wikipedia,,1,3
+1025,Temporal Spatial-Keyword Top-k Publish/Subscribe,,0,1
+988,False Rumors Detection on Sina Weibo by Propagation Structures,,1,2
+825,Nearest Neighborhood Search in Spatial Databases,,0,3
+1289,STREAMCUBE: Hierarchical Spatio-temporal Hashtag Clustering for Event Exploration over the Twitter Stream,,1,1
+1191,On Random Walk Based Graph Sampling,,0,2
+1315,Querying K-Truss Community in Large and Dynamic Graphs,,0,1
+734,Mining Maximal Cliques from an Uncertain Graph,,1,2
+1245,Scalable SimRank Join Algorithm,,0,3
+843,Privacy-Aware Dynamic Feature Selection,,1,1
+1368,Conservative or Liberal? Personalized Differential Privacy,,0,2
+1336,Preserving Privacy in Social Networks Against Connection Fingerprint Attacks,,1,3
+1293,Short Text Understanding Through Lexical-Semantic Analysis,,0,1
+1206,Differentially Private Frequent Sequence Mining via Sampling-based Candidate Pruning,,1,2
+1163,LDV: Light-weight Database Virtualization,,1,1
+1378,PIE: Approximate Interleaving Event Matching over Sequences ,,0,2
+1059,Bi-temporal Timeline Index: A Data Structure for Processing Queries on Bi-temporal Data,,1,3
+1042,Automatic Tuning of Bag-of-Tasks Applications,,0,1
+972,"Multicore Triangle Computations Without Tuning Julian Shun1, Kanat Tangwongsan2",,1,2
+1066,Meaningful Keyword Search in Relational Databases with Large and Complex Schema,,0,3
+1360,Quick-Motif: An Efficient and Scalable Framework for Exact Motif Discovery,,1,1
+735,Hierarchical In-Network Attribute Compression via Importance Sampling,,0,2
+873,Piecewise Linear Approximation of Streaming Time Series Data with Max-error Guarantees,,1,3
+1190,Dish Comment Summarization Based on Bilateral Topic Analysis,,0,1
+1277,A Comparison of Adaptive Radix Trees and Hash Tables,,1,2
+723,PerfAugur: Robust Diagnostics for Performance,,0,3
+1029,Efficient Metric Indexing for Similarity Search ,,1,1
+787,Window-Chained Longest Common Subsequence:  Common Event Matching in Sequences,,0,2
+885,Towards a Parameter-Free and Parallel Itemset Mining Algorithm in Linearithmic Time,,1,3
+924,Seamlessly Integrating Disk and Tape in a Multi-tiered Distributed File System,,0,1
+974,Robust Clustering of Multi-type Relational Data via a Heterogeneous Manifold Ensemble,,1,2
+786,Diversified Caching for Replicated Web Search Engines,,0,3
+1024,Groupwise Analytics via Adaptive MapReduce,,1,1
+800,Dynamic Physiological Partitioning on a Shared-Nothing Database Cluster,,0,2
+948,Personalized Route Recommendation using Big Trajectory Data,,1,3
+906,Progressive Diversification for Column-based Data Exploration Platforms,,0,1
+1027,Diversified Top-K Clique Search,,1,2
+1098,The Power of Both Choices: Practical Load Balancing for Distributed Stream Processing Engines,,0,3
+1195,The Safest Path via Safe Zones ,,1,1
+1082,INSURE: An Integrated Load Reduction Framework for XML Stream Processing,,0,2
+1321,The DBMS ? your Big Data Sommelier,,1,3
+1304,Scaling up Copy Detection,,0,1
+694,Scalable Distributed Transactions across Heterogeneous Stores,,1,2
+1186,Supporting Hierarchical Data in SAP HANA,,0,3
+1063,Proof Positive and Negative in Data Cleaning,,1,1
+916,A Location-Aware Publish/Subscribe Framework for Parameterized Spatio-Textual Subscriptions,,0,2
+1023,Chronos: An Elastic Parallel Framework for Stream Benchmark Generation and Simulation,,1,3
+769,Cleaning Uncertain Data with a Noisy Crowd,,0,1
+1093,Configurable Hardware-based Streaming Architecture using Online Programmable-Blocks,,1,2
+893,Making Sense of Trajectory Data: A Partition-and-Summarization Approach,,0,3
+1077,Linear Path Skylines in Multicriteria Networks,,1,1
+922,HaTen2: Billion-scale Tensor Decompositions,,0,2
+1267,A General Graph-based Model for Recommendation in Event-based Social Networks,,1,3
+981,SAR: A Sentiment-Aspect-Region Model for User Preference Analysis in Geo-tagged Reviews,,0,1
+1344,Efficient and scalable trie-based algorithms for computing set containment relations,,1,2
+1142,Ranking Candidate Networks of Relations to Improve Keyword Search over Relational Databases,,0,3
+1306,AP-Tree: Efficiently Support Continuous Spatial-Keyword Queries Over Stream,,1,3
+1305,Online Frequent Episode Mining,,0,1
+1107,Result Selection and Summarization for Web Table Search,,1,2
+1325,Growing the Charging Station Network for Electric Vehicles with Trajectory Data Analytics,,0,3
+947,Bounded Quadrant System: Error-bounded Trajectory Compression on the Go,,1,1
+732,Bump hunting in the dark: Local discrepancy maximization on graphs,,0,2
+887,Multi-Constrained Graph Pattern Matching in Large-Scale Contextual Social Graphs,,1,3
+1057,Dynamic Programming: The Next Step,,0,1
+878,Generating Reading Orders over Document Collections,,1,2
+952,A Hybrid Private Record Linkage Scheme: Separating Differentially Private Synopses From Matching Records,,0,3
+692,SpatialHadoop: A MapReduce Framework for Spatial Data,,1,1
+730,Cache-Oblivious Scheduling of Shared Workloads,,0,2
+1376,Asymmetric Structure-Preserving Subgraph Queries for Large Graphs,,1,3
+1119,Identifying Users in Social Networks with Limited Information,,1,2
+1246,DiSCern: A Diversified Citation Recommendation System for Scientific Queries,,0,3
+1016,Answering Why-Not Questions on Spatial Keyword Top-k Queries,,1,1
+1180,Smooth Scan: Statistics-Oblivious Access Paths,,0,2
+1299,Network Motif Discovery: A GPU Approach,,1,3
+1146,Time Dependent Transportation Network Models,,0,1
+831,Query-Time Record Linkage and Fusion over Web Databases,,1,2
+1219,DualTable: A Hybrid Storage Model for Update Optimization in Hive,,0,3
+712,Efficient Secure Similarity Computation on Encrypted Trajectory Data,,1,1
+889,Executing Queries over Schemaless RDF Databases,,0,2
+1340,ChronoStream: Elastic Stateful Stream Computation in the Cloud,,0,1
+961,Finding Top-k Local Users in Geo-Tagged Social Media Data,,1,2
+1043,Comprehensive and Reliable Crowd Assessment Algorithms,,0,3
+802,High Performance Temporal Indexing on Modern Hardware,,1,1
+683,Fast Approximate Correlation for Massive Time-series Data,,0,2
+1124,Jigsaw: Efficient Optimization Over Uncertain Enterprise Data,,1,3
+688,Feeding Frenzy: Selectively Materializing Users¡¯ Event Feeds,,0,1
+1234,Self-organizing Tuple Reconstruction in Column-stores,,1,2
+1355,Fast and Unified Local Search for Random Walk Based K-Nearest-Neighbor Query in Large Graphs,http://dx.doi.org/10.1145/2588555.2610500.,0,3
+1301,Data Conflict Resolution Using Trust Mappings,,1,1
+959,Indexing Multi-dimensional Data in a Cloud System,,0,2
+1022,DDE: From Dewey to a Fully Dynamic XML Labeling Scheme,,1,3
+1379,Bed-Tree: An All-Purpose Index Structure for String Similarity Search Based on Edit Distance,,0,1
+1140,SQL Server Column Store Indexes,,1,2
+996,SpongeFiles: Mitigating Data Skew in MapReduce Using Distributed Memory,,0,2
+918,Scalable Architecture and Query Optimization for Transaction-time DBs with Evolving Schemas,,1,3
+714,How to Stop Under-Utilization and Love Multicores,,0,1
+1021,Context-sensitive Ranking for Document Retrieval,,1,2
+761,Dictionary-based Order-preserving String Compression for Main Memory Column Stores,,0,3
+1235,A Formal Approach to Finding Explanations for Database Queries,,0,2
+793,Secondary-Storage Confidence Computation for Conjunctive Queries with Inequalities,,1,3
+1080,LINVIEW: Incremental View Maintenance for Complex Analytical Queries,,0,1
+1075,CrowdDB: Answering Queries with Crowdsourcing,,1,2
+1334,AutoPlait: Automatic Mining of Co-evolving Time Sequences,,0,3
+933,MISO: Souping Up Big Data Query Processing with a Multistore System,,1,1
+1197,Advances in Flash Memory SSD Technology for Enterprise Database Applications,,0,2
+1294,Efficient Querying and Maintenance of Network Provenance at Internet-Scale,,1,3
+1337,Partial Join Order Optimization in the ParAccel Analytic Database,,0,1
+700,Interactive Data Exploration Using Semantic Windows,,1,2
+1164,Query by Output,,0,3
+1260,The PH-Tree - A Space-Efficient Storage Structure and Multi-Dimensional Index,http://dx.doi.org/10.1145/2588555.2588564.,0,2
+1172,Similarity Search and Locality Sensitive Hashing using Ternary Content Addressable Memories,,1,3
+911,A Temporal Context-Aware Model for User Behavior Modeling in Social Media Systems,,0,1
+1347,Resource-oriented Approximation for Frequent Itemset Mining from Bursty Data Streams,,1,2
+1088,Optimizing I/O-Intensive Transactions in Highly Interactive Applications,,0,3
+939,Performance Prediction for Concurrent Database Workloads,,1,1
+1372,Sampling Based Algorithms for Quantile Computation in Sensor Networks,,0,2
+1004,Indexing for Interactive Exploration of Big Data Series,,1,3
+1095,Peta-Scale Data Warehousing at Yahoo!,,0,1
+864,Parallelizing Extensible Query Optimizers,,1,2
+729,Compensation-Aware Data Types in RDBMS,,1,1
+1117,Entangled Queries: Enabling Declarative Data-Driven Coordination,,0,2
+1067,Automatic Discovery of Attributes in Relational Databases,,1,3
+1210,Scalable Skyline Computation Using Object-based Space Partitioning,,0,1
+689,Recsplorer: Recommendation Algorithms Based on Precedence Mining,,1,2
+1233,Entity Resolution with Iterative Blocking,,0,3
+1123,An Application-Specific Instruction Set for Accelerating Set-Oriented Database Primitives,http://dx.doi.org/10.1145/2588555.2593677.,1,1
+801,Sinew: A SQL System for Multi-Structured Data,,0,2
+1276,Predicting Cost Amortization for Query Services,,1,3
+980,K-Nearest Neighbor Search for Fuzzy Objects,,0,1
+858,Schema-free SQL,,1,2
+1015,HAWQ: A Massively Parallel Processing SQL Engine in Hadoop,,1,1
+936,Facet Discovery for Structured Web Search: A Query-log Mining Approach,,0,1
+898,On Complexity and Optimization of Expensive Queries in Complex Event Processing,,0,3
+691,Dynamic Plan Generation for Parameterized Queries,,1,1
+923,H2O: A Hands-free Adaptive Store,,0,2
+733,Privacy Preservation of Aggregates in Hidden Databases:  Why and How?,,0,1
+835,ArrayStore: A Storage Manager for Complex Parallel Array Processing,,1,2
+1086,Processing Continuous Join Queries in Sensor Networks:a Filtering Approach,,1,1
+1359,Quality and Efficiency in High Dimensional Nearest Neighbor Search,,0,2
+1126,Track Join: Distributed Joins with Minimal Network Traffic,,1,3
+891,Leveraging Spatio-Temporal Redundancy for RFID Data Cleansing,,0,1
+1236,Ricardo: Integrating R and Hadoop,,1,2
+724,Plan Bouquets: Query Processing without Selectivity Estimation,http://dx.doi.org/10.1145/2588555.2588566.,0,3
+1275,Local Graph Sparsification for Scalable Clustering,,1,1
+727,Descriptive and Prescriptive Data Cleaning Anup Chalamalla1,,0,2
+1377,Pay-As-You-Go ? An Adaptive Approach to Provide Full Context-Aware Text Search over Document Content,,1,3
+819,Analyzing the Energy Efficiency of a Database Server,,0,1
+1341,Efficient Cohesive Subgraphs Detection in Parallel,,1,2
+1215,Building Community-Centric Information Exploration Applications on Social Content Sites,,0,3
+1331,Discovering Queries based on Example Tuples,,1,1
+1280,Morsel-Driven Parallelism: A NUMA-Aware Query Evaluation Framework for the Many-Core Age,,0,2
+740,Data Generation using Declarative Constraints,,1,3
+1384,Efficient Algorithms for Optimal Location Queries in Road Networks,,0,1
+995,"JECB: a Join-Extension, Code-Based Approach to OLTP Data Partitioning",,1,2
+1351,A Hadoop Based Distributed Loading Approach to Parallel Data Warehouses,,0,3
+1370,Searching Trajectories by Locations - An Efficiency Study,,1,1
+1281,Graphical XQuery in the AquaLogic Data Services Platform,,0,2
+1312,Efficiently Incorporating User Feedback into Information Extraction and Integration Programs,,1,3
+1110,On-the-Fly Token Similarity Joins in Relational Databases,,0,1
+1092,BE-Tree: An Index Structure to Efficiently Match Boolean Expressions over High-dimensional Discrete Space,,1,2
+1303,Durable Write Cache in Flash Memory SSD for Relational and NoSQL Databases,,0,3
+859,Ranking Distributed Probabilistic Data Feifei Li1 Ke Yi2 Jeffrey Jestes1,,1,1
+854,Druid A Real-time Analytical Data Store,,0,2
+870,Explainable Security for Relational Databases,,0,1
+832,ONDUX: On-Demand Unsupervised Learning for Information Extraction,,1,2
+846,Low Overhead Concurrency Control for Partitioned Main Memory Databases,,0,3
+1256,Query Simplification: Graceful Degradation for Join-Order Optimization,,1,1
+955,Efficient Summarization Framework for Multi-Attribute Uncertain Data,,0,2
+812,Robust Set Reconciliation ,,1,3
+1020,Finding Shortest Path on Land Surface,,1,2
+879,Diverse and proportional Size-l Object Summaries for Relational Keyword Search,,0,3
+978,Hadoop's Adolescence An analysis of Hadoop usage in scientific workloads,,1,1
+946,Truss Decomposition in Massive Networks,,0,2
+957,Robust Estimation of Resource Consumption for SQL Queries using Statistical Techniques,,1,3
+912,Efficient Reachability Query Evaluation in Large Spatiotemporal Contact Datasets,,0,1
+1041,XORing Elephants: Novel Erasure Codes for Big Data,,1,2
+771,On Differentially Private Frequent Itemset Mining,,0,3
+855,Incremental and Accuracy-Aware Personalized PageRank through Scheduled Approximation,,1,1
+1326,"DBToaster: Higher-order Delta Processing for Dynamic, Frequently Fresh Views",,0,2
+1118,PerfXplain: Debugging MapReduce Job Performance,,1,3
+899,Stubby: A Transformation-based Optimizer for MapReduce Workflows,,0,1
+1314,Keyword-aware Optimal Route Search,,1,2
+1160,Adding Logical Operators to Tree Pattern Queries on Graph-Structured Data,,0,3
+844,ERA: Efficient Serial and Parallel Suffix Tree Construction for Very Long Strings,,1,1
+1068,Schema-As-You-Go: On Probabilistic Tagging and Querying of Wide Tables,,0,2
+1243,"REX: Recursive, Delta-Based Data-Centric Computation",,1,3
+1174,Answering Table Queries on the Web using Column Keywords,,0,1
+796,OLTP on Hardware Islands,,1,2
+750,Efficient Implementation of Generalized Quantification in Relational Query Languages,,0,3
+926,Sharing Data and Work Across Concurrent Analytical Queries,,1,1
+731,NeMa: Fast Graph Search with Label Similarity,,0,2
+1078,Efficient Verification of Web-Content Searching Through Authenticated Web Crawlers,,1,3
+1010,Computing Immutable Regions for Subspace Top-k Queries,,0,1
+774,Direction-Preserving Trajectory Simplification,,1,2
+1070,Top-K Nearest Keyword Search on Large Graphs,,0,3
+1199,Answering Top-k Queries Over a Mixture of Attractive and Repulsive Dimensions,,1,1
+1232,Processing Analytical Queries over Encrypted Data,,0,2
+686,IS-LABEL: an Independent-Set based Labeling Scheme for Point-to-Point Distance Querying,,1,3
+1322,Memory Efficient Minimum Substring Partitioning,,0,1
+1282,Queries with Guarded Negation Vince Ba,,1,2
+1046,Real Time Discovery of Dense Clusters in Highly Dynamic Graphs:  Identifying Real World Events in Highly Dynamic Environments,,0,3
+1239,CorrectDB: SQL Engine with Practical Query Authentication,,1,1
+973,Relational Approach for Shortest Path Discovery over Large Graphs,,0,2
+744,M3R: Increased Performance for In-Memory Hadoop Jobs,,1,3
+1149,A Storage Advisor for Hybrid-Store Databases ,,0,1
+1030,Efficient Indexing for Diverse Query Results,,1,2
+850,"PARIS: Probabilistic Alignment of Relations, Instances, and Schema",,0,3
+1353,The Yin and Yang of Processing Data Warehousing Queries on GPU Devices,,1,1
+1079,Partitioning and Ranking Tagged Data Sources,,0,2
+1157,How to Price Shared Optimizations in the Cloud,,1,3
+1151,Efficient Querying of Inconsistent Databases with Binary Integer Programming,,0,1
+1051,Schema Extraction for Tabular Data on the Web,,1,2
+1228,Scaling Factorization Machines to Relational Data,,0,3
+1048,Privacy Preservation by Disassociation,,1,1
+962,An In-depth Comparison of Subgraph Isomorphism Algorithms in Graph Databases,,0,2
+984,Semi-Automatic Index Tuning: Keeping DBAs in the Loop,,1,3
+1250,Supporting User-Defined Functions on Uncertain Data,,0,1
+709,A Data-Based Approach to Social Influence Maximization,,1,2
+1054,Mining Flipping Correlations from Large Datasets with Taxonomies,,0,3
+775,Optimal Algorithms for Crawling a Hidden Database in the Web,,1,1
+754,Answering Queries using Views over Probabilistic XML: Complexity and Tractability,,0,2
+1287,Muppet: MapReduce-Style Processing of Fast Data,,1,3
+921,ReStore: Reusing Results of MapReduce Jobs,,0,1
+1230,Spinning Fast Iterative Data Flows Stephan Ewen 1 Kostas Tzoumas 2 Moritz Kaufmann 3,,1,2
+797,Explanation-Based Auditing,,0,3
+951,CrowdER: Crowdsourcing Entity Resolution,,1,1
+1386,Histograms as a Side Effect of Data Movement for Big Data,,0,2
+1120,FDB: A Query Engine for Factorised Relational Databases,,1,3
+762,Cologne: A Declarative Distributed Constraint Optimization Platform,,0,1
+942,Fast Updates on Read-Optimized Databases Using Multi-Core CPUs,,1,2
+699,A Comparison of Knives for Bread Slicing,http://infosys.cs.uni-saarland.de,0,3
+1295,Making Queries Tractable on Big Data with Preprocessing (through the eyes of complexity theory),,1,1
+1249,Multilingual Schema Matching for Wikipedia Infoboxes,,0,2
+1072,Don¡¯t Thrash: How to Cache Your Hash on Flash,,1,3
+794,Serializable Snapshot Isolation in PostgreSQL,,0,1
+687,Human-powered Sorts and Joins,,1,2
+757,Indexing the Earth Mover¢® ?s Distance Using Normal Distributions,,0,3
+976,sDTW: Computing DTW Distances using Locally Relevant Constraints based on Salient Feature Alignments,,1,1
+880,Practical Differential Privacy via Grouping and Smoothing,,0,2
+929,K-Reach: Who is in Your Small World,,1,3
+1154,Efficient Indexing and Querying over Syntactically Annotated Trees,,0,1
+1002,The Complexity of Social Coordination,,1,2
+1292,Efficient SimRank-based Similarity Join Over Large Graphs ,,0,3
+1357,Distributed GraphLab: A Framework for Machine Learning and Data Mining in the Cloud,,1,1
+983,Exploiting Evidence from Unstructured Data to Enhance Master Data Management,,0,2
+861,Large Scale Cohesive Subgraphs Discovery for Social Network Visual Analysis,,1,3
+863,Compacting Transactional Data in Hybrid OLTP&OLAP Databases,,0,1
+1064,Mining Statistically Significant Substrings using the Chi-Square Statistic,,1,2
+1290,Efficient Processing of k Nearest Neighbor Joins using MapReduce,,0,3
+1319,CDAS: A Crowdsourcing Data Analytics System,,1,1
+1111,Early Accurate Results for Advanced Analytics on MapReduce,,0,2
+1365,On Scaling Up Sensitive Data Auditing,,1,3
+1116,An Analysis of Structured Data on the Web,,0,1
+1176,Generating Exact- and Ranked Partially-Matched Answers to Questions in Advertisements,,1,2
+1380,Actively Soliciting Feedback for Query Answers in Keyword Search-Based Data Integration,,0,3
+684,Probabilistic Databases with MarkoViews,,1,1
+1375,Efficient Subgraph Matching on Billion Node Graphs,,0,2
+867,View Selection in Semantic Web Databases,,1,3
+1187,Learning Expressive Linkage Rules using Genetic Programming,,0,1
+963,Pushing the Boundaries of Crowd-enabled Databases  with Query-driven Schema Expansion,,1,2
+1300,Towards Energy-Efficient Database Cluster Design,,0,3
+890,Skyline Operator on Anti-correlated Distributions,,1,1
+919,Query Optimization over Crowdsourced Data,,0,2
+1125,The MADlib Analytics Library,"http://madlib.net,",1,3
+1262,On the Complexity of Query Result Diversification,,1,2
+1168,Improving Flash Write Performance by Using Update Frequency,,0,3
+1361,Distribution-Based Query Scheduling,,1,1
+1323,A Data-adaptive and Dynamic Segmentation Index for Whole Matching on Time Series ,,0,2
+716,On Predictive Modeling for Optimizing Transaction Execution in Parallel OLTP Systems,,1,3
