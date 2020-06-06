@@ -11,6 +11,7 @@ An Algorithm for Peer Reviewer Recommendation Based on Scholarly Activity Assess
 ### Version History
 
 * v.1.0 : 심사자 추천 알고리즘
+* v.1.1(to do) : add 슈도코드 on Readme
 
 ### Contacts
 
