@@ -4,27 +4,25 @@ An Algorithm for Peer Reviewer Recommendation Based on Scholarly Activity Assess
 ---
 
 ### Abstract
-> The editors make great efforts to select appropriate judges for fair and reliable peer review of submitted manuscripts. The editor considers whether the reviewer and authors have a stake in the interest, as well as whether the reviewer has sufficient expertise in reviewing the manuscript. (Omit content) This code proposes a reviewer recommendation algorithm that recommends appropriate reviewers to editors based on the evaluation of these academic activities.
+> Journal editors are putting a lot of effort into selecting appropriate reviewers for fair and reliable peer review of submitted manuscripts. Editors consider whether the reviewers have sufficient expertise in reviewing the manuscripts and have no affinity with any of the authors of manuscripts. The affinity can be evaluated by whether any of the reviewers has been a coauthor and/or a coworker in a common institution with any of the authors of the manuscript. The expertise depends on the similarity of the research topic between the reviewer’s published papers and the submitted manuscripts. In this paper we propose an algorithm to recommend appropriate reviewers to editors, based on the assessment of these scholarly activities and achievements. To implement this algorithm, TextRank and GenSim library are used in order to extract feature sets from abstract and introduction sections of both submitted manuscripts and the reviewer candidates’ papers. And then based on the extracted feature sets, expertise and affinity check are implemented. To evaluate the performance of this algorithm, an experiment has been conducted with a data set of over 1,000 papers in the field of DB research. The experiment consists of expertise check based on Max Similarity and/or topic classification, and affinity check by using 2-mode network matrix operations. Experimental results show that the recommendation algorithm is reasonable on the basis of scholarly activity assessment.
 
->  편집자는 제출된 원고(manuscript)의 공정하고 신뢰할 수 있는 동료 심사를 위한 적절한 심사자를 선정하는 데 많은 노력을 기울이고 있다. 편집자는 심사자와 저자들 간의 이해 관계 출동 여부는 물론, 심사자가 해당 원고를 심사하는데 있어 충분한 전문성을 갖고 있는지 고려한다. (중간 생략) 본 코드은 이와 같은 학술 활동의 평가에 근거하여 적절한 심사자를 편집자에게 추천하는 심사자 추천 알고리듬을 제안한다.
+### Author Summary
+> Dong-Hoon Choi is a distinguished researcher in Korea Institute of Science and Technology Information. Young Rock Kim is a professor in Graduate School of Education, Hankuk University of Foreign Studies. Jin-Woo Hyun and Tae-Su Park are research fellows in Hankuk University of Foreign Studies.
 
 ### Version History
 
-* v.1.0 : 심사자 추천 알고리즘
-* v.1.1(to do) : add 슈도코드 on Readme
+* v.1.0 : First Release
 
 ### Contacts
 
-현진우, hyunjw0123@gmail.com
+Young Rock Kim, rocky777@hufs.ac.kr
 
-> 한국외대 컴퓨터공학 | 언어공학\
-KYR_MachineLearing_LAB\
-SPELIX Inc. R&D Center
+> Major in Mathematics Education, Graduate School of Education, Hankuk University of Foreign Studies, Seoul 02450, Republic of Korea
 
 
 ### License
 
-* 본 코드는 원저자의 정책과 동일하게 Apache-2.0 라이선스 하에 공개되어 있습니다.
-* 본 코드는 비상업적 목적으로 한정합니다. 상업적인 목적을 위해서는 위의 Contacts로 연락해 주세요.
-* 본 코드에 추가/수정한 코드의 경우에도 비상업적 목적으로 한정합니다. 상업적인 목적을 위해서는 위의 Contacts로 연락해 주세요.
-* 심사자 추천 기술 적용 및 협업 등의 문의를 환영합니다.
+* This code is released under the Apache-2.0 license in accordance with the original author's policy.
+* This code is for non-commercial use only. For commercial purposes, please contact us at the Contacts above.
+* Code added/modified to this code is limited to non-commercial purposes. For commercial purposes, please contact us at the Contacts above.
+* We welcome inquiries about application of reviewer-recommended technology and collaboration.
