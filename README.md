@@ -9,10 +9,6 @@ An Algorithm for Peer Reviewer Recommendation Based on Scholarly Activity Assess
 ### Author Summary
 > Dong-Hoon Choi is a distinguished researcher in Korea Institute of Science and Technology Information. Young Rock Kim is a professor in Graduate School of Education, Hankuk University of Foreign Studies. Jin-Woo Hyun and Tae-Su Park are research fellows in Hankuk University of Foreign Studies.
 
-### Version History
-
-* v.1.0 : First Release
-
 ### Contacts
 
 Young Rock Kim, rocky777@hufs.ac.kr
